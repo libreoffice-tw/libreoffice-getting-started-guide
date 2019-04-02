@@ -1,0 +1,1351 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6003-StylesAndTemplates.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Chapter 3<g id="1"/>Using Styles and Templates</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[3]">
+        <source>Using Consistent Formatting in Your Documents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="2" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2018 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="4">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="5">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="6" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>This book is adapted and updated from <g id="8">Getting Started with OpenOffice.org 3.3</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="9" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>To <g id="10">t</g>his <g id="11">e</g>dition<x id="12" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Paul Figueiredo</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>To <g id="14">p</g>revious <g id="15">e</g>ditions<x id="16" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Michele Zarri</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Daniel Carrera</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Peter Hillier-Brook</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Peter Kupfer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Gary Schnabl</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Janet Swisher</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Feedback<x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="19">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="20" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Publication date and software version<x id="21" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published <g id="22">September </g>2018. Based on LibreOffice 6.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]">
+        <source><x id="23" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-start[0]"/>Note for <g id="24">m</g>ac<g id="25">OS</g> users<x id="26" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[6]">
+        <source>Some keystrokes and menu items are different on <g id="27">m</g>ac<g id="28">OS</g> from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Mac<g id="29">OS</g> equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="30">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source><g id="31">Control+click</g> or <g id="32">right-click</g> depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Opens a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl (Control)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (Command)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="33">Shift</g>+⌘+<g id="34">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+T</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the <g id="35">sidebar </g>Styles <g id="36">deck</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="37"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="38"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>To this edition<g id="39"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>To previous editions<g id="40"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Feedback<g id="41"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Publication date and software version<g id="42"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Note for macOS users<g id="43"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Direct formatting<g id="44"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>What are styles?<g id="45"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>Applying styles<g id="46"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Using the Styles menu in Writer<g id="47"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Using the sidebar Styles deck<g id="48"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Using Fill Format Mode<g id="49"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Using the Set Paragraph Style list<g id="50"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Using keyboard shortcuts<g id="51"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Direct formatting and Style formatting<g id="52"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Creating and modifying styles<g id="53"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Changing a style using the Styles deck<g id="54"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Updating a style from a selection<g id="55"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Using AutoUpdate<g id="56"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Updating styles from a document or template<g id="57"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Creating new (custom) styles<g id="58"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>Creating a new style using the New Style dialog<g id="59"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Creating a new style from a selection<g id="60"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>Dragging and dropping to create a style<g id="61"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>Adding table styles in Writer<g id="62"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[26]/text:a[0]">
+        <source>Copying styles from a template or document<g id="63"/>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[27]/text:a[0]">
+        <source>Deleting styles<g id="64"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[28]/text:a[0]">
+        <source>What is a template?<g id="65"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[29]/text:a[0]">
+        <source>Using a template to create a document<g id="66"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[30]/text:a[0]">
+        <source>Creating a document from the Templates dialog<g id="67"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[31]/text:a[0]">
+        <source>Creating a document from a template in the Start Center<g id="68"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[32]/text:a[0]">
+        <source>Creating a template<g id="69"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[33]/text:a[0]">
+        <source>Creating a template from a document<g id="70"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[34]/text:a[0]">
+        <source>Creating a template using a wizard<g id="71"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[35]/text:a[0]">
+        <source>Editing a template<g id="72"/>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[36]/text:a[0]">
+        <source>Updating a document from a changed template<g id="73"/>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[37]/text:a[0]">
+        <source>Adding templates obtained from other sources<g id="74"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[38]/text:a[0]">
+        <source>Installing individual templates<g id="75"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[39]/text:a[0]">
+        <source>Installing collections of templates<g id="76"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[40]/text:a[0]">
+        <source>Setting a default template<g id="77"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[41]/text:a[0]">
+        <source>Setting a template as the default<g id="78"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[42]/text:a[0]">
+        <source>Resetting the default template<g id="79"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[43]/text:a[0]">
+        <source>Organizing templates<g id="80"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[44]/text:a[0]">
+        <source>Creating a template category<g id="81"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[45]/text:a[0]">
+        <source>Deleting a template category<g id="82"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[46]/text:a[0]">
+        <source>Moving a template<g id="83"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[47]/text:a[0]">
+        <source>Deleting a template<g id="84"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[48]/text:a[0]">
+        <source>Importing a template<g id="85"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[49]/text:a[0]">
+        <source>Exporting a template<g id="86"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[50]/text:a[0]">
+        <source>Examples of style use<g id="87"/>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[51]/text:a[0]">
+        <source>Defining a different first page for a document<g id="88"/>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[52]/text:a[0]">
+        <source>Dividing a document into chapters<g id="89"/>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[53]/text:a[0]">
+        <source>Changing page orientation within a document<g id="90"/>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[54]/text:a[0]">
+        <source>Displaying different headers on right and left pages<g id="91"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[55]/text:a[0]">
+        <source>Controlling page breaks automatically<g id="92"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[56]/text:a[0]">
+        <source>Compiling an automatic table of contents<g id="93"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[57]/text:a[0]">
+        <source>Defining a sequence of paragraph styles<g id="94"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[58]/text:a[0]">
+        <source>Formatting a table in Writer<g id="95"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="96" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Direct formatting<x id="97" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>The key idea to use computers in document production is to split a document in the combination of contents and formatting. While contents is originated in human intellectual activity, formatting is a task computers can perform easily and is often repetitive.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>Formatting a document can be manual or automated. The manual formatting or direct formatting is performed when user format each element of the document individually, as it was done at times when typewriters were used in offices, page by page. Direct formatting is a repetitive activity where, for example, you apply bold characters to several words, set individual margins for each paragraph, or change font size of a heading.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>In contrast, style formatting is a modern way to let computers format documents much more efficiently and reduce the time spent in direct formatting.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="98" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>What are <x id="99" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark[0]"/><x id="100" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark[1]"/>styles?<x id="101" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source><g id="102">Style</g> are a set of formats that you can apply to selected pages, text, frames, and other elements in your document to quickly change their appearance. Applying a style often means applying a whole group of formats at the same time.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>Many people manually format paragraphs, words, tables, page layouts, and other parts of their documents without paying any attention to styles. They are accustomed to writing documents according to <g id="103">physical</g> attributes. For example, you might specify the font family, font size, and any formatting such as bold or italic, like a typewriter described above.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>Styles are <g id="104">logical</g> attributes. Using styles means that you stop saying “font size 14pt, Times New Roman, bold, centered” and you start saying “Title” because you have defined the “Title” style to have those characteristics. In other words, using styles means that you shift the emphasis from what the text (or page, or other element) looks like, to what the text <g id="105">is</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>Styles help improve consistency in a document. They also make major formatting changes easy. For example, you may decide to change the indentation of all paragraphs, or change the font of all titles. Doing this manually for a long document may require making individual changes in dozens of places. By contrast, when you use styles, you only need to make a single change.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source>In addition, styles are used by LibreOffice for many processes, even if you are not aware of them. For example, Writer relies on heading styles (or other styles you specify) when it compiles a table of contents. Some common examples of style use are given in “<g id="106"><x id="107" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/text:span[0]"/></g>” on page <g id="108"><x id="109" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/text:span[1]"/></g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>LibreOffice supports the following types of styles:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source><g id="110">Page styles</g> include margins, headers and footers, borders and backgrounds. In Calc, page styles also include the sequence for printing sheets.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[1]/text:p[0]">
+        <source><g id="111">Paragraph styles</g> control all aspects of a paragraph’s appearance, such as text alignment, tab stops, line spacing, and borders, and can include character formatting.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[2]/text:p[0]">
+        <source><g id="112">Character styles</g> affect selected text within a paragraph, such as the font and size of text, or bold and italic formats.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[3]/text:p[0]">
+        <source><g id="113">Table Styles</g> applies predefined formats to tables and tables elements in a text document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[4]/text:p[0]">
+        <source><g id="114">Frame styles</g> are used to format graphic and text frames, including text wrap, borders, backgrounds, and columns.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[5]/text:p[0]">
+        <source><g id="115">List styles</g> allow you to select, format, and position numbers or bullets in lists.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[6]/text:p[0]">
+        <source><g id="116">Cell styles</g> include fonts, alignment, borders, background, number formats (for example, currency, date, number), and cell protection.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[7]/text:p[0]">
+        <source><g id="117">Graphics styles</g> in drawings and presentations include line, area, shadowing, transparency, font, connectors, dimensioning, and other attributes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[8]/text:p[0]">
+        <source><x id="118" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[8]/text:p[0]/text:soft-page-break[0]"/><g id="119">Presentation styles</g> include attributes for font, indents, spacing, alignment, and tabs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>Different styles are available in the various components of LibreOffice, as listed in Table <x id="120" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>LibreOffice comes with many predefined styles. You can use the styles as provided, modify them, or create new styles, as described in this chapter.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>Table <x id="121" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]"/>. Styles available in LibreOffice components</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Style Type</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Writer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Calc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[3]/text:p[0]">
+        <source>Draw</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[4]/text:p[0]">
+        <source>Impress</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Page</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Paragraph</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Character</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>Frame</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]">
+        <source>Numbering</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]">
+        <source>Table</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]">
+        <source>Cell</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[2]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[0]/text:p[0]">
+        <source>Presentation</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[3]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[4]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[0]/text:p[0]">
+        <source>Graphics</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[1]/text:p[0]">
+        <source>(included in Frame styles)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[3]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[4]/text:p[0]">
+        <source>X</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="122" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/>Applying styles<x id="123" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>LibreOffice provides several ways for you to select styles to apply:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>The Styles menu in Writer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]">
+        <source>The Styles deck in the Sidebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[2]/text:p[0]">
+        <source>Fill Format Mode</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[3]/text:p[0]">
+        <source>Apply Style List in the Formatting toolbar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>Keyboard shortcuts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="124" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/>Using the Styles menu in Writer<x id="125" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source>The Styles menu has the most important paragraph, character, and list styles for almost every text document, with an extra entry for custom style management options listed in the bottom of the menu. The Styles menu does not have styles for frames, pages, or tables.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>To apply a paragraph style, position the cursor anywhere in the paragraph, and then select one of the paragraph styles in the <g id="126">Styles</g> menu. To apply a character style to several characters or more than one word, select the characters first and apply the character style from the menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source>You cannot add custom styles to the Styles menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="127" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/>Using <x id="128" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:alphabetical-index-mark[0]"/>the sidebar Styles deck<x id="129" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>The Styles deck (called Styles and Formatting in some installations) includes the most complete set of tools for styles. To use it for applying styles:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>Select <g id="130">View &gt; Styles</g> or <g id="131">Styles &gt; Manage Styles</g> from the Menu bar, or press <g id="132">F11</g> (<g id="133">⌘+T </g>on a Mac), or click the Styles tab in the Sidebar (<g id="134">View &gt; Sidebar</g> to open it).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>The Styles deck shows previews of the styles available. Figure <x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]"/><g id="136"/>shows the panel for Writer, with Paragraph Styles visible.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source><x id="137" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Select one of the buttons at the top left of the Styles deck to display a list of styles in that category.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[1]/text:p[0]">
+        <source>To apply an existing style, position the insertion point in the paragraph, frame, page, or word, and then double-click the name of the style in one of these lists. To apply a character style to more than one word, select the characters first.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>At the bottom of the Styles deck is a drop-down list. In Figure <x id="138" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]"/><g id="139"/>the panel might show <g id="140">Applied Styles</g>, meaning the list includes only the styles used in the document. You can choose to show all styles or other groups of styles, for example only custom styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="141" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="142" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Styles deck for Writer, showing paragraph styles</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="143" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/>Using Fill Format Mode<x id="144" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source><x id="145" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]/text:alphabetical-index-mark[0]"/>Use Fill Format to apply a style to many different areas quickly without having to go back to the Styles deck and double-click every time. This method is quite useful when you need to format many scattered paragraphs, cells, or other items with the same style:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]">
+        <source>Open the Styles deck and select the style you want to apply.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[1]/text:p[0]">
+        <source>Select the <g id="146">Fill Format Mode</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[2]/text:p[0]">
+        <source>To apply a paragraph, page, or frame style, hover the mouse over the paragraph, page, or frame and click. To apply a character style, hold down the mouse button while selecting the characters. Clicking a word applies the character style for that word.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[3]/text:p[0]">
+        <source>Repeat step 3 until you have made all the changes for that style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[4]/text:p[0]">
+        <source>To quit Fill Format mode, click the <g id="147">Fill Format Mode</g> button again or press the <g id="148">Esc</g> key.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]">
+        <source>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>When this mode is active, a right-click anywhere in the document undoes the last Fill Format action. Be careful not to accidentally right-click and undo actions you want to keep.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="149" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/>Using <x id="150" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:alphabetical-index-mark[0]"/><x id="151" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:alphabetical-index-mark[1]"/>the Set Paragraph Style list<x id="152" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]">
+        <source>After you have used a paragraph style at least once in a document, the style name appears in the Set Paragraph Style list at the left-hand end of the Formatting toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source><x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:soft-page-break[0]"/>You can open this list and click the style you want, or you can use the up and down arrow keys to move through the list and then press <g id="154">Enter</g> to apply the highlighted style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>Select <g id="155">More</g> at the bottom of the Apply Style list to open the Styles deck.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Set Paragraph Style list on the Formatting toolbar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/>Using keyboard shortcuts<x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source>Some keyboard shortcuts for applying styles are predefined. For example, in Writer <g id="160">Ctrl+0</g> applies the <g id="161">Text body</g> style, <g id="162">Ctrl+1</g> applies the <g id="163">Heading 1</g> style, and <g id="164">Ctrl+2</g> applies the <g id="165">Heading 2</g> style. You can modify these shortcuts and create your own; see Chapter 14, Customizing LibreOffice, for instructions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="166" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/>Direct formatting and Style formatting<x id="167" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>Direct formatting (also called <g id="168">manual formatting</g> ) overrides styles, and you cannot remove the direct formatting by applying a style to it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>To remove manual formatting, select the text, right-click, and choose <g id="169">Styles &gt; Clear Direct Formatting</g> from the context menu, or select the text and press <g id="170">Ctrl+M</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="171" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:alphabetical-index-mark[0]"/>Creating and modifying styles<x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source>LibreOffice includes some predefined styles, but you can also create custom styles. You can modify both <g id="174"/>in several ways:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]">
+        <source>Change a style using the Styles deck</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[1]/text:p[0]">
+        <source>Update a style from a selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[2]/text:p[0]">
+        <source>Use AutoUpdate (paragraph and frame styles only)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[3]/text:p[0]">
+        <source>Load styles from another document or template</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]">
+        <source><x id="175" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>Any changes you make to a style are effective only in the current document. To change styles in more than one document, you need to change the template or copy the styles into the other documents as described on page <x id="176" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="177" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="178" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[0]"/>Changing a style using the Styles deck<x id="179" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]">
+        <source>To change an existing style using <x id="180" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/text:alphabetical-index-mark[0]"/>the Styles deck, open the Sidebar Styles deck, then right-click on the required style and select <g id="181">Modify</g> from the pop-up menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>The Style dialog displayed depends on the type of style selected. Each Style dialog has several tabs. See the chapters on styles in the user guides for details.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="182" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/><x id="183" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:alphabetical-index-mark[0]"/>Updating a style from a selection<x id="184" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>To update a style from a selection:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]">
+        <source>Open the Styles deck in the Sidebar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[1]/text:p[0]">
+        <source>In the document, select an item that has the format you want to adopt as a style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]">
+        <source>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>When updating a paragraph style, make sure that the selected paragraph contains unique properties. If it mixes font sizes or font styles, those mixed properties will remain the same as before.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]">
+        <source>In the Styles deck, select the style to update, then click on the arrow next to the <g id="185">New Style from Selection</g> icon and click <g id="186">Update Style</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="187" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="188" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Updating a style from a selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source>You can also modify styles using the submenu on each style in the Set Paragraph Style list on the Formatting toolbar (see Figure <x id="189" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="190" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="191" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Modifying a style from the Set Paragraph Style list</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="192" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/><x id="193" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark[0]"/>Using <x id="194" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark[1]"/>AutoUpdate<x id="195" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>AutoUpdate applies to paragraph and frame styles only. If the AutoUpdate option is selected on the Organizer page of the Paragraph Style or Frame Style dialog, applying direct formatting to a paragraph or frame using this style in your document automatically updates the style itself.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>If you are in the habit of manually overriding styles in your document, be sure that AutoUpdate is <g id="196">not </g>enabled.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="197" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/>Updating styles from a document or template<x id="198" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>You can update styles by copying (loading) them from a template or another document. See “<x id="199" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]"/>” on page <x id="200" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="201" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/><x id="202" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:alphabetical-index-mark[0]"/>Creating <x id="203" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:alphabetical-index-mark[1]"/>new (custom) styles<x id="204" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>You may want to add some new styles. You can do this by using either the New Style dialog or the New Style from Selection tool.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="205" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/><x id="206" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:alphabetical-index-mark[0]"/>Creating a new style using the New Style dialog<x id="207" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>To create a new style using <x id="208" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]/text:alphabetical-index-mark[0]"/>the New Style dialog, open the sidebar Styles deck and select the category of style (eg. paragraph, character, etc.) wish to create by clicking one of the icons at the top of the deck, then click the arrowhead on the right hand icon and select <g id="209">New</g> from the pop-up menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>If you want your new style to be linked with an existing style, first select that style from the list of styles shown in the deck, then right-click on the selected style and select <g id="210">New</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>If you <x id="211" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]/text:alphabetical-index-mark[0]"/>link styles and you later change the base style (for example, by changing the font from Times to Helvetica), all the linked styles will change as well. Sometimes this is exactly what you want; other times you do not want the changes to apply to all the linked styles. It pays to plan ahead.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>The dialogs and choices are the same for defining new styles and for modifying existing styles. See the chapters on styles in the user guides for details.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]">
+        <source><x id="212" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]">
+        <source>If a document needs custom styles derived from base styles, consider prefixing the name of the custom styles with a few characters to highlight them among other styles in the list. For example, you might name a modified Heading 1 style for an annual report <g id="213">AR Heading 1</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="214" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/><x id="215" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:alphabetical-index-mark[0]"/>Creating a new style from a selection<x id="216" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>You can create a new style by copying an existing manual format. This new style applies only to this document; it will not be saved in the template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]">
+        <source>Open the Styles deck and choose the category of style you want to create.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[1]/text:p[0]">
+        <source>In the document, select the item you want to save as a style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[2]/text:p[0]">
+        <source>In the Styles deck, select on the <g id="217">New Style from Selection</g> icon.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[3]/text:p[0]">
+        <source>In the Create Style dialog, type a name for the new style. The list shows the names of existing custom styles of the selected category. Click <g id="218">OK</g> to save the new style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="219" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="220" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Naming a new style created from a selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="221" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/><x id="222" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:alphabetical-index-mark[0]"/>Dragging and dropping to create a style<x id="223" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source>You can drag and drop a selection into the Styles deck to create a new style. The element to drag depends upon the LibreOffice application.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]">
+        <source>Writer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]">
+        <source>Select some text and drag it to the Styles deck. If Paragraph Styles are active, the paragraph style will be added to the list. If Character Styles are active, the character style will be added to the list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]">
+        <source>Calc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>Drag a cell selection to the Styles deck to create a cell style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]">
+        <source>Draw/Impress</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]">
+        <source>Select and drag a drawing object to the Styles deck to create a graphic style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="224" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/>Adding table styles in Writer<x id="225" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]">
+        <source>Table styles are stored in the LibreOffice user profile, and are available to all Writer documents. You can define new table styles following these steps:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]">
+        <source>Create a table and apply formatting for cells, backgrounds, borders and more.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]">
+        <source>Select the whole table.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[2]/text:p[0]">
+        <source><x id="226" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[2]/text:p[0]/text:soft-page-break[0]"/>Drag the table and drop in the Table Styles category of the Styles deck in the sidebar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source>Alternatively, </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]">
+        <source>Open menu <g id="227">Table &gt; AutoFormat Styles</g> and click the <g id="228">Add</g> button (Figure <x id="229" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[1]/text:p[0]">
+        <source>Enter a name for the new table style, click <g id="230">OK</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[2]/text:p[0]">
+        <source>The new table style is listed in the left pane of the dialog. Click <g id="231">OK</g> again to close the AutoFormat dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="233"><g id="234"/></g>Figure <x id="235" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Table autoformat styles</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]">
+        <source>The new table style can be applied to tables as described in <x id="236" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]"/><g id="237"/>on page <x id="238" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]">
+        <source><x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-start[0]"/>Copying styles from a template or document<x id="240" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]">
+        <source>You can copy styles into a document by loading them from a template or from another document:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]">
+        <source>Open the document you want to copy styles into.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]">
+        <source>In the Styles deck, click the arrow next to the <g id="241">New Style from Selection</g> icon, and then select <g id="242">Load Styles</g> (see Figure <x id="243" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[2]/text:p[0]">
+        <source>On the Load Styles dialog (Figure <x id="244" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[2]/text:p[0]"/>), find either a template or an ordinary document from which to copy styles. Click the <g id="245">From File</g> button to open a window from which to select the required document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[3]/text:p[0]">
+        <source>Select the categories of styles to copy from the checkboxes at the bottom of the dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[4]/text:p[0]">
+        <source>Select <g id="246">Overwrite</g> if you want to replace styles in the original document that have the same name as styles in the document from which you are importing styles. If this box is not selected, you will only copy styles whose names are not used in the original document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[5]/text:p[0]">
+        <source>Click <g id="247">OK</g> to copy the styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="248" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="249" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Copying styles from a template into the open document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]">
+        <source><x id="250" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]">
+        <source>If your document has a table of contents, and if you have used custom styles for headings, the heading levels associated with outline levels in <g id="251">Tools &gt; Outline Numbering</g> will revert to the defaults of Heading 1, Heading 2, and so on when you load Text Styles from a file that does not use the same custom styles. You will need to change these back to your custom heading styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]">
+        <source>Note: </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]">
+        <source>You cannot copy character style into a document. Table styles, including custom table styles are stored in your computer and are available to all Writer documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]">
+        <source><x id="252" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-start[0]"/><x id="253" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:alphabetical-index-mark[0]"/>Deleting styles<x id="254" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]">
+        <source>You cannot remove (delete) any of LibreOffice’s predefined styles from a document or template, even if they are not in use.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]">
+        <source>You can remove any user-defined (custom) styles; but before you do, you should make sure the styles are not in use in the current document. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]">
+        <source>To delete any unwanted styles, in the Styles deck select each one to be deleted (hold <g id="255">Ctrl</g> while selecting multiple styles), and then right-click on a selected style and select <g id="256">Delete</g> on the context menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[71]">
+        <source>If the style is not in use, it is deleted immediately without confirmation. If the style is in use, you receive a warning message asking you to confirm deletion.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]">
+        <source>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]">
+        <source>If you delete a style that is in use, all objects with that style will return to the default style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]">
+        <source><x id="257" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-start[0]"/>What is a template?<x id="258" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]">
+        <source>A <x id="259" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]/text:alphabetical-index-mark[0]"/><g id="260">template</g> is a model document that you use to create other documents. For example, you can create a template for business reports that has your company’s logo on the first page. New documents created from this template will always have your company’s logo on the first page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[74]">
+        <source>Templates can contain anything that regular documents can contain, such as text, graphics, a set of styles, and user-specific setup information such as measurement units, language, the default printer, and toolbar and menu customization.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]">
+        <source>All documents in LibreOffice are based on templates. You can create a specific template for any document type (text, spreadsheet, drawing, presentation). If you do not specify a template when you start a new document, then the document is based on the default template for that type of document. If you have not specified a default template, LibreOffice uses the blank template for that type of document that is installed with LibreOffice. See “<x id="261" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]"/>” on page <x id="262" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]"/><g id="263"/>for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[76]">
+        <source>You can create templates for Master Documents as well as for ordinary documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]">
+        <source><x id="264" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-start[0]"/><x id="265" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:soft-page-break[0]"/>Using a template to <x id="266" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:alphabetical-index-mark[0]"/><x id="267" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:alphabetical-index-mark[1]"/>create a <x id="268" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:alphabetical-index-mark[2]"/>document<x id="269" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]">
+        <source><x id="270" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-start[0]"/>Creating a document from the Templates dialog<x id="271" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]">
+        <source>To use a template to create a document:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[0]/text:p[0]">
+        <source>From the Menu bar, choose <g id="272">File &gt; New &gt; Templates</g>. You can also click on the small arrow next to the <g id="273">New</g> icon and select <g id="274">Templates</g>. The Templates dialog opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[1]/text:p[0]">
+        <source>From the listbox at the top of the dialog, select the category of template you want to use. All the templates contained in that folder are listed on the page (as shown in Figure <x id="275" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[2]/text:p[0]">
+        <source>Select the required template and click <g id="276">OK</g>, or double-click on the selected template. A new document based on the template opens in LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]">
+        <source>The template the document is based upon is listed in <g id="277">File &gt; Properties &gt; General</g>. The connection between the template and the document remains until the template is modified and, the next time that the document is opened, you choose not to update it to match the template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="278" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="279"><g id="280"/></g>Figure <x id="281" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Templates dialog, showing a selected template</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]">
+        <source><x id="282" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-start[0]"/>Creating a document from a template in the Start Center<x id="283" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[80]">
+        <source>You can create a document from the template view of the Start Center. The Start Center is visible when no other document is open.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]">
+        <source>To open the Templates dialog from the Start Center, click on the <g id="284">Templates</g> button in the left pane. The button is also a drop-down list to select the templates of a given type of document. The <g id="285">Manage Templates</g> option on the list opens the Templates dialog (Figure <x id="286" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]">
+        <source><x id="287" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-start[0]"/><x id="288" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:reference-mark-start[0]"/>Creating a template<x id="289" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-end[0]"/><x id="290" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]">
+        <source>You can create templates in two ways: by saving a document as a template or by using a wizard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]">
+        <source><x id="291" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-start[0]"/><x id="292" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:alphabetical-index-mark[0]"/>Creating a template from a document<x id="293" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]">
+        <source>In addition to formatting, any settings that can be added to or modified in a document can be saved within a template. For example, you can also save printer settings, and general behaviors set from <g id="294">Tools &gt; Options</g>, such as <g id="295">Paths</g> and <g id="296">Colors</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]">
+        <source>Templates can also contain predefined text, saving you from having to type it every time you create a new document. For example, a letter template may contain your name, address, and salutation.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]">
+        <source><x id="297" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]/text:soft-page-break[0]"/>You can also save menu and toolbar customization in templates; see <g id="298">Chapter 14, Customizing LibreOffice</g>, for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[86]">
+        <source>To create a template from a document and save it to My Templates:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]">
+        <source>Open a new or existing document of the type you want to make into a template (text document, spreadsheet, drawing, or presentation).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[1]/text:p[0]">
+        <source>Add any content that you want to appear in any document you create from the new template, for example company logo, copyright statement, and so on.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[2]/text:p[0]">
+        <source>Create or modify any styles that you want to use in the new template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[3]/text:p[0]">
+        <source>From the Menu bar, choose <g id="299">File &gt; Templates &gt; Save as Template</g>. The Save as Template dialog (Figure <x id="300" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[3]/text:p[0]"/>) opens, displaying the existing categories and a textbox to enter a name for the new template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[4]/text:p[0]">
+        <source>Select the My Templates folder.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[5]/text:p[0]">
+        <source>Click <g id="301">Save</g>. The template is saved and the dialog closes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="302" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="303" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Save as Template dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]">
+        <source>Although the Save as Template dialog shows no document type when saving a new template of any type, the template will appear on the correct tab (Documents, Spreadsheets, Presentations, Drawings) when you return to the Templates dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]">
+        <source><x id="304" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-start[0]"/><x id="305" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:alphabetical-index-mark[0]"/>Creating a template using a wizard<x id="306" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]">
+        <source>You can use wizards to create templates for letters, faxes, and agendas.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]">
+        <source>For example, the Fax Wizard guides you through the following choices:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]">
+        <source>Type of fax (business or personal)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[1]/text:p[0]">
+        <source>Document elements like the date, subject line (business fax), salutation, and complimentary close</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[2]/text:p[0]">
+        <source>Options for sender and recipient information (business fax)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[3]/text:p[0]">
+        <source>Text to include in the footer (business fax)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[91]">
+        <source>To create a template using a wizard:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]">
+        <source>From the Menu bar, choose <g id="307">File &gt; Wizards &gt; [type of template required]</g> (see Figure <x id="308" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[1]/text:p[0]">
+        <source>Follow the instructions on the pages of the wizard. This process is slightly different for each type of template, but the format is very similar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[2]/text:p[0]">
+        <source><x id="309" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[2]/text:p[0]/text:soft-page-break[0]"/>In the last section of the wizard, you can specify the template name which will show in the Templates dialog, and also the name and location for saving the template. The two names can be different but this may later cause confusion. The default location is your user templates directory, but you can choose a different location.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[3]/text:p[0]">
+        <source>To set the file name or change the directory, select the<g id="310"> </g><g id="311">Path</g> button (the three dots to the right of the location). The <g id="312">Save As</g> dialog opens. Make your selections and click <g id="313">Save</g> to close the dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="314" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="315"><g id="316"/></g>Figure <x id="317" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Creating a template using a wizard</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]">
+        <source>Finally, you can choose whether to create a new document from the template immediately, or manually change the template, and then click <g id="318">Finish</g> to save the template. For future documents, you can re-use the template created by the wizard, just like any other template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]">
+        <source>You may need to open the Templates dialog and click <g id="319">Refresh</g> on the <g id="320">Settings</g> menu to have any new templates appear in the listings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]">
+        <source><x id="321" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-start[0]"/><x id="322" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:alphabetical-index-mark[0]"/>Editing a template<x id="323" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]">
+        <source>You can edit a template’s styles and content, and then, if you wish, you can reapply the template’s styles to documents that were created from that template. You cannot reapply content.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]">
+        <source>To edit a template:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]">
+        <source>From the Menu bar, choose <g id="324">File &gt; Templates &gt; Manage Templates</g> or press <g id="325">Ctrl+Shift+N</g>. The Templates dialog opens. You can also open the Templates dialog from the Start Center.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[1]/text:p[0]">
+        <source>Navigate to the template that you want to edit. Click once on it to activate the file handling controls (see Figure <x id="326" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[1]/text:p[0]"/>). Right-click to open the context menu click <g id="327">Edit</g>. The template opens in LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[2]/text:p[0]">
+        <source>Edit the template as you would edit any other document. To save your changes, choose <g id="328">File &gt; Save </g>from the Menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]">
+        <source><x id="329" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-start[0]"/>Updating a document from a changed template<x id="330" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]">
+        <source>If you make any changes to a template and its styles, the next time you open a document that was created from the template before the changes, a confirmation message is displayed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]">
+        <source>To update the document:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="331">Update Styles</g> to apply the changed styles in the template to the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[1]/text:p[0]">
+        <source>Select <g id="332">Keep Old Styles</g> if you do not want to apply the changed styles in the template to the document (but see the Caution notice below).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[0]/text:p[0]">
+        <source><x id="333" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]">
+        <source>If you choose <g id="334">Keep Old Styles</g>, the document is no longer connected to the template, even though the template is still listed under <g id="335">File &gt; Properties &gt; General. </g>You can still import styles manually from the template, but to reconnect it to the template, you will have to copy it into an empty document based on the template. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]">
+        <source><x id="336" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-start[0]"/>Adding templates obtained from other sources<x id="337" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]">
+        <source>LibreOffice refers to sources for templates as repositories. A repository can be local (a directory on your computer to which you have downloaded templates) or remote (a URL from which you can download templates).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]">
+        <source>You can get to the official template repository by using the <g id="338">Browse Online Templates</g> button at the lower left-hand end of the Templates dialog, as shown in Figure <x id="339" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]"/>, or by typing <g id="340">https://extensions.libreoffice.org/templates</g> in your browser’s address bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]">
+        <source>On other websites you may find collections of templates that have been packaged into extension (OXT) files. These are installed a little differently, as described below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="341" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="342"><g id="343"/></g>Figure <x id="344" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Getting more templates for LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]">
+        <source><x id="345" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-start[0]"/>Installing individual templates<x id="346" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]">
+        <source>To install individual templates:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[0]/text:p[0]">
+        <source>Download the template and save it anywhere on your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]">
+        <source>Import the template into a template folder by following the instructions in “<x id="347" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]"/>” on page <x id="348" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[35]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]">
+        <source>You can manually copy new templates into the template folders. The location varies with your computer’s operating system. To learn where the template folders are stored on your computer, go to <g id="349">Tools &gt; Options &gt; LibreOffice &gt; Paths</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]">
+        <source><x id="350" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-start[0]"/>Installing collections of templates<x id="351" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]">
+        <source>The Extension Manager provides an easy way to install collections of templates that have been packaged as extensions. Follow these steps:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[0]/text:p[0]">
+        <source>Download the extension package (OXT file) and save it anywhere on your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[1]/text:p[0]">
+        <source>In LibreOffice, select <g id="352">Tools &gt; Extension Manager</g> from the Menu bar. In the Extension Manager dialog, click <g id="353">Add</g> to open a file browser window.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[2]/text:p[0]">
+        <source>Find and select the package of templates you want to install and click <g id="354">Open</g>. The package begins installing. You may be asked to accept a license agreement.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[3]/text:p[0]">
+        <source>When the package installation is complete, restart LibreOffice. The templates are available for use through <g id="355">File &gt; Templates &gt; Manage Templates</g> and <g id="356">File &gt; New &gt; Templates</g> and the extension is listed in the Extension Manager.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]">
+        <source><x id="357" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]/text:soft-page-break[0]"/>See Chapter 14, Customizing LibreOffice, for more about the Extension Manager.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]">
+        <source><x id="358" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:bookmark-start[0]"/><x id="359" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:reference-mark-start[0]"/>Setting <x id="360" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:alphabetical-index-mark[0]"/>a default template<x id="361" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:bookmark-end[0]"/><x id="362" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]">
+        <source>If you create a document by choosing <g id="363">File &gt; New &gt; Text Document</g> (or <g id="364">Spreadsheet</g>, <g id="365">Presentation</g>, or <g id="366">Drawing</g>) from the Menu bar, LibreOffice creates the document from the default template for that type of document. You can, however, change the default whenever you choose.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[0]/text:p[0]">
+        <source>Note for Microsoft Word users</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]">
+        <source>You may know that Microsoft Word employs a <g id="367">normal.dot</g> or <g id="368">normal.dotx</g> file for its default template and how to regenerate it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]">
+        <source>LibreOffice does not have a similar default template file; the “factory defaults” are embedded within the software.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[34]">
+        <source><x id="369" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[34]/text:bookmark-start[0]"/>Setting a template as the default<x id="370" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[34]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]">
+        <source>Most default settings, such as page size and page margins, can be changed in <g id="371">Tools &gt; Options</g>, but those changes apply only to the document you are working on. To make those changes the default settings for that document type, you need to replace the default template with a new one.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]">
+        <source>You can set any template displayed in the Templates dialog to be the default for that document type:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[0]/text:p[0]">
+        <source>From the Menu bar, choose <g id="372">File &gt; Templates &gt; Manage Templates</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[1]/text:p[0]">
+        <source>In the Templates dialog, open the category containing the template that you want to set as the default, then select the template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[2]/text:p[0]">
+        <source>Right-click on the selected template and click the <g id="373">Set as default</g> button (see Figure <x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[2]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]">
+        <source>The next time that you create a document of that type by choosing <g id="375">File &gt; New,</g> the document will be created from this template.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]">
+        <source><x id="376" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:bookmark-start[0]"/>Resetting the default template<x id="377" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]">
+        <source>To re-enable LibreOffice’s original default template for a document type as the default for that type:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[39]/text:list-item[0]/text:p[0]">
+        <source>In the Templates dialog, click the <g id="378">Action Menu</g> icon on the bottom left (Figure <x id="379" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[39]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[39]/text:list-item[1]/text:p[0]">
+        <source>Point to <g id="380">Reset Default Template</g> on the drop-down menu, and click <g id="381">Text Document</g> (or other template type).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]">
+        <source>These choices do not appear unless a custom template has been set as the default, as described in the previous section.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]">
+        <source>The next time that you create a document by choosing <g id="382">File &gt; New</g>, the document will be created from the original default template for the document type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="383" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="384" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Resetting the default template for text documents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]">
+        <source><x id="385" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:bookmark-start[0]"/><x id="386" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:soft-page-break[0]"/><x id="387" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:reference-mark-start[0]"/>Organizing templates<x id="388" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:bookmark-end[0]"/><x id="389" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]">
+        <source>LibreOffice can manage only those templates that are in its template folders or categories. You can create new template categories and use them to organize your templates. For example, you might have one template category for report templates and another for letter templates. You can also import and export templates.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[118]">
+        <source>To begin, choose <g id="390">File &gt; Templates &gt; Manage Templates</g> to open the Templates dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]">
+        <source><x id="391" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:bookmark-start[0]"/>Creating a template <x id="392" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:alphabetical-index-mark[0]"/>category<x id="393" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]">
+        <source>To create a template category:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[0]/text:p[0]">
+        <source>Click the <g id="394">Action</g> button of the Templates dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[1]/text:p[0]">
+        <source>Click <g id="395">New category</g> on the context menu (see Figure <x id="396" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[2]/text:p[0]">
+        <source>In the pop-up dialog, type a name for the new category and click <g id="397">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="398" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="399" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Creating a new category</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]">
+        <source>You cannot create a sub-category inside a template category in LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]">
+        <source><x id="400" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]/text:bookmark-start[0]"/>Deleting a template category<x id="401" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]">
+        <source>You cannot delete template categories supplied with LibreOffice. Nor can you delete any categories added by the Extension Manager unless you first remove the extension that installed them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]">
+        <source>However, you can delete a category that you created. <g id="402">Open the Templates dialog, choose the category from the </g><g id="403"><g id="404">Filters</g></g><g id="405"> drop-down lists at the top of the dialog. Then click the </g><g id="406"><g id="407">Settings</g></g><g id="408"> button and s</g>elect <g id="409">Delete</g> <g id="410">from the pop-up menu (See Figure </g><g id="411"><x id="412" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]/text:span[7]"/></g><g id="413">)</g>. When a message box appears asking you to confirm the deletion, click <g id="414">Yes</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]">
+        <source><x id="415" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]/text:bookmark-start[0]"/><x id="416" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]/text:reference-mark-start[0]"/>Moving a template<x id="417" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]/text:bookmark-end[0]"/><x id="418" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]">
+        <source>To move a template from one template category to another, select it in the Templates dialog, and click the <g id="419">Move</g> button in the bottom center of the dialog. In the popup dialog (Figure <x id="420" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]"/>), select the <g id="421">destination</g> category and click <g id="422">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="423" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="424" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Moving templates to another category</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]">
+        <source><x id="425" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:bookmark-start[0]"/><x id="426" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:alphabetical-index-mark[0]"/>Deleting a template<x id="427" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]">
+        <source>You cannot delete templates supplied with LibreOffice. Nor can you delete any templates installed by the Extension Manager except by removing the extension that installed them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]">
+        <source>However, you can delete templates that you have created or imported:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[0]/text:p[0]">
+        <source><g id="428">From the </g><g id="429"><g id="430">Filters</g></g><g id="431"> drop-down lists at the top of the </g>Templates dialog, select the category <g id="432"/>that contains the template you want to delete.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[1]/text:p[0]">
+        <source>Select the template to delete.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[2]/text:p[0]">
+        <source>Right-click <g id="433">on the template</g> to open the context menu and click <g id="434">Delete</g> (Figure <x id="435" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[2]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[3]/text:p[0]">
+        <source>A message box appears and asks you to confirm the deletion. Click <g id="436">Yes</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]">
+        <source><x id="437" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:bookmark-start[0]"/><x id="438" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:reference-mark-start[0]"/>Importing a template<x id="439" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:bookmark-end[0]"/><x id="440" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]">
+        <source>While it not essential to store templates in one of the folders listed for the Template path in <g id="441">Tools &gt; Options &gt; LibreOffice &gt; Paths</g> before you can use a template in LibreOffice, <g id="442">but</g> it is the easiest and most convenient way of managing templates. To import a template:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[0]/text:p[0]">
+        <source>In the Templates dialog, click the <g id="443">Import</g> button on the bottom right. The Select Category dialog appears.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[1]/text:p[0]">
+        <source>Find and select the category where you want to import the template and click <g id="444">OK</g>. A standard file browser window opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[2]/text:p[0]">
+        <source>Find and select the template that you want to import and click <g id="445">Open</g>. The file browser window closes and the template appears in the selected category.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[42]">
+        <source><x id="446" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[42]/text:bookmark-start[0]"/><x id="447" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[42]/text:alphabetical-index-mark[0]"/>Exporting a template<x id="448" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[42]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]">
+        <source>To export a template from a template category to another location in your computer or network:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[0]/text:p[0]">
+        <source>In the Templates dialog, locate the category that contains the template to export.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[1]/text:p[0]">
+        <source>Select the template that you want to export.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[2]/text:p[0]">
+        <source>Click the <g id="449">Export</g> button in the bottom right of the dialog. The Save As window opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[3]/text:p[0]">
+        <source>Find the folder into which you want to export the template and select <g id="450">Save</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]">
+        <source><x id="451" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:bookmark-start[0]"/><x id="452" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:soft-page-break[0]"/><x id="453" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:reference-mark-start[0]"/>Examples of style use<x id="454" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:bookmark-end[0]"/><x id="455" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]">
+        <source>The following examples of common use of page and paragraph styles are taken from Writer. There are many other ways to use styles; see the guides for the various components for details.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]">
+        <source><x id="456" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]/text:bookmark-start[0]"/><x id="457" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]/text:alphabetical-index-mark[0]"/>Defining <x id="458" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]/text:alphabetical-index-mark[1]"/>a different first page for a document<x id="459" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]">
+        <source>Many documents, such as letters and reports, have a first page that is different from the other pages in the document. For example, the first page of a letterhead typically has a different header, or the first page of a report might have no header or footer, while the other pages do. With LibreOffice, you can define the <g id="460">page style</g> for the first page and specify the style for the following pages to be applied automatically.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]">
+        <source>As an example, we can use the <g id="461">First Page</g> and <g id="462">Default</g> page styles that come with LibreOffice. Figure <x id="463" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]"/><g id="464"/>shows what we want to happen: the first page is to be followed by the default page, and all the following pages are to be in the <g id="465">Default</g> page style. Details are in Chapter 4, Formatting Pages, in the <g id="466">Writer Guide</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="467" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="468" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Flow of page styles</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[45]">
+        <source><x id="469" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[45]/text:bookmark-start[0]"/>Dividing a document into chapters<x id="470" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[45]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]">
+        <source>In a similar way, you can <x id="471" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]/text:alphabetical-index-mark[0]"/>divide a document into chapters. Each chapter might start with the <g id="472">First Page</g> style, with the following pages using the<g id="473"> Default</g> page style, as above. At the end of the chapter, insert a manual page break and specify the next page to have the <g id="474">First Page</g> style to start the next chapter, as shown in Figure <x id="475" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="476" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="477" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Dividing a document into chapters using page styles</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[46]">
+        <source><x id="478" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[46]/text:bookmark-start[0]"/>Changing <x id="479" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[46]/text:alphabetical-index-mark[0]"/>page <x id="480" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[46]/text:alphabetical-index-mark[1]"/>orientation within a document<x id="481" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[46]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]">
+        <source>A Writer document can contain pages in more than one orientation. A common scenario is to have <x id="482" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]/text:alphabetical-index-mark[0]"/>a <x id="483" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]/text:alphabetical-index-mark[1]"/>landscape page in the middle of a document, whereas the other pages are in a portrait orientation. This setup can also be created with page breaks and page styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]">
+        <source>To insert a landscape page in the middle of your document, insert a page break and select a page style with the landscape orientation on. LibreOffice default landscape page style is Landscape. You may have to adjust the other page properties such as headers, footers, and page numbering of the landscape style. To go back to the portrait page style, insert another page break and select the default portrait page style of your document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[47]">
+        <source><x id="484" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[47]/text:bookmark-start[0]"/><x id="485" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[47]/text:soft-page-break[0]"/><x id="486" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[47]/text:alphabetical-index-mark[0]"/>Displaying different headers on right and left pages<x id="487" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[47]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]">
+        <source>Page styles can be set up to have the facing left and right pages <g id="488">mirrored</g> or only right (first pages of chapters are often defined to be right-page only) or only left. When you insert a header on a page style set up for mirrored pages or right-and-left pages, you can have the contents of the header be the same on all pages or be different on the right and left pages. For example, you can put the page number on the left-hand edge of the left pages and on the right-hand edge of the right pages, put the document title on the right-hand page only, or make other changes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[48]">
+        <source><x id="489" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[48]/text:bookmark-start[0]"/>Controlling page breaks automatically<x id="490" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[48]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]">
+        <source>Writer automatically flows text from one page to the next. If you do not like the default settings, you can change them. For example, you can require a paragraph to start on a new page or column and specify the style of the new page. A typical use is for chapter titles to always start on a new right-hand (odd-numbered) page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[49]">
+        <source><x id="491" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[49]/text:bookmark-start[0]"/>Compiling an automatic table of contents<x id="492" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[49]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]">
+        <source>To compile an automatic table of contents, first apply styles to the headings you want to appear in the contents list, then use <g id="493">Tools &gt; Outline Numbering</g> to tell Writer which styles go with which level in the table of contents. By default, tables of contents use Heading styles, but you can use whatever combination of styles you prefer. See Chapter 4 for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[50]">
+        <source><x id="494" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[50]/text:bookmark-start[0]"/><x id="495" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[50]/text:alphabetical-index-mark[0]"/><x id="496" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[50]/text:alphabetical-index-mark[1]"/>Defining a sequence of paragraph styles<x id="497" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[50]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]">
+        <source><x id="498" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]/text:bookmark-start[0]"/>You can set up one paragraph style so that when you press <g id="499">Enter</g> at the end of that paragraph, the following paragraph automatically has the style you wish applied to it. For example, you could define a <g id="500">Heading 1</g> paragraph to be followed by a <g id="501">Text Body</g> paragraph. A more complex example would be: <g id="502">Title</g> followed by <g id="503">Author</g> followed by <g id="504">Abstract</g> followed by <g id="505">Heading 1</g> followed by <g id="506">Text Body</g>. By setting up these sequences, you can usually avoid having to apply styles manually.<x id="507" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[51]">
+        <source><x id="508" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[51]/text:bookmark-start[0]"/>Formatting a table in Writer<x id="509" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[51]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]">
+        <source>Tables in a Writer document can have a predefined set of formatting attributes applied, including cell background, font, emphasis, and number formatting (Figure <x id="510" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]"/>). To apply table styles, position the cursor in the table to be formatted and choose <g id="511">Table &gt; AutoFormat Styles</g> in the main menu and select a style from the dialog that appears. <g id="512"/>Or, alternatively, position the cursor in the table to be formatted and double click on a style listed in the <g id="513">Table Styles</g> tab of the <g id="514">Styles</g> menu or the <g id="515">sidebar</g>. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="516" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="517"><g id="518"/></g>Figure <x id="519" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Some table styles in LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]">
+        <source>For more information refer to the <g id="520">LibreOffice Writer guide, Chapter </g><g id="521"><g id="522">13:</g></g><g id="523"> Tables </g><g id="524"><g id="525">of Data</g></g><g id="526">.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Chapter 3  Using Styles and Templates</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Changing page orientation within a document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Formatting a table in Writer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Chapter 3  Using Styles and Templates</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Chapter 3  Using Styles and Templates</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

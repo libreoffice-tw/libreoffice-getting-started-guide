@@ -1,0 +1,901 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6015-KeyboardShortcuts.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Appendix A <g id="1"/><g id="2"/>Keyboard Shortcuts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2017 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="5">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="6">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="8" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="9" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>Feedback<x id="10" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="11">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="12" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>Acknowledgments<x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>This appendix is based on Appendix A of <g id="14">Getting Started with OpenOffice.org 3.3</g>. The contributors to that appendix are:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Peter Hillier-Brook</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Alexander Noël Dunne</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>John A Smith</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="15" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Publication date and software version<x id="16" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published <g id="17">August</g> 201<g id="18">8</g>. Based on LibreOffice <g id="19">6.0</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="20"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="21"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>Feedback<g id="22"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>Acknowledgments<g id="23"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Publication date and software version<g id="24"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Introduction<g id="25"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Assistive tools in LibreOffice<g id="26"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Tip for Macintosh users<g id="27"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>Getting help<g id="28"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>General keyboard shortcuts<g id="29"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Opening menus and menu items<g id="30"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Accessing a menu command<g id="31"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Running a toolbar command<g id="32"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Navigating and selecting with the keyboard<g id="33"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Controlling dialogs<g id="34"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Controlling macros<g id="35"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Managing documents<g id="36"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Editing<g id="37"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Selecting rows and columns in a database table opened by Ctrl+Shift+F4<g id="38"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Shortcut keys for drawing objects<g id="39"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Defining keyboard shortcuts<g id="40"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Further reading<g id="41"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="42" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Introduction<x id="43" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>You can use LibreOffice without requiring a pointing device, such as a mouse or touchpad, by using its built-in keyboard shortcuts.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>This appendix lists some of the most common built-in keyboard shortcuts that apply to all components of LibreOffice. For shortcuts specific to Writer, Calc, Impress, Draw, or Base, read the relevant component guide or search the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Warning</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>Some of the shortcuts listed here may not work if your operating system uses the same shortcuts for other tasks.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>To resolve any conflicts, assign different keys to these shortcuts by reconfiguring either LibreOffice (see Chapter 14) or your operating system (see system documentation).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="44" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>Assistive tools in LibreOffice<x id="45" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>In addition to keyboard shortcuts, LibreOffice supports some assistive technology tools like screen magnification software, screen readers, and on-screen keyboards. Please note that except for the Windows platform, accessibility support relies on Java technology for communications with assistive technology tools. This means that the first program startup may take a few seconds longer, because the Java runtime environment has to be started as well.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>A current list of supported assistive tools can be found on the Wiki at <g id="46">http://wiki.documentfoundation.org/Accessibility</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="47" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/>Tip for Macintosh users<x id="48" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>Some keystrokes are different on a Mac from those used in Windows and Linux. The following table gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Mac equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source><g id="49">Ctrl</g> (<g id="50">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="51">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source><g id="52">Shift</g>+⌘+<g id="53">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="54">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Styles and Formatting window</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="55" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/>Getting help<x id="56" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut Keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F1</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Opens the LibreOffice Help <g id="57">contents in the user default browser. If the local Help package is not installed, LibreOffice opens the online Help located in </g><g id="58"><g id="59">http://help.libreoffice.org</g></g><g id="60"> </g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+F1</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Turns the cursor into the <g id="61">What’s This?</g> question mark. Shows the tip for an item underneath the cursor. <g id="62">The shortcut does not work with the online help.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+F2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Shows tip for a selected item. <g id="63">The shortcut does not work with the online help.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Esc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>In LibreOffice Help: goes up one level. <g id="64">For Help online, the key is handled by the browser.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="65" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/><x id="66" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:soft-page-break[0]"/>General keyboard shortcuts<x id="67" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="68" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="69" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[0]"/>Opening menus and menu items<x id="70" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut Keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Alt+&lt;?&gt;</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Opens a menu where &lt;?&gt; is the underlined character of the menu you want to open. For example, <g id="71">Alt+F</g> opens the menu <g id="72">File.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[1]">
+        <source>With the menu open, you will again find underlined characters. You can access these menu items directly by pressing the underlined character key. Where two menu items have the same underlined character, press the character key again to move to the next item.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[2]">
+        <source>Example: to access the <g id="73">Printer Settings</g> item of the <g id="74">File</g> menu after opening it, press <g id="75">R</g> twice to move from the initial <g id="76">Digital Signatures </g>selection to <g id="77">Printer Settings.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[3]">
+        <source>There may be instances where an item in a menu has no underlined character. This will have to be clicked directly.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Esc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Closes an open menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Repeatedly pressing <g id="78">F6</g> switches the focus and circles through the following objects:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Menu bar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:list[0]/text:list-item[1]/text:p[0]">
+        <source>Every toolbar from top to bottom and from left to right</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:list[0]/text:list-item[2]/text:p[0]">
+        <source>Every free window from left to right</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:list[0]/text:list-item[3]/text:p[0]">
+        <source>Document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+F6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Switches through objects in the opposite direction.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+F6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Switches the focus to the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[6]/table:table-cell[0]/text:p[0]">
+        <source><g id="79">F10 </g>or<g id="80"> Alt</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Switches to the Menu bar and back.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Esc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>Closes an open menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="81" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/>Accessing a menu command<x id="82" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source>Press <g id="83">Alt</g> or <g id="84">F6</g> or <g id="85">F10</g> to select the first item on the menu bar (the <g id="86">File</g> menu). With the <g id="87">right‑arrow</g>, the next menu to the right is selected; with the <g id="88">left-arrow</g>, the previous menu. The <g id="89">Home</g> and <g id="90">End</g> keys select the first and the last item on the Menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>The <g id="91">down-arrow</g> opens a selected menu. An additional <g id="92">down-arrow</g> or <g id="93">up-arrow</g> moves the selection through the menu commands. The <g id="94">right-arrow</g> opens any existing submenus.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>Press <g id="95">Enter</g> to run the selected menu command.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="96" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/><x id="97" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:alphabetical-index-mark[0]"/>Running a toolbar command<x id="98" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>Press <g id="99">F6</g> repeatedly until the first icon on the toolbar is selected. Use the right and left arrows to select any icon on a horizontal toolbar. Similarly, use the up and down arrows to select any icon on a vertical toolbar. The <g id="100">Home</g> key selects the first icon on a toolbar, and the <g id="101">End</g> key the last.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>If the first object in the toolbar has a<g id="102">n editable</g> text field, like the <g id="103">Load URL</g> or the <g id="104">Paragraph Style</g>, the <g id="105">Home</g>, <g id="106">End</g>, <g id="107">Left</g> and <g id="108">Right</g> keys work on the text instead.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>Press <g id="109">Enter</g> to run the selected icon. If the selected icon normally demands a consecutive mouse action, such as inserting a rectangle, then pressing the <g id="110">Enter</g> key is not sufficient: in these cases press <g id="111">Ctrl+Enter</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source><x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:soft-page-break[0]"/>Press <g id="113">Ctrl+Enter</g> on an icon for creating a draw object. A draw object will be placed into the middle of the view, with a predefined size.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>Press <g id="114">Ctrl+Enter</g> on the Selection tool to select the first draw object in the document. If you want to edit, size, or move the selected draw object, first use <g id="115">Ctrl+F6</g> to move the focus into the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="116" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/>Navigating and selecting with the keyboard<x id="117" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source>You can navigate through a document and make selections with the keyboard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>To move the cursor, press the key or key combination given in the following table.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[1]/text:p[0]">
+        <source>To select the characters under the moving cursor, additionally hold down the <g id="118">Shift</g> key when you move the cursor.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Key</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Function</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Plus Ctrl key</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right, left arrow keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Moves the cursor one character to the left or to the right.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Moves the cursor one word to the left or to the right.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Up, down arrow keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Moves the cursor up or down one line.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>(<g id="119">Ctrl+Alt</g>) Moves the cursor up or down one paragraph.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Home</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Moves the cursor to the beginning of the current line.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Moves the cursor to the beginning of the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>End</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Moves the cursor to the end of the current line.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Moves the cursor to the end of the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>PgUp</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Scrolls up one page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Moves the cursor to the header.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>PgDn</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Scroll down one page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[6]/table:table-cell[2]/text:p[0]">
+        <source>Moves the cursor to the footer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="120" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/><x id="121" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:alphabetical-index-mark[0]"/>Controlling dialogs<x id="122" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source><x id="123" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]/text:bookmark-start[0]"/>When you open any dialog, one element (such as a button, an option field, an entry in a list box, or a checkbox) is highlighted or indicated by a dotted box around the field or button name. This element is said to have the focus on it.<x id="124" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut Keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Enter</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Activates selected button. In most cases where no button is selected, <g id="125">Enter</g> is equivalent to clicking <g id="126">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Esc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Closes dialog without saving any changes made while it was open. In most cases, <g id="127">Esc</g> is equivalent to clicking Cancel. When an open drop-down list is selected, <g id="128">Esc </g>closes the list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Spacebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Checks an empty checkbox. Clears a checked checkbox.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Up, down arrow keys </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Moves focus up and down a list. Increases or decreases value of a variable. Moves focus vertically within a section of dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Left, right arrow keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Moves focus horizontally within a section of a dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Tab</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Advances focus to the next section or element of a dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Tab</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>Returns focus to the previous section or element in a dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[8]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Alt+Down Arrow</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[8]/table:table-cell[1]/text:p[0]">
+        <source>Shows items in a drop-down list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="129" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="130" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:soft-page-break[0]"/>Controlling macros<x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut Keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="132">Ctrl+*</g> (multiplication sign: on number pad only)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Runs a macro field. (See Chapter 9 for more about macros.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Ctrl+Q</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Stops a running macro.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/><x id="134" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:alphabetical-index-mark[0]"/>Managing documents<x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut Keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="136">Ctrl+F4</g> or <g id="137">Alt+F4</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Closes the current document. Closes LibreOffice when the last open document is closed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+O</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Launches the Open dialog to open a document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+S</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Saves the current document. If you are working on a previously unsaved file, the shortcut launches the Save As dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+N</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Creates a new document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Ctrl+N</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Opens the Templates and Documents dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+P</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Opens the Print dialog to print the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Q</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>Closes the application.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[8]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Del</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[8]/table:table-cell[1]/text:p[0]">
+        <source>In the Save and Open dialogs, deletes the selected files or folders. Items can be retrieved from the Recycle Bin (Trash), if your desktop has one.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[9]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Del</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[9]/table:table-cell[1]/text:p[0]">
+        <source>In the Save and Open dialogs, deletes the selected files or folders. Items are permanently deleted: they can not be retrieved from the Recycle Bin.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[10]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Backspace</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[10]/table:table-cell[1]/text:p[0]">
+        <source>In the Save and Open dialogs, shows contents of the current directory’s parent folder. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="138" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>Editing<x id="139" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut Keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+X, Shift+Del</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Cuts selected items.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+C, Ctrl+Ins</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Copies selected items to the clipboard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+V, Shift+Ins</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Pastes copied or cut items from the clipboard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Shift+V</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Opens the Paste Special dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+A</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Selects all.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Z</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Undoes last action.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Y</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>Redoes last action.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[8]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Shift+Y</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[8]/table:table-cell[1]/text:p[0]">
+        <source>Repeats last command.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[9]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+F</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[9]/table:table-cell[1]/text:p[0]">
+        <source>Opens the Find dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[10]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+H</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[10]/table:table-cell[1]/text:p[0]">
+        <source>Opens the Find &amp; Replace dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[11]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Shift+F</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[11]/table:table-cell[1]/text:p[0]">
+        <source>Searches for the last entered search term.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[12]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Shift+R</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[12]/table:table-cell[1]/text:p[0]">
+        <source>Refreshes (redraws) the document view.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[13]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Shift+I</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[7]/table:table-row[13]/table:table-cell[1]/text:p[0]">
+        <source>Shows or hides the cursor in read-only text.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="140" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/><x id="141" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:soft-page-break[0]"/>Selecting rows and columns in a <x id="142" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark[0]"/>database table opened by Ctrl+Shift+F4<x id="143" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Spacebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Toggles row selection, except when the row is in edit mode.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Spacebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Toggles row selection.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Spacebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Selects the current column.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Page Up</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Moves pointer to the first row.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Page Down</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[8]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Moves pointer to the last row.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="144" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/>Shortcut keys for <x id="145" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:alphabetical-index-mark[0]"/>drawing objects<x id="146" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Shortcut keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Result</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Select the toolbar with <g id="147">F6</g>. Use the <g id="148">Down Arrow</g> and <g id="149">Right Arrow</g> to select the desired toolbar icon and press <g id="150">Ctrl+Enter</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Inserts a Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Select the document with <g id="151">Ctrl+F6</g> and press <g id="152">Tab</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Selects a Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Tab</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Selects the next Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Tab</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Selects the previous Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Home</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Selects the first Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+End</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Selects the last Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Esc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>Ends Drawing Object selection.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[8]/table:table-cell[0]/text:p[0]">
+        <source><g id="153">Esc</g> (in Handle Selection Mode)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[8]/table:table-cell[1]/text:p[0]">
+        <source>Exit Handle Selection Mode and return to Object Selection Mode.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[9]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Up/Down/Left/Right Arrow</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[9]/table:table-cell[1]/text:p[0]">
+        <source>Move the selected point (the snap-to-grid functions are temporarily disabled, but end points still snap to each other).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[10]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Alt+Up/Down/Left/Right Arrow</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[10]/table:table-cell[1]/text:p[0]">
+        <source>Moves the selected Drawing Object one pixel (in Selection Mode).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[10]/table:table-cell[1]/text:p[1]">
+        <source>Re-sizes a Drawing Object (in Handle Selection Mode).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[10]/table:table-cell[1]/text:p[2]">
+        <source>Rotates a Drawing Object (in Rotation Mode).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[10]/table:table-cell[1]/text:p[3]">
+        <source>Opens the properties dialog for a Drawing Object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[10]/table:table-cell[1]/text:p[4]">
+        <source>Activates the Point Selection mode for the selected drawing object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[11]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Spacebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[11]/table:table-cell[1]/text:p[0]">
+        <source>Select a point of a drawing object (in Point Selection mode) / Cancel selection.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[11]/table:table-cell[1]/text:p[1]">
+        <source>The selected point blinks once per second.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[12]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Shift+Spacebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[12]/table:table-cell[1]/text:p[0]">
+        <source>Select an additional point in Point Selection mode.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[13]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Tab</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[13]/table:table-cell[1]/text:p[0]">
+        <source>Select the next point of the drawing object (Point Selection mode).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[13]/table:table-cell[1]/text:p[1]">
+        <source>In Rotation mode, the center of rotation can also be selected.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[14]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Shift+Tab</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[14]/table:table-cell[1]/text:p[0]">
+        <source>Select the previous point of the drawing object (Point Selection mode).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[15]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Ctrl+Enter</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[15]/table:table-cell[1]/text:p[0]">
+        <source>A new drawing object with default size is placed in the center of the current view.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[16]/table:table-cell[0]/text:p[0]">
+        <source><g id="154">Ctrl+Enter</g> at the Selection icon</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[16]/table:table-cell[1]/text:p[0]">
+        <source>Activates the first drawing object in the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[17]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Esc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[17]/table:table-cell[1]/text:p[0]">
+        <source>Leave the Point Selection mode. The drawing object is selected afterwards.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[17]/table:table-cell[1]/text:p[1]">
+        <source>Edit a point of a drawing object (Point Edit mode).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[18]/table:table-cell[0]/text:p[0]">
+        <source>Any text or numerical key</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[18]/table:table-cell[1]/text:p[0]">
+        <source>If a drawing object is selected, switches to edit mode and places the cursor at the end of the text in the drawing object. A printable character is inserted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[19]/table:table-cell[0]/text:p[0]">
+        <source><g id="155">Alt</g> key while creating or scaling a graphic object</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[19]/table:table-cell[1]/text:p[0]">
+        <source>The position of the object’s center is fixed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[20]/table:table-cell[0]/text:p[0]">
+        <source><g id="156">Shift</g> key while creating or scaling a graphic object</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[9]/table:table-row[20]/table:table-cell[1]/text:p[0]">
+        <source>The ratio of the object’s width to height is fixed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/>Defining keyboard shortcuts<x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>In addition to using the built-in <x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:alphabetical-index-mark[0]"/>keyboard shortcuts listed in this Appendix, you can define your own. See Chapter 14, Customizing LibreOffice, for instructions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="160" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/>Further reading<x id="161" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source><x id="162" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]/text:bookmark-start[0]"/>For help with LibreOffice’s keyboard shortcuts, or using LibreOffice with a keyboard only, search the application Help using the “shortcut keys” or “accessibility” keywords.<x id="163" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Appendix A  Keyboard Shortcuts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Further reading</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Shortcut keys for drawing objects</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Appendix A  Keyboard Shortcuts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Appendix A  Keyboard Shortcuts</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

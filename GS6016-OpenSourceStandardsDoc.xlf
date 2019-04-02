@@ -1,0 +1,727 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6016-OpenSourceStandardsDoc.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Appendix B <g id="1"/><g id="2"/>Open Source, Open Standards, OpenDocument</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2018 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="5">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="6">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="8" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Valerii Goncharuk</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Andrew Jensen</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="9" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>Feedback<x id="10" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="11">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="12" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>Acknowledgments<x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>This appendix is adapted from Appendix B of <g id="14">Getting Started with OpenOffice.org 3.3</g>. The contributors to that appendix are:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Rick Barnes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Peter Schofield</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="15" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Publication date and software version<x id="16" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published 04 <g id="17">M</g>arch 2018. Based on LibreOffice 6.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Note for <g id="19">m</g>ac<g id="20">OS</g> users<x id="21" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[6]">
+        <source>Some keystrokes and menu items are different on <g id="22">m</g>ac<g id="23">OS</g> from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Mac<g id="24">OS</g> equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="25">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source><g id="26">Ctrl</g> (<g id="27">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="28">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="29">Shift</g>+⌘+<g id="30">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="31">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the <g id="32">sidebar </g>Styles <g id="33">deck</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="34"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="35"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>Feedback<g id="36"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>Acknowledgments<g id="37"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Publication date and software version<g id="38"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Note for macOS users<g id="39"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Introduction<g id="40"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>A short history of LibreOffice<g id="41"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>The LibreOffice community<g id="42"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>How is LibreOffice licensed?<g id="43"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>What is “open source”?<g id="44"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>What are “open standards”?<g id="45"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>What is OpenDocument?<g id="46"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>OpenDocument filename extensions<g id="47"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>File formats LibreOffice can open<g id="48"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Opening text documents<g id="49"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Opening spreadsheets<g id="50"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Opening presentations<g id="51"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Opening graphic files<g id="52"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Opening formula files<g id="53"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>File formats LibreOffice can save to<g id="54"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Saving text documents<g id="55"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>Saving spreadsheet files<g id="56"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Saving presentations<g id="57"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>Saving drawings<g id="58"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>Writer/Web can save in these formats<g id="59"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[26]/text:a[0]">
+        <source>Exporting to other formats<g id="60"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="61" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Introduction<x id="62" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>LibreOffice is a productivity suite that is compatible with other major office suites and available on a variety of platforms. It is open source software and therefore free to download, use, and distribute. If you are new to LibreOffice, this appendix will provide some information regarding its history, its community, and some of its technical specifications.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="63" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>A short <x id="64" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark-start[0]"/>history of LibreOffice<x id="65" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/><x id="66" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>The OpenOffice.org project began when <x id="67" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]/text:alphabetical-index-mark-start[0]"/>Sun Microsystems<x id="68" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]/text:alphabetical-index-mark-end[0]"/> released the source code (“blueprints”) for its StarOffice® software to the open source community on October 13, 2000. OpenOffice.org 1.0, the product, was released on April 30, 2002. Major updates to OpenOffice.org included version 2.0 in October 2005 and version 3.0 in October 2008. On January 26, 2010, Oracle Corporation acquired Sun Microsystems.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>On September 28, 2010, the community of volunteers who develop and promote OpenOffice.org announce a major change in project structure. After ten years’ successful growth with Sun Microsystems as founding and principle sponsor, the project launched an independent foundation called The Document Foundation, to fulfill the promise of independence written in the original charter. This foundation is the cornerstone of a new ecosystem where individuals and organizations can contribute to and benefit from the availability of a truly free office suite.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>Unable to acquire the trademarked OpenOffice.org name from Oracle Corporation, The Document Foundation named its product LibreOffice. Continuing the version numbers from OpenOffice.org, LibreOffice 3.3 was released in January 2011 and version 6.0 was release in February 2018.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>In February 2012, The Document Foundation was incorporated in Berlin as a German Stiftung. You can read more about The Document Foundation at: <g id="69">http://www.documentfoundation.org/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="70" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/>The LibreOffice community<x id="71" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>The Document Foundation’s mission is:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>“...to facilitate the evolution of the OpenOffice.org Community into a new open, independent, and meritocratic organizational structure within the next few months. An independent Foundation is a better match to the values of our contributors, users, and supporters, and will enable a more effective, efficient, transparent, and inclusive Community. We will protect past investments by building on the solid achievements of our first decade, encourage wide participation in the Community, and co-ordinate activity across the Community.”</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source>Some of our corporate supporters include Canonical, The GNOME Foundation, Google, Novell and Red Hat. Additionally, over 450,000 people from nearly every part of the globe have joined this project with the idea of creating the best possible office suite that all can use. This is the essence of an “open source” community!</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>With its open source software license, LibreOffice is key in the drive to provide an office suite that is available to anyone, anywhere, for commercial or personal use. The software has been translated into many languages and runs on all major operating systems. New functionality can be added in the form of extensions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>The LibreOffice community invites contributors in all areas, including translators, software developers, graphic artists, technical writers, editors, donors, and end-user support. Whatever you do best, you can make a difference in LibreOffice. The community operates internationally in all time zones and in many languages, linked through the internet at <g id="72">www.libreoffice.org</g> and <g id="73">www.documentfoundation.org</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="74" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/><x id="75" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[1]"/><x id="76" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:soft-page-break[0]"/><x id="77" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:reference-mark-start[0]"/>How is LibreOffice licensed?<x id="78" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/><x id="79" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>LibreOffice is distributed under both the Mozilla Public License (MPL) 2.0 (https://www.libreoffice.org/about-us/licenses/) and the GNU Lesser General Public License (LGPL) 3.0+ (https://www.gnu.org/licenses/lgpl-3.0.en.html).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="80" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/>What is “open source”?<x id="81" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>The four essential rights of open-source software are embodied within the Free Software Foundation’s family of the <g id="82">GNU General Public License</g> (GPL):<x id="83" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>The right to use the software for any purpose.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[1]/text:p[0]">
+        <source>Freedom to redistribute the software for free or for a fee.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[2]/text:p[0]">
+        <source>Access to the complete source code of the program (that is, the “blueprints”).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[3]/text:p[0]">
+        <source>The right to modify any part of the source, or use portions of it in other programs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>The basic idea behind open source is very simple: When programmers can read, redistribute, and modify the source code for a piece of software, the software evolves. People improve it, people adapt it, people fix bugs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source>For more information on Free and Open Source software, visit these websites:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source><x id="84" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]/text:alphabetical-index-mark-start[0]"/>Open Source Initiative (OSI)<x id="85" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]/text:alphabetical-index-mark-end[0]"/>: <g id="86"><g id="87">http://www.opensource.org</g></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source><x id="88" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:alphabetical-index-mark-start[0]"/>Free Software Foundation (FSF)<x id="89" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:alphabetical-index-mark-end[0]"/>:<g id="90"> https:///www.fsf.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="91" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/>What are “open standards”?<x id="92" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>An open standard provides a means of doing something that is independent of manufacturer or vendor, thus enabling competing software programs to freely use the same file formats. HTML, XML, and ODF are examples of open standards for documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>An open standard meets the following requirements:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>It is well documented with the complete specification publicly available, either free or at a nominal charge.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]">
+        <source>It can be freely copied, distributed and used. The intellectual property of the standard is made irrevocably available on a royalty-free basis.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[2]/text:p[0]">
+        <source>It is standardized and maintained in an independent, open forum (also called “standards organization”) using an open process.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="93" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/>What is OpenDocument?<x id="94" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>OpenDocument (ODF) is an XML-based file format for office documents (text documents, spreadsheets, drawings, presentations and more), developed at OASIS (<g id="95">http://www.oasis-open.org/who/</g>), an independent, international standards group. OpenDocument version 1.2 was adopted by the International Standards Organization and named ISO IEC 26300:2015 standard<g id="96"><x id="97" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]/text:span[0]/text:note[0]"/></g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]/text:span[0]/text:note[0]/text:note-citation[0]">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]">
+        <source>Unlike other file formats, ODF (ISO-IEC 26300:2015) is an open standard. It is publicly available, royalty-free, and without legal or other restrictions; therefore ODF files are not tied to a specific office suite and anybody can build a program that interprets these files. For this reason ODF is quickly becoming the preferred file format for government agencies, schools and other companies who prefer not to be too dependent on any one software supplier.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source><x id="98" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]/text:soft-page-break[0]"/>LibreOffice saves documents in OpenDocument Format by default. LibreOffice 3 adopted version 1.2 of the OpenDocument standard and LibreOffice 6 continues to use this standard. LibreOffice can also open and save many other file formats, as summarized below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>For a full list of file formats that LibreOffice can read and write, see <g id="99">https://en.wikipedia.org/wiki/LibreOffice#Supported_file_formats</g> </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="100" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/>OpenDocument filename extensions<x id="101" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]">
+        <source>The most common filename extensions used for OpenDocument documents are:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source>*.odt for word processing (text) documents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>*.ods for spreadsheets </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]">
+        <source>*.odp for presentations </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source>*.odb for databases </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>*.odg for graphics (vector drawings) </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>*.odc for charts </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source>*.odf for formulas (scientific formulas and <g id="102"/>equations) </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="103" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/>File formats LibreOffice can open<x id="104" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>LibreOffice can open a wide variety of file formats in addition to the OpenDocument formats, including Portable Document Format (PDF). </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="105" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/>Opening <x id="106" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:alphabetical-index-mark[0]"/>text documents<x id="107" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]">
+        <source>In addition to OpenDocument formats (.odt, .ott, .oth, .odm, and .fodt), Writer can <x id="108" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/text:alphabetical-index-mark[0]"/>open the formats used by OpenOffice.org 1.x (.sxw, .stw, and .sxg), the following text document formats, and a variety of legacy formats not listed below:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>Microsoft Word 6.0/95/97/2000/XP/Mac) (.doc and .dot)<g id="109"/>Microsoft Word 2003 XML (.xml)<g id="110"/>Microsoft Word 2007/2010 XML (.docx, .docm, .dotx, .dotm)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft WinWord 5 (.doc)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>WordPerfect Document (.wpd)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft Works (.wps)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Lotus WordPro (.lwp)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Abiword Document (.abw, .zabw)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>ClarisWorks/Appleworks Document (.cwk)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>MacWrite Document (.mw, .mcw)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Rich Text Format (.rtf)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>Text CSV (.csv and .txt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>StarWriter formats (.sdw, .sgl, .vor)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]">
+        <source>DocBook (.xml)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Unified Office Format text (.uot, .uof)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]">
+        <source>Ichitaro 8/9/10/11 (.jtd and .jtt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Hangul WP 97 (.hwp)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]">
+        <source>T602 Document (.602, .txt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>eBook (.pdb)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[0]/text:p[0]">
+        <source>Apple Pages 4 (.pages)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[8]/table:table-cell[1]/text:p[0]">
+        <source>HTML Document (.htm, .html)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[9]/table:table-cell[0]/text:p[0]">
+        <source>... and many others</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>Most of these file types are automatically detected by LibreOffice, so they can be opened without explicitly selecting the document type in the file picker.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>When opening .htm or .html files (used for web pages), LibreOffice customizes Writer for working with these files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="111" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:soft-page-break[0]"/>Opening <x id="113" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[0]"/>spreadsheets<x id="114" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source>In addition to OpenDocument formats (.ods, .ots, and .fods), Calc can open the formats used by OpenOffice.org 1.x (.sxc and .stc) and the following spreadsheet formats:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source>Microsoft Excel 97/2000/XP (.xls, .xlw, and .xlt)<g id="115"/>Microsoft Excel 4.x–5.0/95 (.xls, .xlw, and .xlt)<g id="116"/>Microsoft Excel 2003 XML (.xml)<g id="117"/>Microsoft Excel 2007/2013 XML (.xlsx, .xlsm, .xlts, .xltm)<g id="118"/>Microsoft Excel 2007/2010 binary (.xlsb)<g id="119"/>Lotus 1-2-3 (.wk1, .wks, and .123)<g id="120"/>Data Interchange Format (.dif)<g id="121"/>Rich Text Format (.rtf)<g id="122"/>Text CSV (.csv and .txt)<g id="123"/>StarCalc formats (.sdc and .vor)<g id="124"/>dBASE (.dbf)<g id="125"/>SYLK (.slk)<g id="126"/>Unified Office Format spreadsheet (.uos, .uof)<g id="127"/>HTML Document (.htm and .html files, including Web page queries)<g id="128"/>Quattro Pro 6.0 (.wb2)<g id="129"/>Apple Numbers 2 (.numbers)<g id="130"/>... and many others</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/>Opening <x id="132" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:alphabetical-index-mark[0]"/>presentations<x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source>In addition to OpenDocument formats (.odp, .odg, .otp, and .fopd), Impress can open the formats used by OpenOffice.org 1.x (.sxi and .sti) and the following presentation formats:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>Microsoft PowerPoint 97/2000/XP (.ppt and .pot)<g id="134"/>Microsoft PowerPoint 2007/2010 (.pptx, .pptm, .potx, .potm)<g id="135"/>StarDraw and StarImpress (.sda, .sdd, .sdp, and .vor)<g id="136"/>Unified Office Format presentation (.uop, .uof)<g id="137"/>CGM – Computer Graphics Metafile (.cgm)<g id="138"/>Portable Document Format (.pdf)<g id="139"/>Apple Keynote 5 (.key)<g id="140"/>... and many others</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="141" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>Opening <x id="142" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark[0]"/>graphic files<x id="143" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>In addition to OpenDocument formats (.odg and .otg), Draw can open the formats used by OpenOffice.org 1.x (.sxd and .std) and the following graphic formats:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>Adobe Photoshop (*.psd)<g id="144"/>AutoCAD Interchange Format (*.dxf)<g id="145"/>Corel Draw (*.cdr)<g id="146"/>Corel Presentation Exchange (*.cmx)<g id="147"/>Microsoft Publisher 98-2010 (*.pub)<g id="148"/>Microsoft Visio 2000-2013 (*.vdx; *.vsd; *.vsdm; *.vsdx)<g id="149"/>WordPerfect Graphics (*.wpg)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>BMP</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>JPEG, JPG</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>PCX</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[3]/text:p[0]">
+        <source>PSD</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[4]/text:p[0]">
+        <source>SGV</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[5]/text:p[0]">
+        <source>WMF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>DXF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>MET</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>PGM</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[3]/text:p[0]">
+        <source>RAS</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[4]/text:p[0]">
+        <source>SVM</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[5]/text:p[0]">
+        <source>XBM</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>EMF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>PBM</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>PLT</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[3]/text:p[0]">
+        <source>SDA</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[4]/text:p[0]">
+        <source>TGA</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[5]/text:p[0]">
+        <source>XPM</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>EPS</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>PCD</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>PNG</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[3]/text:p[0]">
+        <source>SDD</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[4]/text:p[0]">
+        <source>TIF, TIFF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>GIF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>PCT</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>PPM</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[3]/text:p[0]">
+        <source>SGF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[4]/text:p[0]">
+        <source>VOR</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="150" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/><x id="151" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:soft-page-break[0]"/>Opening <x id="152" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark[0]"/>formula files<x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>In addition to OpenDocument Formula (.odf) files, Math can open the format used by OpenOffice.org 1.x (.sxm), StarMath, (.smf), and MathML (.mml) files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>When opening a Word document that contains an embedded equation editor object, if the option for it (MathType to LibreOffice Math or reverse) is checked in <g id="154">Tools &gt; Options &gt; Load/Save &gt; Microsoft Office</g>, the object will be automatically converted to a LibreOffice Math object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="155" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/>File formats LibreOffice can save to<x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>Saving in an OpenDocument format guarantees the correct rendering of the file when it is transferred to another person or when the file is reopened with a later version of LibreOffice or with another program. It is strongly recommended that you use OpenDocument as the default file formats. However, you can save files in other formats, if you wish.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>When sharing a document that you do not expect the recipient to modify, the preferred option is to convert the document to PDF. LibreOffice provides a very straightforward way to convert documents to PDF. See Chapter 10 Printing, Exporting, and E-Mailing in this guide.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/>Saving text documents<x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>In addition to OpenDocument formats (.odt, .ott, and .fodt), Writer can save in these formats:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Office Open XML Text (.docx)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Microsoft Word 2007–2013 XML (.docx)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft Word 97–2003 (.doc)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Microsoft Word 2003 XML (.xml)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Rich Text Format (.rtf)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Text (.txt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Text Encoded (.txt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Unified Office Format text (.uot, .uof)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>HTML Document (.html and .htm)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>DocBook (.xml)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]">
+        <source>Encryption support within the Microsoft Word 97/2000/XP filter allows password protected Microsoft Word documents to be saved.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>The .rtf format is a common format for transferring text files between applications, but you are likely to experience loss of formatting and images. For this reason, other formats should be used.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/>Saving spreadsheet files<x id="160" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]">
+        <source><x id="161" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/text:alphabetical-index-mark[0]"/>In addition to OpenDocument formats (.ods and .ots), Calc can save in these formats:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Office Open XML Spreadsheet (.xlsx)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Data Interchange Format (.dif)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft Excel 2007–2013 XML (.xlsx)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>dBase (.dbf)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft Excel 97–2003 (.xls and .xlw)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>SYLK (.slk)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft Excel 97–2003 Template (.xlt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Text CSV (.csv and .txt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>Microsoft Excel 2003 XML (.xml)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Unified Office Format spreadsheet (.uos)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[5]/table:table-cell[0]/text:p[0]">
+        <source>HTML Document (Calc) (.html and .htm)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="162" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/><x id="163" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:soft-page-break[0]"/>Saving presentations<x id="164" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source><x id="165" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]/text:alphabetical-index-mark[0]"/>In addition to OpenDocument formats (.odp, .otp, .fodp, and .odg), Impress can save in these formats:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]">
+        <source>Microsoft PowerPoint 97–2003 (.ppt)<g id="166"/>Microsoft PowerPoint 97–2003 Template (.pot)<g id="167"/>Microsoft PowerPoint 97–2003 AutoPlay (.pps)<g id="168"/>Microsoft PowerPoint 2007–2013 XML (.pptx, .potm)<g id="169"/>Microsoft PowerPoint 2007–2013 XML AutoPlay (.ppsx)<g id="170"/>Office Open XML Presentation (.pptx, .potm, .ppsx)<g id="171"/>Unified Office Format presentation (.uop)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]">
+        <source>Impress can also export to MacroMedia Flash (.swf) and any of the graphics formats listed for Draw.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/>Saving drawings<x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]">
+        <source><x id="174" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]/text:alphabetical-index-mark[0]"/>Draw can only save in the OpenDocument Drawing formats (.odg, .otg, and .fodg), the OpenOffice.org 1.x formats (.sxd and .std) and StarDraw format (.sda, .sdd, and .vor).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>However, Draw can also export to BMP, EMF, EPS, GIF, JPEG, MET, PBM, PCT, PGM, PNG, PPM, RAS, SVG, SVM, TIFF, WMF, and XPM.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]">
+        <source><x id="175" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-start[0]"/>Writer/Web can save in these formats<x id="176" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]">
+        <source>HTML document (.html and .htm), as HTML 4.0 Transitional<g id="177"/>Text and Text Encoded (LibreOffice Writer/Web) (.txt)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]">
+        <source><x id="178" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-start[0]"/>Exporting to other formats<x id="179" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]">
+        <source>Different from the command <g id="180">Save as</g>, LibreOffice uses the term “export” to create a new file with another format without leaving the current content and file format. If you cannot find the file type you are looking for under <g id="181">Save As</g>, look under <g id="182">Export</g> for additional types.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]">
+        <source>PDF is the well known export format since OpenOffice.org 1.5 and EPUB is a new format for export since LibreOffice 6.0. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source>LibreOffice can export files to HTML and XHTML. To publish on a Wiki server, export the documents with MediaWiki (.txt) format. In addition, Draw and Impress can export to Adobe Flash (.swf) and a range of image formats. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]">
+        <source><x id="183" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:bookmark-start[0]"/>To export to one of these formats, choose <g id="184">File &gt; Export</g>. On the Export dialog, specify a file name for the exported document, then select the desired format in the <g id="185">File format</g> list and click the <g id="186">Export</g> button.<x id="187" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Appendix B  Open Source, Standards, Document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Exporting to other formats</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>File formats LibreOffice can save to</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Appendix B  Open Source, Standards, Document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Appendix B  Open Source, Standards, Document</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

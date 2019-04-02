@@ -1,0 +1,718 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6000-Preface.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source><g id="1"/>Preface</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="2" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2018 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="4">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="5">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="6" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>This book is adapted and updated from <g id="8">Getting Started with OpenOffice.org 3.3</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="9" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>To <g id="10">t</g>his <g id="11">e</g>dition<x id="12" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Andrew Jensen</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Amanda Labby</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Cathy Crumbley</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Dan Lewis</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Jorge Rodriguez</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Paul Figueiredo</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Valerii Goncharuk</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>To <g id="14">p</g>revious <g id="15">e</g>ditions<x id="16" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Alan Madden</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Alex Thurgood</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Alexander Noël Dunne</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Andrew Jensen</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Andrew Pitonyak</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Barbara M. Tobias</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Carol Roberts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Chris Bonde</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Claire Wood</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Dan Lewis</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Daniel Carrera</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>Dave Koelmeyer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>David Michel</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Gary Schnabl</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[5]/table:table-cell[0]/text:p[0]">
+        <source>Hazel Russman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Iain Roberts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Ian Laurenson</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[6]/table:table-cell[0]/text:p[0]">
+        <source>Janet M. Swisher</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[6]/table:table-cell[2]/text:p[0]">
+        <source>Jared Kobos</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[7]/table:table-cell[0]/text:p[0]">
+        <source>Jeremy Cartwright</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>JiHui Choi</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[7]/table:table-cell[2]/text:p[0]">
+        <source>Jim Taylor</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[8]/table:table-cell[0]/text:p[0]">
+        <source>Joe Sellman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[8]/table:table-cell[1]/text:p[0]">
+        <source>John A Smith</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[8]/table:table-cell[2]/text:p[0]">
+        <source>John Kane</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[9]/table:table-cell[0]/text:p[0]">
+        <source>Kevin O’Brien</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[9]/table:table-cell[1]/text:p[0]">
+        <source>Laurent Duperval</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[9]/table:table-cell[2]/text:p[0]">
+        <source>Leo Moons</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[10]/table:table-cell[0]/text:p[0]">
+        <source>Linda Worthington</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[10]/table:table-cell[1]/text:p[0]">
+        <source>Magnus Adielsson</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[10]/table:table-cell[2]/text:p[0]">
+        <source>Martin Fox</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[11]/table:table-cell[0]/text:p[0]">
+        <source>Martin Saffron</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[11]/table:table-cell[1]/text:p[0]">
+        <source>Michael Kotsarinis</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[11]/table:table-cell[2]/text:p[0]">
+        <source>Michel Pinquier</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[12]/table:table-cell[0]/text:p[0]">
+        <source>Michele Zarri</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[12]/table:table-cell[1]/text:p[0]">
+        <source>Miklos Vajna</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[12]/table:table-cell[2]/text:p[0]">
+        <source>Nicole Cairns</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[13]/table:table-cell[0]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[13]/table:table-cell[1]/text:p[0]">
+        <source>Peter Hillier-Brook</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[13]/table:table-cell[2]/text:p[0]">
+        <source>Peter Kupfer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[14]/table:table-cell[0]/text:p[0]">
+        <source>Peter Schofield</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[14]/table:table-cell[1]/text:p[0]">
+        <source>Rachel Kartch </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[14]/table:table-cell[2]/text:p[0]">
+        <source>Regina Henschel</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[15]/table:table-cell[0]/text:p[0]">
+        <source>Richard Barnes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[15]/table:table-cell[1]/text:p[0]">
+        <source>Richard Detwiler </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[15]/table:table-cell[2]/text:p[0]">
+        <source>Richard Holt</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[16]/table:table-cell[0]/text:p[0]">
+        <source>Robert Scott</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[16]/table:table-cell[1]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[16]/table:table-cell[2]/text:p[0]">
+        <source>Simon Quigley</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[17]/table:table-cell[0]/text:p[0]">
+        <source>Spencer E. Harpe</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[17]/table:table-cell[1]/text:p[0]">
+        <source>Stefan A. Keel</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[17]/table:table-cell[2]/text:p[0]">
+        <source>Steve Schwettman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[18]/table:table-cell[0]/text:p[0]">
+        <source>Thomas Astleitner</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[18]/table:table-cell[1]/text:p[0]">
+        <source>TJ Frazier</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[18]/table:table-cell[2]/text:p[0]">
+        <source>Valerii Goncharuk</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Feedback<x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="19">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="20" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Publication date and software version<x id="21" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published <g id="22">August</g> 2018. Based on LibreOffice 6.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="23"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="24"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>To this edition<g id="25"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>To previous editions<g id="26"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Feedback<g id="27"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Publication date and software version<g id="28"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Who is this book for?<g id="29"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>What’s in this book?<g id="30"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>Where to get more help<g id="31"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>Help system<g id="32"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Other free online support<g id="33"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Paid support and training<g id="34"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>What you see may be different<g id="35"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Illustrations<g id="36"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Icons<g id="37"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Using LibreOffice on macOS<g id="38"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>What are all these things called?<g id="39"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Frequently asked questions<g id="40"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>What’s new in LibreOffice 6.0?<g id="41"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="42" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Who is this book for?<x id="43" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>Anyone who wants to get up to speed quickly with LibreOffice will find this Getting Started Guide valuable. You may be new to office software, or you may be familiar with another office suite.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="44" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>What’s in this book?<x id="45" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>This book introduces the main components of LibreOffice:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Writer (word processing)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[1]/text:p[0]">
+        <source>Calc (spreadsheets)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[2]/text:p[0]">
+        <source>Impress (presentations)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[3]/text:p[0]">
+        <source>Draw (vector graphics)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[4]/text:p[0]">
+        <source>Base (database)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[5]/text:p[0]">
+        <source>Math (equation editor)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>It also covers some of the features common to all components, including setup and customization, styles and templates, macro recording, and printing. For more detail, see the user guides for the individual components.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="46" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/>Where to get more help<x id="47" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>This book, the other LibreOffice user guides, the built-in Help system, and user support systems assume that you are familiar with your computer and basic functions such as starting a program, opening and saving files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="48" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/>Help system<x id="49" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>LibreOffice comes with an <x id="50" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]/text:alphabetical-index-mark[0]"/>extensive Help system. This is the first line of support for using LibreOffice. Windows and Linux users can choose to download and install the offline Help for use when not connected to the Internet; the offline Help is installed with the program on macOS.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>To display the Help system, press <g id="51">F1</g> or select <g id="52">LibreOffice Help &gt; <g id="53"/>LibreOffice Help</g> from the Help menu. If you do not have the offline help installed on your computer and you are connected to the Internet, your default browser will open the online Help pages on the LibreOffice website.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>The Help menu includes links to other LibreOffice information and support facilities.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="54" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="55"><g id="56"/></g>Figure <x id="57" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Help Menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source><x id="58" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>The following options shown here prefixed by a <g id="59">‡</g> sign are only accessible if your computer is connected to the Internet.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source><g id="60">What's This?</g><g id="61"> </g>For quick tips when a toolbar is visible, place the mouse pointer over any of the icons to see a small box (“tooltip”) with a brief explanation of the icon’s function. For a more detailed explanation, select <g id="62">Help &gt; What's This?</g> and hold the pointer over the icon. In addition, you can choose whether to activate Extended Tips using <g id="63">Tools &gt; Options &gt; LibreOffice &gt; General</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[1]/text:p[0]">
+        <source><g id="64">User Guides </g><g id="65">‡</g><g id="66"> </g>Opens your default browser at the Documentation page of the LibreOffice website <g id="67"><g id="68">https://documentation.libreoffice.org/en/english-documentation/</g></g>. There you will find copies of User Guides and other useful information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[2]/text:p[0]">
+        <source><g id="69">Get Help Online </g><g id="70">‡</g><g id="71"> </g>Opens your default browser at the Ask LibreOffice<g id="72"> </g>forum of questions and answers from the LibreOffice community <g id="73"><g id="74">https://ask.libreoffice.org/en/questions/</g></g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[3]/text:p[0]">
+        <source><g id="75">Send Feedback</g> <g id="76">‡</g><g id="77"> </g>Opens your default browser at the Feedback page of the LibreOffice website <g id="78"><g id="79">https://www.libreoffice.org/get-help/feedback/</g></g>. From there you can report bugs, suggest new features and communicate with others in the LibreOffice community.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[4]/text:p[0]">
+        <source><g id="80">Restart in Safe Mode</g> Opens a dialog window where you will have the option to restart LibreOffice and reset the software to it's default settings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[5]/text:p[0]">
+        <source><g id="81">Donate to LibreOffice </g><g id="82">‡</g> Opens your default browser at the Donation page of the LibreOffice website <g id="83"><g id="84">https://donate.libreoffice.org/</g></g>. There you can choose to make a donation to support LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[6]/text:p[0]">
+        <source><g id="85">License Information</g> outlining the licenses under which LibreOffice is made available.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[7]/text:p[0]">
+        <source><g id="86">Check for Updates</g> <g id="87">‡</g><g id="88"> </g>Opens a dialog window and checks the LibreOffice website for updates to your version of the software.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[8]/text:p[0]/text:span[0]/text:span[0]">
+        <source>About LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[8]/text:p[0]/text:span[1]">
+        <source> Opens a dialog window and displays information about the version of LibreOffice and the operating system you are using. This information will often be requested if you ask the community for help or assistance with the software. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="89" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/>Other free online support<x id="90" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>The LibreOffice community not only develops software, but provides free, volunteer-based support. In addition to the Help menu links above, there are other online community support options available, see the table below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-header-rows[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Free LibreOffice support</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>FAQs</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Answers to frequently asked questions<g id="91"/><g id="92">https://wiki.documentfoundation.org/Faq</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Mailing lists</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Free community support is provided by a network of experienced users<g id="93"/><g id="94">https://www.libreoffice.org/get-help/mailing-lists/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Native language support</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>The LibreOffice website in various languages<g id="95"/><g id="96">https://www.libreoffice.org/community/nlc/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[1]">
+        <source>Mailing lists for native languages<g id="97"/><g id="98"><g id="99">https://wiki.documentfoundation.org/Local_Mailing_Lists</g></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[2]">
+        <source>Information about social networking<g id="100"/><g id="101"><g id="102">https://wiki.documentfoundation.org/Website/Web_Sites_services</g></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Accessibility options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Information about available accessibility options <g id="103"/><g id="104">https://www.libreoffice.org/get-help/accessibility/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>OpenOffice Forum</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Another forum that provides support for LibreOffice, among other open source office suites <g id="105">http://forum.openoffice.org/en/forum/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="106" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="107" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:soft-page-break[0]"/>Paid support and training<x id="108" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>You can also pay for support through service contracts from a vendor or consulting firm specializing in LibreOffice. For information about certified professional support, see The Document Foundation’s website: <g id="109">https://www.documentfoundation.org/gethelp/support/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="110" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/>What you see may be different<x id="111" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/>Illustrations<x id="113" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>LibreOffice runs on Windows, Linux, and macOS operating systems, each of which has several versions and can be customized by users (fonts, colors, themes, window managers). The illustrations in this guide were taken from a variety of computers and operating systems. Therefore, some illustrations will not look exactly like what you see on your computer display.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>Also, some of the dialogs may be different because of the settings selected in LibreOffice. You can either use dialogs from your computer’s operating system or from LibreOffice. The differences affect mainly Open, Save, and Print dialogs. To change which dialogs are used, go to <g id="114">Tools &gt; Options &gt; LibreOffice &gt; General</g> and select or deselect the option <g id="115">Use LibreOffice dialogs</g>. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="116" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/>Icons<x id="117" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source>The LibreOffice community has created icons for several icon sets: Breeze, Galaxy, High Contrast, Oxygen, Sifr, and Tango. Each user can select <x id="118" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:bookmark[0]"/>a preferred set. The icons in this guide have been taken from a variety of LibreOffice installations that use different sets of icons. The icons for some of the many tools available in LibreOffice may then differ from the ones used in this guide.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>To change the icon set used, go to <g id="119">Tools &gt; Options &gt; LibreOffice &gt; View</g>. In the <g id="120">User Interface </g>section, choose from the drop-down lists under <g id="121">Icon size and style.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source>Some Linux distributions include <g id="122">LibreOffice</g> as part of the installation and may not include all the icon sets mentioned above. You should be able to download other icon sets from the software repository for your Linux distribution if you wish to use them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="123" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/>Using LibreOffice on macOS<x id="124" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>Some keystrokes and menu items are different on macOS from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this book. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>macOS equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]/text:span[0]">
+        <source>Tools &gt; Options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[1]">
+        <source> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]/text:span[0]">
+        <source>Ctrl</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[1]">
+        <source> (</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[2]/text:span[0]">
+        <source>Control</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[3]">
+        <source>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>⌘ (</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]/text:span[1]/text:span[0]">
+        <source>Command</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]/text:span[2]">
+        <source>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]/text:span[0]/text:span[0]">
+        <source>Shift</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]/text:span[1]">
+        <source>+⌘+</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]/text:span[2]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>⌘+</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[1]/text:p[0]/text:span[1]/text:span[0]">
+        <source>T</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the sidebar Styles and Formatting deck</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="125" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="126" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:soft-page-break[0]"/>What are all these things called?<x id="127" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>The terms used in LibreOffice for most parts of the <x id="128" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:alphabetical-index-mark[0]"/>user interface (the parts of the program you see and use, in contrast to the behind-the-scenes code that actually makes it work) are the same as for most other programs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>A dialog is a special type of window. Its purpose is to inform you of something, or request input from you, or both. It provides controls to use to specify how to carry out an action. The technical names for common controls are shown in Figure <x id="129" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]"/>. In most cases the technical terms are not used in this book, but it is useful to know them because the Help and other sources of information often use them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="130" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Dialog showing common controls</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>Tabbed page (not strictly speaking a control).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[1]/text:p[0]">
+        <source>Radio buttons (only one can be selected at a time).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[2]/text:p[0]">
+        <source>Checkbox (more than one can be selected at a time).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[3]/text:p[0]">
+        <source>Spin box (click the up and down arrows to change the number shown in the text box next to it, or type in the text box).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[4]/text:p[0]">
+        <source>Thumbnail or preview.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[5]/text:p[0]">
+        <source>Drop-down list from which to select an item.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[6]/text:p[0]">
+        <source>Push buttons.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source>In most cases, you can interact only with the dialog (not the document itself) as long as the dialog remains open. When you close the dialog after use (usually, clicking <g id="132">OK</g> or another button saves your changes and closes the dialog), then you can again work with your document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>Some dialogs can be left open as you work, so you can switching back and forth between the dialog and the document. An example of this type is the Find &amp; Replace dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/><x id="134" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:soft-page-break[0]"/>Frequently asked questions<x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]">
+        <source><x id="136" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/text:reference-mark-start[0]"/>How is LibreOffice licensed?<x id="137" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source>LibreOffice is distributed under <x id="138" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:alphabetical-index-mark[0]"/>the Open Source Initiative (OSI) approved Mozilla Public License (MPL). See <g id="139">https://www.libreoffice.org/about-us/licenses/</g> </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>It is based on code from Apache OpenOffice made available under the Apache License 2.0 but also includes software that differs from version to version under a variety of other Open Source licenses. New code is available under LGPL 3.0 and MPL 2.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]">
+        <source>May I distribute LibreOffice to anyone? May I sell it? May I use it in my business?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source>Yes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>How many computers may I install it on?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>As many as you like.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source>Is LibreOffice available in my language?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>LibreOffice has been translated (localized) into over 40 languages, so your language probably is supported. Additionally, there are over 70 spelling, hyphenation, and thesaurus dictionaries available for languages, and dialects that do not have a localized program interface. The dictionaries are available from the LibreOffice website at: <g id="140"><g id="141">www.libreoffice.org</g></g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]">
+        <source>How can you make it for free?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>LibreOffice is developed and maintained by volunteers and has the backing of several organizations.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>I am writing a software application. May I use programming code from LibreOffice in my program?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>You may, within the parameters set in the MPL and/or LGPL. Read the licenses: <g id="142">http://www.mozilla.org/MPL/2.0/</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source>Why do I need Java to run LibreOffice? Is it written in Java?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source>LibreOffice is not written in Java; it is written in the C++ language. Java is one of several languages that can be used to extend the software. The Java JDK/JRE is only required for some features. The most notable one is the HSQLDB relational database engine.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source>Java is available at no cost. More information and download links to the appropriate edition for your operating system can be found at: <g id="143"><g id="144">https://java.com/en/download/manual.jsp</g></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source>Note:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>If you want to use LibreOffice features that require Java it is important that the correct 32 bit or 64 bit edition matches the installed version of LibreOffice. See the Advanced Options in Chapter 2 of this guide. If you do not want to use Java, you can still use nearly all of the LibreOffice features.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>How can I contribute to LibreOffice?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>You can help with the development and user support of LibreOffice in many ways, and you do not need to be a programmer. To start, check out this webpage: <g id="145">https://www.libreoffice.org/community/get-involved/</g> </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>May I distribute the PDF of this book, or print and sell copies?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>Yes, as long as you meet the requirements of one of the licenses in the copyright statement at the beginning of this book. You do not have to request special permission. We request that you share with the project some of the profits you make from sales of books, in consideration of all the work we have put into producing them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>Donate to LibreOffice: <g id="146">https://www.libreoffice.org/donate/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="147" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/><x id="148" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:soft-page-break[0]"/>What’s new in LibreOffice 6.0?<x id="149" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>The LibreOffice 6.0 Release Notes are here: <g id="150">https://wiki.documentfoundation.org/ReleaseNotes/</g><g id="151"><g id="152">6.0</g></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Preface</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>What’s new in LibreOffice 6.0?</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Frequently asked questions</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Preface</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Preface</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

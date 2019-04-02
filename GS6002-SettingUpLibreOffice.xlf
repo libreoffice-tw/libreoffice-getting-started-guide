@@ -1,0 +1,1486 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6002-SettingUpLibreOffice.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Chapter 2 <g id="1"/><g id="2"/>Setting up LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[3]">
+        <source>Choosing Options to Suit the Way You Work</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2018 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="5">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="6">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="8" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>This book is adapted and updated from <g id="9">Getting Started with OpenOffice.org 3.3</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="10" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>To <g id="11">t</g>his <g id="12">e</g>dition<x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Paul Figueiredo</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Amanda Labby</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Jorge Rodriguez</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="14" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>To <g id="15">p</g>revious <g id="16">e</g>ditions<x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Jean Hollis Weber </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Hazel Russman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>John A Smith</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Martin Saffron</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Steve Schwettman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Daniel Carrera</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Peter Hillier-Brook</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Stefan A. Keel</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Michele Zarri</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Feedback<x id="19" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="20">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="21" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Publication date and software version<x id="22" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published May 2018. Based on LibreOffice 6.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="23"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="24"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>To this edition<g id="25"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>To previous editions<g id="26"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Feedback<g id="27"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Publication date and software version<g id="28"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Using LibreOffice on macOS<g id="29"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Choosing options for all of LibreOffice<g id="30"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>User Data options<g id="31"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>General options<g id="32"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>View options<g id="33"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Print options<g id="34"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Paths options<g id="35"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Fonts options<g id="36"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Security options<g id="37"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Security options and warnings<g id="38"/>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Personalization<g id="39"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Application colors<g id="40"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Accessibility options<g id="41"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Advanced options<g id="42"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Basic IDE options<g id="43"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Online update options<g id="44"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>OpenCL options<g id="45"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Choosing options for loading and saving documents<g id="46"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>General<g id="47"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>VBA Properties<g id="48"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[26]/text:a[0]">
+        <source>Microsoft Office<g id="49"/>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[27]/text:a[0]">
+        <source>HTML compatibility<g id="50"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[28]/text:a[0]">
+        <source>Choosing language settings<g id="51"/>23</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[29]/text:a[0]">
+        <source>Install the required dictionaries<g id="52"/>23</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[30]/text:a[0]">
+        <source>Change some locale and language settings<g id="53"/>23</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[31]/text:a[0]">
+        <source>Choose spelling options<g id="54"/>25</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[32]/text:a[0]">
+        <source>English sentence checking<g id="55"/>26</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[33]/text:a[0]">
+        <source>Grammar checking<g id="56"/>27</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[34]/text:a[0]">
+        <source>Punctuation<g id="57"/>27</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[35]/text:a[0]">
+        <source>Others<g id="58"/>27</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[36]/text:a[0]">
+        <source>Other languages sentence checking<g id="59"/>27</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[37]/text:a[0]">
+        <source>Choosing Internet options<g id="60"/>28</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[38]/text:a[0]">
+        <source>Controlling LibreOffice’s AutoCorrect functions<g id="61"/>28</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[39]/text:a[0]">
+        <source>Troubleshooting LibreOffice in Safe Mode<g id="62"/>29</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="63" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Using LibreOffice on macOS<x id="64" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>Some keystrokes and menu items are different on macOS from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this book. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>macOS equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="65">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source><g id="66">Ctrl</g> (<g id="67">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="68">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="69">Shift</g>+⌘+<g id="70">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="71">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the sidebar Styles and Formatting deck</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="72" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>Choosing <x id="73" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark[0]"/>options for all of LibreOffice<x id="74" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>This section covers some of the settings that apply to all the components of LibreOffice. For information on settings not discussed here, see the Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>Click <g id="75">Tools &gt; Options</g>. The list in the left-hand box of the Options – LibreOffice dialog varies depending on which component of LibreOffice is open. The illustrations in this chapter show the list as it appears when a Writer document is open.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>Click the marker (+ or triangle) by LibreOffice on the left-hand side. A list of pages drops down. Selecting an item in the list causes the right-hand side of the dialog to display the relevant page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="76" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="77"><g id="78"/></g>Figure <x id="79" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: LibreOffice options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source><x id="80" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>The <g id="81">Reset</g> button, located in the lower right of the full Options dialog, has the same effect on all pages of the dialog. It resets the options to the values that were in place when you opened the dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>If you are using a version of LibreOffice other than US English, some field labels may be different from those shown in the illustrations.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="82" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/><x id="83" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[0]"/>User Data options<x id="84" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source>Because LibreOffice can use the name or initials stored in the <g id="85">LibreOffice – User Data</g> page for several things – including document properties (‘created by’ and ‘last edited by’ information), the name of the author of comments and changes, and the sender address in mailing lists – you will want to ensure that the correct information appears here.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>Fill in the form (not shown here), or amend or delete any existing information. If you do not want user data to be part of the document’s properties, clear the box at the bottom.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="86" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/><x id="87" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:alphabetical-index-mark[0]"/>General options<x id="88" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>The options on the <g id="89">LibreOffice – General</g> page (Figure <x id="90" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]"/>) are described below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source><x id="91" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]/text:alphabetical-index-mark[0]"/>Help – Extended tips</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>When <g id="92">Extended tips</g> is active, a brief description of the function of a particular icon or menu command or a field on a dialog appears when you hold the mouse pointer over that item.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="93" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="94"><g id="95"/></g>Figure <x id="96" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Setting general options for LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source>Print Dialogs – Use LibreOffice dialogs</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>Same as above, but for the Print dialogs. Available only in some operating systems and desktop managers. (Not shown in illustration.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source><x id="97" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/text:alphabetical-index-mark[0]"/>Document status – Printing sets “document modified” status</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>If this option is selected, then the next time you close the document after printing, the print date is recorded in the document properties as a change and you will be prompted to save the document again, even if you did not make any other changes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source><x id="98" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:soft-page-break[0]"/><x id="99" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:alphabetical-index-mark[0]"/>Year (two digits)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>Specifies <x id="100" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]/text:alphabetical-index-mark[0]"/>how two-digit years are interpreted. For example, if the two-digit year is set to 1930, and you enter a date of 1/1/30 or later into your document, the date is interpreted as 1/1/1930 or later. An “earlier” date is interpreted as being in the following century; that is, 1/1/20 is interpreted as 1/1/2020.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]">
+        <source>Help Improve LibreOffice – Collect usage data and send it to The Document Foundation</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source>Send usage data to help The Document Foundation improve usability of the software. Data about usage patterns helps with identifying the most frequently used sequences of commands while performing common tasks; the developers can then design a user interface that is easier to use and more productive. The usage data is sent anonymously and carries no document contents, only the commands used.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="101" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/><x id="102" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:alphabetical-index-mark[0]"/>View options<x id="103" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>The options on the <g id="104">LibreOffice – View</g> page affect the way the document window looks and behaves. Some of these options are described below Figure <x id="105" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]"/>. Set them to suit your personal preferences.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="106" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="107"><g id="108"/></g>Figure <x id="109" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="110">Choosing View options for LibreOffice applications</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source><x id="111" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:alphabetical-index-mark[0]"/>User Interface – <x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:alphabetical-index-mark[1]"/>Scaling</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>If the text in the help files or on the menus of the LibreOffice user interface is too small or too large, you can change it by specifying a scaling factor. Sometimes a change here can have unexpected results, depending on the screen fonts available on your system. However, it does not affect the actual font size of the text in your documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]">
+        <source>User Interface – <x id="113" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/text:alphabetical-index-mark[0]"/>Icon size</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source>This box specifies the display size of toolbar icons (Automatic, Small, or Large). The Automatic icon size option uses the setting for your operating system.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>User Interface <g id="114"/>- Icon style</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>This box specifies the icon style (theme). Here the Automatic option uses an icon set compatible with your operating system and choice of desktop: for example, KDE or Gnome on Linux.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source><x id="115" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/text:soft-page-break[0]"/>User interface – <x id="116" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/text:alphabetical-index-mark[0]"/><x id="117" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/text:alphabetical-index-mark[1]"/>Screen font anti-aliasing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>(Not available in Windows.) Select this option to smooth the screen appearance of text. Enter the smallest font size to apply anti-aliasing.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]">
+        <source><x id="118" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/text:alphabetical-index-mark[0]"/>Mouse positioning</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>Specifies if and how the mouse pointer will be positioned in newly opened dialogs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>Middle mouse button</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>Defines the function of the <x id="119" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/text:alphabetical-index-mark[0]"/>middle mouse button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source><g id="120">Automatic scrolling</g> – dragging while pressing the middle mouse button shifts the view.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]">
+        <source><g id="121">Paste clipboard</g> – pressing the middle mouse button inserts the contents of the “<x id="122" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]/text:alphabetical-index-mark[0]"/>Selection clipboard” at the cursor position.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source>The <x id="123" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]/text:alphabetical-index-mark[0]"/>“Selection clipboard” is independent of the normal clipboard that you use by <g id="124">Edit &gt; Copy/Cut/Paste</g> or their respective keyboard shortcuts. Clipboard and “Selection clipboard” can contain different contents at the same time.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Function</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Clipboard</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Selection clipboard</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Copy content</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>Edit &gt; Copy</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[1]">
+        <source>Ctrl+C</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Select text, table, or object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Paste content</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source><g id="125">Edit &gt; Paste</g> <g id="126">Ctrl+V</g> pastes at the cursor position.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Clicking the middle mouse button pastes at the mouse pointer position.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Pasting into another document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>No effect on the clipboard contents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>The last marked selection is the content of the selection clipboard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source>Graphics output – Use hardware acceleration</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source>Directly accesses hardware features of the graphical display adapter to improve the screen display. Not supported on all operating systems and LibreOffice distributions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>Graphics output – Use anti-aliasing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>Enables and disables anti-aliasing, which makes the display of most graphical objects look smoother and with fewer artifacts. Not supported on all operating systems and LibreOffice distributions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>Press <g id="127">Shift+Ctrl+R</g> to restore or refresh the view of the current document after changing the anti-aliasing settings, to see the effect.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>Graphics output – Use OpenGL for all rendering (on restart)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>Enables and disables the use of the 3D graphics language OpenGL. Not supported on all operating systems and LibreOffice distributions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>Graphics output – Force OpenGL even if blacklisted (on restart)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>Forces the use of OpenGL even if the graphics device is blacklisted. A device is blacklisted when it is buggy or may render graphics with poor quality. Not supported on all operating systems and LibreOffice distributions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>Menu – <x id="128" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]/text:alphabetical-index-mark-start[0]"/>icons in menus<x id="129" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]">
+        <source>Causes icons as well as words to be visible in menus.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>Font Lists – Show <x id="130" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]/text:alphabetical-index-mark[0]"/>preview of fonts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]">
+        <source>Causes the font list to look like Figure <x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]"/>, Left, with the font names shown as an example of the font; with the option deselected, the font list shows only the font names, not their formatting (Figure <x id="132" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]"/>, Right). The fonts you will see listed are those that are installed on your system.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source><x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]/text:soft-page-break[0]"/>Fonts which are tuned for use with a specific script, such as Arabic, Hebrew, Malayalam, and so on, now show an additional preview of some sample text in the target script.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Figure <x id="134" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]"/>: Font list (Left) with preview; (Right) without preview</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="136" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[0]"/>Print options<x id="137" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]">
+        <source>On the <g id="138">LibreOffice – Print</g> page, set the print options to suit your default printer and your most common printing method. Most of these options should be self-explanatory.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]">
+        <source>The option <g id="139">PDF as Standard Print Job Format</g> is not available on Windows. Select this option to change the internal print job format from a Postscript document description to a PDF description. This format has a number of advantages over Postscript. For more information, see <g id="140">http://www.linuxfound</g><g id="141">ation.org/collaborate/workgroups/openprinting/pdf_as_standard_print_job_format</g> </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]">
+        <source>Deselecting this option reverts to the Postscript document workflow system.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>In the <g id="142">Printer warnings</g> section near the bottom of the page, you can choose whether to be warned if the paper size or orientation specified in your document does not match the paper size or orientation available for your printer. Having these warnings turned on can be quite helpful, particularly if you work with documents produced by people in other countries where the standard paper size is different from yours.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]">
+        <source>If your printouts are incorrectly placed on the page or chopped off at the top, bottom, or sides, or the printer is refusing to print, the most likely cause is page size incompatibility.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="143" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="144"><g id="145"/></g>Figure <x id="146" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="147">Choosing general printing options to apply to all LibreOffice components</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="148" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/><x id="149" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:alphabetical-index-mark[0]"/>Paths options<x id="150" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]">
+        <source>On the <g id="151">LibreOffice – Paths</g> page, you can change the <x id="152" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/text:alphabetical-index-mark[0]"/>location of files associated with, or used by, LibreOffice to suit your working situation. In a Windows system, for example, you might want to store documents by default somewhere other than My Documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source>To make changes, select an item in the list shown in Figure <x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]"/><g id="154"/>and click <g id="155">Edit</g>. On the Select Path dialog (not shown; may also be titled Edit Paths), add or delete folders as required, and then click <g id="156">OK</g> to return to the Options dialog. Note that some items can have at least two paths listed: one to a shared folder (which might be on a network) and one to a user-specific folder (normally on the user’s personal computer).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]">
+        <source>You can use the entries on the <g id="157">LibreOffice – Paths</g> page to compile a list of files, such as those containing AutoText, that you need to back up or copy to another computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Viewing the paths of files used by LibreOffice </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/><x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:soft-page-break[0]"/><x id="160" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:alphabetical-index-mark[0]"/><x id="161" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:alphabetical-index-mark[1]"/>Fonts options<x id="162" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]">
+        <source>You can define replacements for any fonts that might appear in your documents. If you receive from someone else a document containing fonts that you do not have on your system, LibreOffice will substitute fonts for those it does not find. You might prefer to specify a different font from the one that the program chooses.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]">
+        <source>These choices do <g id="163">not</g> affect the default font for your documents. To do that, you need to change the default template for documents, as described in Chapter 3.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]">
+        <source>On the <g id="164">LibreOffice – Fonts</g> page:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]">
+        <source>Select the <g id="165">Apply </g><x id="166" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[0]"/><x id="167" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[1]"/><g id="168">replacement table</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[1]/text:p[0]">
+        <source>Select or type the name of the font to be replaced in the <g id="169">Font</g> box. (If you do not have this font on your system, it will not appear in the drop-down list in this box, so you need to type it in.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[2]/text:p[0]">
+        <source>In the <g id="170">Replace with</g> box, select a suitable font from the drop-down list of fonts installed on your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[3]/text:p[0]">
+        <source>The check mark to the right of the <g id="171">Replace with</g> box turns green. Click on this check mark. A row of information now appears in the larger box below the input boxes. Select<g id="172"> Always</g> to replace the font, even if the original font is installed on your system. Select <g id="173">Screen only</g> to replace the screen font only and never replace the font for printing. The results of combining these selections are given in Table <x id="174" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[3]/text:p[0]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[4]/text:p[0]">
+        <source>In the bottom section of the page, you can change the typeface and size of the font used to display source code such as HTML and Basic (in macros).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="175" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="176"><g id="177"/></g>Figure <x id="178" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Defining a font to be substituted for another font</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]">
+        <source><x id="179" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]/text:soft-page-break[0]"/>Table <x id="180" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]"/>. Font substitution replacement actions</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Always checkbox</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Screen only checkbox</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Replacement action</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>checked</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>blank</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Font replacement on screen and when printing, whether the font is installed or not.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>checked</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>checked</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Font replacement only on screen, whether the font is installed or not.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>blank</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>checked</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Font replacement only on screen, but only if font is not available.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>blank</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>blank</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Font replacement on screen and when printing, but only if font is not available.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="181" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/><x id="182" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:alphabetical-index-mark[0]"/>Security options<x id="183" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]">
+        <source>Use <x id="184" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]/text:alphabetical-index-mark[0]"/>the <g id="185">LibreOffice – Security</g> page to choose security options for saving documents and for opening documents that contain macros.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]">
+        <source>Security options and warnings</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[71]">
+        <source>If you record changes, save multiple versions, or include hidden information or notes in your documents, and you do not want some of the recipients to see that information, you can set warnings to remind you to remove it, or you can have LibreOffice remove some of it automatically. Note that (unless removed) much of this information is retained in a file whether the file is in LibreOffice’s default OpenDocument format, or has been saved to other formats, including PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]">
+        <source>Click the <g id="186">Options</g> button to open a separate dialog with specific choices (Figure <x id="187" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]"/>). See “<x id="188" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]"/>” on page <x id="189" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Choosing security options for opening and saving documents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[74]">
+        <source>Passwords for web connections</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]">
+        <source>You can enter a master password to enable easy access to websites that require a user name and password. If you select the <g id="190">Persistently save passwords for web connections</g> option, the Set Master Password dialog opens (Figure <x id="191" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]"/>). LibreOffice will securely store all passwords that you use to access files from web servers. You can retrieve the passwords from the list after you enter the master password.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[76]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[76]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Set Master Password dialog for web connections</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]">
+        <source>Macro security</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]">
+        <source>Click the <g id="192">Macro Security</g> button to open the <x id="193" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]/text:alphabetical-index-mark[0]"/>Macro Security dialog (not shown here), where you can adjust the security level for executing macros and specify trusted sources.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]">
+        <source>Certificate Path</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[80]">
+        <source>Users can digitally sign documents using LibreOffice. A digital signature requires a personal signing certificate. Most operating systems can generate a self-signed certificate. However, a personal certificate issued by an outside agency (after verifying an individual’s identity) has a higher degree of trust associated with it than does a self-signed certificate. LibreOffice does not provide a secure method of storing these certificates, but it can access certificates that have been saved using other programs. Click the <g id="194">Certificate</g> button and select which certificate store to use.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]">
+        <source>The Certificate Path option appears only on Linux and Mac systems. On Windows, LibreOffice uses the default Windows location for storing and retrieving certificates.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]">
+        <source>TSAs –Time Stamping Authorities</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]">
+        <source>Allows you to optionally select a Time Stamping Authority (TSA) URL for PDF documents created by LibreOffice. Adding a trusted timestamp to an electronic signature on a PDF provides a digital seal of data integrity and a trusted date and time of when the file was signed. Recipients of PDF documents with a trusted timestamp can verify when the document was digitally or electronically signed, as well as verify that the document was not altered after the date the timestamp vouches for.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="195" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/>Security options and warnings<x id="196" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]">
+        <source>The following options are on the Security options and warnings dialog (Figure <x id="197" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Security options and warnings dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[86]">
+        <source><x id="198" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[86]/text:alphabetical-index-mark[0]"/>Remove personal information on saving</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]">
+        <source>Select this option to always remove user data from the file properties when saving the file. To manually remove personal information from specific documents, deselect this option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]">
+        <source><x id="199" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]/text:alphabetical-index-mark-start[0]"/>Ctrl-click required to follow hyperlinks<x id="200" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]">
+        <source>The default behavior in LibreOffice is to <g id="201">Ctrl+click</g> on a hyperlink to open the linked document. Many people find creation and editing of documents easier when accidental clicks on links do not activate the links. To set LibreOffice to activate hyperlinks using an ordinary click, deselect this option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]">
+        <source>The other options on this dialog should be self-explanatory.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="202" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="203" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark-start[0]"/>Personalization<x id="204" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/><x id="205" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[91]">
+        <source>You can customize the overall appearance of LibreOffice with themes designed for Mozilla Firefox.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]">
+        <source>On the <g id="206">LibreOffice – Personalization</g> page, select <g id="207">Own Theme</g> and then click <g id="208">Select Theme.</g> Another dialog opens. Type a search term, click <g id="209">Search</g>, and wait while theme thumbnails load. Select one and click <g id="210">OK</g> to apply the theme. After a brief pause the appearance of LibreOffice will refresh and reflect the selected theme. An example is shown in Figure <x id="211" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]"/>. For full details about themes, visit the Mozilla website: <g id="212">https://www.https://addons.mozilla.org/en-US/firefox/themes/</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="213" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="214"><g id="215"/></g>Figure <x id="216" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="217">Personalization dialogs</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="218" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="219"><g id="220"/></g>Figure <x id="221" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Theme selection from Mozilla Firefox</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Sample personalized theme</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="222" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/><x id="223" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:alphabetical-index-mark[0]"/>Application colors<x id="224" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]">
+        <source>Writing, editing, and (especially) page layout are often easier when you can see the page margins (text boundaries), the boundaries of tables and sections (in Writer documents), page breaks in Calc, grid lines in Draw or Writer, and other features. In addition, you might prefer to use colors that are different from LibreOffice’s defaults for such items as comment indicators or field shadings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]">
+        <source>On the <g id="225">LibreOffice – Application colors</g> page (Figure <x id="226" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]"/>), you can specify which items are visible and the colors used to display various items.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]">
+        <source>To show or hide items such as <x id="227" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[0]"/>text boundaries, select or deselect the options next to the names of the items.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]">
+        <source>To change the default colors for items, click the down-arrow in the <g id="228">Color Setting</g> column by the name of the item and select a color from the list box. Note that you can change the list of available colors selecting other available palettes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[2]/text:p[0]">
+        <source>To save your color changes as a <x id="229" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[2]/text:p[0]/text:alphabetical-index-mark[0]"/>color scheme, click <g id="230">Save</g>, type a name in the <g id="231">Scheme</g> box, and then click <g id="232">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="233" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="234"><g id="235"/></g>Figure <x id="236" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="237">Showing or hiding text, object, and table boundaries</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="238" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/><x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark[0]"/>Accessibility options<x id="240" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]">
+        <source>Accessibility options include whether to allow animated graphics or text, how long help tips remain visible, some options for high contrast display, and a way to change the font for the LibreOffice user interface.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]">
+        <source>Accessibility support relies on the Java Runtime Environment for communication with assistive technology tools. The <g id="241">Support assistive technology tools</g> option is not shown on all LibreOffice installations. See <g id="242">Assistive Tools in LibreOffice</g> in the Help for other requirements and information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]">
+        <source>Select or deselect the options as required.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="243" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="244"><g id="245"/></g>Figure <x id="246" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="247">Choosing accessibility options</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="248" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/><x id="249" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark[0]"/>Advanced options<x id="250" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]">
+        <source>Java options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]">
+        <source>If you install or update a Java Runtime Environment (JRE) after you install LibreOffice, or if you have more than one JRE installed on your computer, you can use the <g id="251">LibreOffice – Advanced options</g> page to choose the JRE for LibreOffice to use.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]">
+        <source><x id="252" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Note </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]">
+        <source>LibreOffice needs Java to run several wizards (such as <g id="253">File &gt; Wizards &gt; Letter</g>) and to run databases with the internal HSQLDB engine.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="254" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="255"><g id="256"/></g>Figure <x id="257" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="258">Choosing a Java runtime environment</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]">
+        <source>If you are a system administrator, programmer, or other person who customizes JRE installations, you can use the Parameters and Class Path pages (reached from the Java page) to specify this information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]">
+        <source>If you do not see anything listed in the middle of the page, wait a few minutes while LibreOffice searches for JREs on the hard disk.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]">
+        <source>If LibreOffice finds one or more JREs, it will display them there. You can then select the <g id="259">Use a </g><x id="260" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]/text:alphabetical-index-mark[0]"/><g id="261">Java runtime environment</g> option and (if necessary) choose one of the JREs listed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]">
+        <source>Optional (unstable) options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]">
+        <source>Enable <x id="262" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]/text:alphabetical-index-mark[0]"/>experimental features</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]">
+        <source>Selecting this option enables features that are not yet complete or contain known bugs. The list of these features is different version by version.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]">
+        <source><x id="263" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/text:alphabetical-index-mark[0]"/>Enable macro recording (limited)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]">
+        <source>This option enables macro recording, with some limitations. Opening a window, switching between windows, and recording in a different window to that in which the recording began, are not supported. Only actions relating to document contents are recordable, so changes in Options or customizing menus are not supported. For more about macro recording, see Chapter 13, Getting Started with Macros.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]">
+        <source>Expert Configuration</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]">
+        <source>Most users will have no need to use this. Click the <g id="264">Expert Configuration</g> button to open a new window in which you can fine-tune the LibreOffice installation. The page offers detailed configuration options for many aspects of LibreOffice’s appearance and performance. Double-click on a listed preference to enter a value to configure the preference.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]">
+        <source><x id="265" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[118]">
+        <source>The Expert Configuration dialog lets you access, edit, and save configuration preferences that can turn the user profile of LibreOffice unstable, inconsistent, or even unusable.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="266" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/>Basic IDE options<x id="267" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]">
+        <source>The Basic IDE Options are available after <g id="268">Enable experimental features</g> has been selected on the Advanced page of the Options dialog and the options have been saved. These options are for macro programmers and are not discussed here.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="269" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="270"><g id="271"/></g>Figure <x id="272" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="273">Basic IDE Options dialog</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="274" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/>Online update options<x id="275" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]">
+        <source>On the <g id="276">LibreOffice – Online Update</g> page (Figure <x id="277" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]"/>), you can choose whether and how often to have the program check the LibreOffice website for program updates. If the <x id="278" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]/text:alphabetical-index-mark[0]"/><g id="279">Check for updates automatically</g> option is selected, an icon appears at the right-hand end of the menu bar when an update is available. Click this icon to open a dialog where you can choose to download the update.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]">
+        <source>If the <x id="280" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]/text:alphabetical-index-mark[0]"/><g id="281">Download updates automatically</g> option is selected, the download starts when you click the icon. To change the download destination, click the <g id="282">Change</g> button and select the required folder in the file browser window.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]">
+        <source>If the <g id="283">Send OS version &amp; simple hardware info</g> option is selected, the information of the computer architecture and operating system will be sent to the server for statistics collection.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="284" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="285"><g id="286"/></g>Figure <x id="287" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="288">Online update options</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="289" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/><x id="290" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:soft-page-break[0]"/>OpenCL options<x id="291" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]">
+        <source>OpenCL (Open Computing Language) is a software architecture used to write programs that run in different processors of the computer, such as the CPU and GPU (graphics processing unit) of the video card. With OpenCL enabled, LibreOffice can benefit from the very fast numerical calculations performed in the GPU, which is especially useful in very large spreadsheets with extensive calculations. The computer video card driver must have support for OpenCL to use this feature.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]">
+        <source>OpenCL Options –Allow use of Software Interpreter (even when OpenCL is not available)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]">
+        <source>Mark this box to emulate OpenCL if your computer video card driver does not support OpenCL.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]">
+        <source>Allow use of OpenCL</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]">
+        <source>Let LibreOffice use the video card GPU to perform numerical calculation with great speed gain. The two boxes below list the OpenCL drivers whitelist and blacklist. Click the <g id="292">Edit</g>, <g id="293">Add...</g> and <g id="294">Delete</g> buttons to modify the lists entries.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: OpenCL options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="295" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/>Choosing options for loading and saving documents<x id="296" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]">
+        <source>You can set the options for loading and saving documents to suit the way you work.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]">
+        <source>If the Options dialog is not already open, click <g id="297">Tools &gt; Options</g>. Click the expansion symbol (+ or triangle) to the left of <g id="298">Load/Save</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/>General<x id="300" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]">
+        <source>Most of the choices on the <g id="301">Load/Save – General</g> page are familiar to users of other office suites. Some items of interest are described below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]">
+        <source><x id="302" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]/text:alphabetical-index-mark[0]"/>Load user-specific settings with the document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]">
+        <source>A LibreOffice document contains certain settings that are read from the user’s system. When you save a document, these settings are saved with it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]">
+        <source>Select this option so that when a document loads, it ignores the stored settings in favor of the settings on your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]">
+        <source>Even if you do not select this option, some settings are taken from your LibreOffice installation:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]">
+        <source>Settings available in <g id="303">File &gt; Print &gt; Options</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[1]/text:p[0]">
+        <source>Name of Fax</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[2]/text:p[0]">
+        <source>Spacing options for paragraphs before text tables</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[3]/text:p[0]">
+        <source>Information about automatic updating for links, field functions and charts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[4]/text:p[0]">
+        <source>Information about working with Asian character formats.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="304" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="305"><g id="306"/></g>Figure <x id="307" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="308">Choosing Load and Save options</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]">
+        <source>The following setting is <g id="309">always</g> loaded with a document, whether or not this option is marked:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]">
+        <source>Data source linked to the document and its view.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]">
+        <source>If you deselect this option, the user’s personal settings do not overrule the settings in the document. For example, your choice (in the options for LibreOffice Writer) of how to update links is affected by the Load user-specific settings option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]">
+        <source><x id="310" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]/text:alphabetical-index-mark[0]"/>Load printer settings with the document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]">
+        <source>If enabled, the printer settings will be loaded with the document. This can cause a document to be printed on a distant printer (perhaps in an office setting), if you do not change the printer manually in the Print dialog. If disabled, your standard printer will be used to print this document. The current printer settings will be stored with the document whether or not this option is selected.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]">
+        <source><x id="311" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]/text:alphabetical-index-mark[0]"/>Save AutoRecovery information every __ Minutes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]">
+        <source>Choose whether to enable AutoRecovery and how often to save the information used by the AutoRecovery process. AutoRecovery in <x id="312" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]/text:alphabetical-index-mark[0]"/>LibreOffice saves the information needed to restore all open documents in case of a crash. If you have this option set, recovering your document after a system crash will be easier.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]">
+        <source><x id="313" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]/text:alphabetical-index-mark[0]"/>Edit document properties before saving</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]">
+        <source>If you select this option, the Document Properties dialog pops up to prompt you to enter relevant information the first time you save a new document (or whenever you use <g id="314">Save As</g>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]">
+        <source>Always create backup copy</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]">
+        <source>Saves the previous version of a document as a backup copy whenever you save a document. Every time LibreOffice creates a backup copy, the previous backup copy is replaced. The backup copy gets the extension BAK. Authors whose work may be very lengthy should always consider using this option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]">
+        <source><x id="315" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]/text:soft-page-break[0]"/><x id="316" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]/text:alphabetical-index-mark[0]"/>Save URLs relative to file system / internet</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[150]">
+        <source>Use this option to select the default for relative addressing of URLs in the file system and on the Internet. Relative addressing is only possible if the source document and the referenced document are both on the same drive.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[151]">
+        <source>A relative address always starts from the directory in which the current document is located. In contrast, absolute addressing always starts from a root directory. The following table demonstrates the difference in syntax between relative and absolute referencing.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Examples</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>File system</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Internet</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>relative</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>../images/img.jpg</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>../images/img.jpg</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>absolute</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>file:///c|/work/images/img.jpg</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>http://myserver.com/work/images/img.jpg</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[152]">
+        <source>If you choose to save relatively, the references to embedded graphics or other objects in your document will be saved relative to the location in the file system. In this case, it does not matter where the referenced directory structure is recorded. The files will be found regardless of location, as long as the reference remains on the same drive or volume. This is important if you want to make the document available to other computers that may have a completely different directory structure, drive or volume names. It is also recommended to save relatively if you want to create a directory structure on an Internet server.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[153]">
+        <source>If you prefer absolute saving, all references to other files will also be defined as absolute, based on the respective drive, volume or root directory. The advantage is that the document containing the references can be moved to other directories or folders, and the references remain valid.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]">
+        <source><x id="317" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[154]/text:alphabetical-index-mark[0]"/>Default file format and ODF settings</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]">
+        <source><x id="318" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]/text:alphabetical-index-mark[0]"/><g id="319">ODF format version.</g> LibreOffice by default saves documents <x id="320" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[155]/text:alphabetical-index-mark[1]"/>in OpenDocument Format (ODF) version 1.2 Extended. While this allows for improved functionality, there may be backwards compatibility issues. When a file saved in ODF 1.2 Extended is opened in an editor that uses earlier versions of ODF (1.0/1.1), some of the advanced features may be lost. Two notable examples are cross-references to headings and the formatting of numbered lists. If you plan to share documents with people who use editors that use older versions of ODF, you may wish to save the document using ODF version 1.0/1.1.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[156]">
+        <source><g id="321">Document type. </g>If you routinely share documents with users of Microsoft Office, you might want to change the <x id="322" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[156]/text:alphabetical-index-mark[0]"/><g id="323">Always save as</g> attribute for documents to the Microsoft Office formats. Current versions of Microsoft Word can open ODT files, so this may no longer be needed.<x id="324" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[156]/text:alphabetical-index-mark[1]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]">
+        <source><x id="325" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-start[0]"/>VBA Properties<x id="326" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[157]">
+        <source>On the <g id="327">VBA Properties</g> page, you can choose whether to keep any macros in Microsoft Office documents that are opened in LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[158]">
+        <source>If you choose <x id="328" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[158]/text:alphabetical-index-mark[0]"/><g id="329">Load Basic code</g>, you can edit the macros in LibreOffice. The changed code is saved in an ODF document but is not retained if you save into a Microsoft Office format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[159]">
+        <source>If you choose <x id="330" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[159]/text:alphabetical-index-mark[0]"/><g id="331">Save original Basic code</g>, the macros will not work in LibreOffice but are retained unchanged if you save the file into Microsoft Office format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[160]">
+        <source>If you are importing a Microsoft Word or Excel file containing VBA code, you can select the option <g id="332">Executable code</g>. Whereas normally the code is preserved but rendered inactive (if you inspect it with the StarBasic IDE you will notice that it is all commented), with this option the code is ready to be executed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[161]/draw:frame[0]/draw:text-box[0]/text:p[1]">
+        <source>Figure <x id="333" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[161]/draw:frame[0]/draw:text-box[0]/text:p[1]"/>: Choosing Load/Save VBA Properties</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[162]">
+        <source><g id="334">Save original Basic code</g> takes precedence over <g id="335">Load Basic code</g>. If both options are selected and you edit the disabled code in LibreOffice, the original Microsoft Basic code will be saved when saving in a Microsoft Office format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[163]">
+        <source>To remove any possible macro viruses from the Microsoft Office document, deselect <g id="336">Save original Basic code</g>. The document will be saved without the Microsoft Basic code.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]">
+        <source><x id="337" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-start[0]"/><x id="338" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:alphabetical-index-mark[0]"/>Microsoft Office<x id="339" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[164]">
+        <source>On the <g id="340">Load/Save – Microsoft Office</g> page (Figure <x id="341" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[164]"/>), you can choose what to do when importing and exporting Microsoft Office OLE objects (linked or embedded objects or documents such as spreadsheets or equations).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[165]">
+        <source>Select the [L] options to convert Microsoft OLE objects into the corresponding LibreOffice OLE objects when a Microsoft document is loaded into LibreOffice (mnemonic: “L” for “load”).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[166]">
+        <source>Select the [S] options to convert LibreOffice OLE objects into the corresponding Microsoft OLE objects when a document is saved in a Microsoft format (mnemonic: “S” for “save”).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[167]/draw:frame[0]/draw:text-box[0]/text:p[1]">
+        <source>Figure <x id="342" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[167]/draw:frame[0]/draw:text-box[0]/text:p[1]"/>: Choosing Load/Save Microsoft Office options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]">
+        <source><x id="343" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-start[0]"/><x id="344" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:soft-page-break[0]"/><x id="345" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:alphabetical-index-mark-start[0]"/>HTML compatibility<x id="346" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-end[0]"/><x id="347" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[168]">
+        <source>Choices made on the <g id="348">Load/Save – HTML Compatibility</g> page (Figure <x id="349" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[168]"/>) affect HTML pages imported into LibreOffice and those exported from LibreOffice. See <g id="350">HTML documents; importing/exporting</g> in the Help for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[169]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[169]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Choosing HTML compatibility options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[170]">
+        <source>Font sizes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[171]">
+        <source>Use these fields to define the respective <x id="351" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[171]/text:alphabetical-index-mark[0]"/>font sizes for the HTML &lt;font size=”1”&gt; to &lt;font size=”7”&gt; tags, if they are used in the HTML pages. (Many pages no longer use these tags.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[172]">
+        <source>Import – Use 'English (USA)' locale for numbers</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]">
+        <source><x id="352" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]/text:alphabetical-index-mark[0]"/>When importing numbers from an HTML page, the decimal and thousands separator characters differ according to the locale of the HTML page. The clipboard, however, contains no information about the locale. If this option is <g id="353">not</g> selected, numbers will be interpreted according to the <g id="354">Locale setting</g> in <g id="355">Tools &gt; Options &gt; Language Settings &gt; Languages</g> (see page <x id="356" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[173]"/>). If this option is selected, numbers will be interpreted as for the English (USA) locale.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[174]">
+        <source>Import – Import unknown HTML tags as fields</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[175]">
+        <source>Select this option if you want tags that are not recognized by LibreOffice to be imported as fields. For an opening tag, an HTML_ON field will be created with the value of the tag name. For a closing tag, an HTML_OFF will be created. These fields will be converted to tags in the HTML export.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[176]">
+        <source>Import – Ignore font settings</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[177]">
+        <source>Select this option to have LibreOffice <x id="357" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[177]/text:alphabetical-index-mark[0]"/><x id="358" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[177]/text:alphabetical-index-mark[1]"/>ignore all font settings when importing. The fonts that were defined in the HTML Page Style will be used.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[178]">
+        <source>Export</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[179]">
+        <source>To optimize the <x id="359" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[179]/text:alphabetical-index-mark[0]"/>HTML<x id="360" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[179]/text:alphabetical-index-mark[1]"/> export, select a browser or HTML standard from the <g id="361">Export</g> box. If LibreOffice Writer is selected, specific LibreOffice Writer instructions are exported.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[180]">
+        <source>Export – LibreOffice Basic</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[181]">
+        <source>Select this option to include LibreOffice Basic macros (scripts) when exporting to HTML format. You must activate this option <g id="362">before</g> you create the LibreOffice Basic macro; otherwise the script will not be inserted. LibreOffice Basic macros must be located in the header of the HTML document. Once you have created the macro in the LibreOffice Basic IDE, it appears in the source text of the HTML document in the header.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[182]">
+        <source>If you want the macro to run automatically when the HTML document is opened, choose <g id="363">Tools &gt; Customize &gt; Events</g>. See Chapter 13, Getting Started with Macros, for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[183]">
+        <source><x id="364" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[183]/text:soft-page-break[0]"/>Export – Display warning</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[184]">
+        <source>When the <g id="365">LibreOffice Basic</g> option (see above) is <g id="366">not</g> selected, the <g id="367">Display warning</g> option becomes available. If the <g id="368">Display warning</g> option is selected, then when exporting to HTML a warning is shown that LibreOffice Basic macros will be lost.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[185]">
+        <source>Export – Print layout</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[186]">
+        <source>Select this option to export the print layout of the current document as well. The HTML filter supports CSS2 (Cascading Style Sheets Level 2) for printing documents. These capabilities are only effective if print layout export is activated.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[187]">
+        <source>Export – Copy local graphics to Internet</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[188]">
+        <source>Select this option to automatically upload the embedded pictures to the Internet server when uploading using FTP.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[189]">
+        <source>Export – Character set</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[190]">
+        <source>Select the appropriate character set for the export.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]">
+        <source><x id="369" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-start[0]"/><x id="370" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:alphabetical-index-mark[0]"/>Choosing language settings<x id="371" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[191]">
+        <source>To customize the language settings in LibreOffice, you can do any of the following:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]">
+        <source>Install the required dictionaries</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]">
+        <source>Change some locale and language settings</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]">
+        <source>Choose spelling options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]">
+        <source><x id="372" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-start[0]"/>Install the required <x id="373" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:alphabetical-index-mark[0]"/>dictionaries<x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[192]">
+        <source>LibreOffice automatically installs many dictionaries with the program. To add other dictionaries, be sure you are connected to the Internet, and then choose <g id="375">Tools &gt; Language &gt; More Dictionaries Online</g>. LibreOffice will open your default web browser to a page containing links to additional dictionaries that you can install. Follow the prompts to select and install the ones you want.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]">
+        <source><x id="376" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-start[0]"/>Change some <x id="377" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:alphabetical-index-mark[0]"/>locale and language settings<x id="378" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[193]">
+        <source>You can change some details of the locale and language settings that LibreOffice uses for all documents, or for specific documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[194]">
+        <source>In the Options dialog, click the expansion symbol (+ sign or triangle) by <g id="379">Language Settings &gt; Languages</g>. The exact list shown depends on the <g id="380">Enhanced language support</g> settings (see Figure <x id="381" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[194]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[195]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source>Figure <x id="382" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[195]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: LibreOffice language options, without and with Asian and CTL options enabled</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[196]">
+        <source><x id="383" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[196]/text:soft-page-break[0]"/>On the right-hand side of the <g id="384">Language Settings – Languages</g> page, change the <g id="385">User interface</g>, <g id="386">Locale setting</g>, <g id="387">Default currency</g>, and <g id="388">Default languages for documents</g> as required. In the example, English (USA) has been chosen for all the appropriate settings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[197]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[197]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Choosing language options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[198]">
+        <source>User interface</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[199]">
+        <source>The language of the user interface is usually set at the time LibreOffice is installed to match the language of the operating system. If more than one language has been installed for LibreOffice, you can select which language will be used for menus, dialogs, and help files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[200]">
+        <source>Locale setting</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[201]">
+        <source>The local setting is the basis for many other settings within LibreOffice, for example defaults for numbering, currency, and units of measure. Unless you select something else here, the locale of the operating system will be set as default.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[202]">
+        <source>Decimal separator key</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[203]">
+        <source>If the <g id="389">Decimal separator key</g> option is selected, LibreOffice uses the character defined by the default locale. If this option is not selected, the keyboard driver defines the character used.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[204]">
+        <source>Default currency</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[205]">
+        <source>The <g id="390">Default currency</g> is that used in the country entered as <g id="391">Locale</g>. The default currency determines the proper formatting of fields formatted as currency. If the locale setting is changed, the default currency changes automatically. If the <g id="392">default currency</g> is changed, all dialogs involving currency and all currency icons will be changed in all open documents. Documents that were saved with one currency as the default will open using the new currency defaults.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[206]">
+        <source>Date acceptance patterns</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[207]">
+        <source><g id="393">Date acceptance patterns</g> define how LibreOffice recognizes input as dates. <g id="394">Locale</g> also defines the default expression of dates. You can define additional date patterns, separated by semicolons, using Y, M, &amp; D for Year, Month, and Day. LibreOffice will always correctly interpret dates entered in ISO 8601 format as Y-M-D and YYYY-MM-DD.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]">
+        <source><x id="395" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[208]">
+        <source>Data entered into a Calc spreadsheet or a Writer table must be entered in a format defined by <g id="396">Locale</g> in order to be recognized as dates.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[209]">
+        <source>Default languages for documents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[210]">
+        <source>Select the languages used for the spelling checker, thesaurus, and hyphenation features of LibreOffice. If these options are only for the current document, select <g id="397">For the current document only.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]">
+        <source>If necessary, select the options to enable support for <x id="398" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]/text:alphabetical-index-mark[0]"/>Asian languages (Chinese, Japanese, Korean) and support for <x id="399" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]/text:alphabetical-index-mark[1]"/>CTL (complex text layout) languages such as Urdu, Thai, Hebrew, and Arabic. If you choose either of these options, the next time you open this dialog, you will see some extra choices under Language Settings, as shown in Figure <x id="400" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[211]"/>. These choices (<g id="401">Searching in Japanese</g>, <g id="402">Asian Layout</g>, and <g id="403">Complex Text Layout</g>) are not discussed here.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[212]">
+        <source>Enhanced language support – Ignore system input language </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[213]">
+        <source>Default language settings depend on the <g id="404">Locale</g> setting. The default locale is based on that of the computer’s operating system. A keyboard layout is normally based on the language used by the operating system but can be changed by the user. If this option is not selected, and there is a change in keyboard layout, input from the keyboard will be different from what is expected.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]">
+        <source><x id="405" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-start[0]"/><x id="406" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:alphabetical-index-mark[0]"/>Choose spelling options<x id="407" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[214]">
+        <source>To choose the options for checking spelling, click <g id="408">Language Settings &gt; Writing Aids</g>. In the <g id="409">Options</g> section of the page (Figure <x id="410" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[214]"/>), choose the settings that are useful for you.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[215]">
+        <source>Some considerations:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]">
+        <source>If you do not want spelling checked while you type, deselect <g id="411">Check spelling as you type</g>.<g id="412"> </g>This option can also be deselected using the <g id="413">Automatic Spell Checking</g> button on the Standard toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[1]/text:p[0]">
+        <source>If you want grammar to be checked as you type, you must have <g id="414">Check spelling as you type</g> enabled too.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[2]/text:p[0]">
+        <source>If you use <x id="415" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[2]/text:p[0]/text:alphabetical-index-mark[0]"/>a custom dictionary that includes words in all uppercase and words with numbers (for example, AS/400), select <g id="416">Check uppercase words</g> and <g id="417">Check words with numbers</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[3]/text:p[0]">
+        <source><g id="418">Check special regions</g> includes headers, footers, frames, and tables when checking spelling.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[216]">
+        <source>Here you can also select which user-defined (custom) dictionaries are active by default, and add or remove user-installed dictionaries, by clicking the <g id="419">New</g> or <g id="420">Delete</g> buttons. Dictionaries installed by the system cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[217]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[217]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Choosing languages, dictionaries, and options for checking spelling</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]">
+        <source><x id="421" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-start[0]"/>English sentence checking<x id="422" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[218]">
+        <source>On the <g id="423">Language Settings &gt; English sentence checking</g> page, you can choose which items are checked for, reported to you, or converted automatically. This menu is also found in the English dictionaries extension installed by default by LibreOffice. Select <g id="424">Tools &gt; Extension Manager</g>, select the English spelling dictionaries and click the <g id="425">Options</g> button to reveal the menu. Select which of the optional features you wish to check.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[219]">
+        <source>After selecting the additional grammar checks, you must restart LibreOffice, or reload the document, for them to take effect.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[220]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[220]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Choosing options for checking sentences in English</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]">
+        <source><x id="426" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-start[0]"/><x id="427" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:soft-page-break[0]"/>Grammar checking<x id="428" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[221]">
+        <source>Possible mistakes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[222]">
+        <source>Checks for things such as; <g id="429">with it’s</g>, <g id="430">he don’t</g>, <g id="431">this things</g> and so on.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[223]">
+        <source>Capitalization</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[224]">
+        <source>Checks for the capitalization of sentences. The sentence boundary detection depends on abbreviations.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[225]">
+        <source>Word duplication</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[226]">
+        <source>Checks for all word duplication, rather than just the default words ‘and’, ‘or’, ‘for’, and ‘the’.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[227]">
+        <source>Parentheses</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[228]">
+        <source>Checks for pairs of parentheses and quotation marks.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]">
+        <source><x id="432" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-start[0]"/>Punctuation<x id="433" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[229]">
+        <source>Word spacing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[230]">
+        <source>This option is selected by default. It checks for single spaces between words, indicating instances of double or triple spaces, but not of more spaces than that.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[231]">
+        <source>Sentence spacing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[232]">
+        <source>Checks for a single space between sentences, indicating when one or two extra spaces are found.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[233]">
+        <source>More spaces</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[234]">
+        <source>Checks word and sentence spacing for more than two extra spaces.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[235]">
+        <source>Em dash; En dash</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[236]">
+        <source>These options force a non-spaced em dash to replace a spaced en dash, or force a spaced en dash to replace a non-spaced em dash.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[237]">
+        <source>Quotation marks</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[238]">
+        <source>Checks for correct typographical double quotation marks.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[239]">
+        <source>Multiplication sign</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[240]">
+        <source>This option is selected by default. It replaces an ‘x’ used as a multiplication symbol with the correct typographical symbol.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[241]">
+        <source>Apostrophe</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[242]">
+        <source>Replaces an apostrophe with the correct typographical character.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[243]">
+        <source>Ellipsis</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[244]">
+        <source>Replaces three consecutive periods (full stops) with the correct typographical symbol.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[245]">
+        <source>Minus sign</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[246]">
+        <source>Replaces a hyphen with the correct minus typographical character.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]">
+        <source><x id="434" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-start[0]"/>Others<x id="435" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[247]">
+        <source>Convert to metric; Convert to non-metric</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[248]">
+        <source>Converts quantities in a given type of unit to quantities in the other type of unit: metric to imperial or imperial to metric.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[249]">
+        <source>Thousands separation of large numbers</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[250]">
+        <source>Converts a number with five or more significant digits to a common format, that is one which uses the comma as a thousands separator, or to the ISO format which uses a narrow space as a separator, depending on the locale setting for the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]">
+        <source><x id="436" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-start[0]"/>Other languages sentence checking<x id="437" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[251]">
+        <source>LibreOffice can also check sentences in other languages, notably Hungarian, Russian, and Brazilian Portuguese. These checkers are enabled by default if the language is the computer’s default language. The set of rules available for these sentence checkers depends on the language.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]">
+        <source><x id="438" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-start[0]"/><x id="439" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:soft-page-break[0]"/><x id="440" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:alphabetical-index-mark[0]"/>Choosing Internet options<x id="441" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[252]">
+        <source>The Internet options available depend on your operating system.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[253]">
+        <source>Use the Proxy page (if available) to save proxy settings for use with LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[254]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[254]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Internet options, showing E-mail page available to Linux users</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[255]">
+        <source>If you are using a Unix- or Linux-based operating system (including Mac OS X), an additional page <x id="442" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[255]/text:alphabetical-index-mark[0]"/>of E-mail options is available, where you can specify the e-mail program to use when you send the current document as e-mail. Under Windows the operating system’s default e-mail program is always used.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[256]">
+        <source>A MediaWiki publisher is included on Windows and Linux. To enable it, select MediaWiki in the Internet options, then click the <g id="443">Add</g> button to open the dialog shown in Figure <x id="444" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[256]"/>. Here you can specify the address (URL) and log-in information for a wiki. You can add several wikis to the list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[257]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[0]">
+        <source>Figure </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[257]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:span[2]">
+        <source>: Specifying a MediaWiki server account</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]">
+        <source><x id="445" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-start[0]"/>Controlling <x id="446" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:alphabetical-index-mark[0]"/>LibreOffice’s AutoCorrect functions<x id="447" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[258]">
+        <source>Some people find some or all of the items in LibreOffice’s AutoCorrect function annoying because they change what you type when you do not want it changed. Many people find some of the AutoCorrect functions quite helpful; if you do, then select the relevant options. But if you find unexplained changes appearing in your document, this is a good place to look to find the cause.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[259]">
+        <source>To open the AutoCorrect dialog, click <g id="448">Tools &gt; AutoCorrect &gt; AutoCorrect Options</g>. (You need to have a document open for this menu item to appear.) In Writer, this dialog has five tabs. In other components of LibreOffice, the dialog has only four tabs. More details are given in the component guides.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]">
+        <source><x id="449" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:bookmark-start[0]"/><x id="450" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:soft-page-break[0]"/>Troubleshooting LibreOffice in Safe Mode<x id="451" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[260]">
+        <source>Safe Mode offers various options to help restore an instance of LibreOffice that has become corrupted and stopped working or fails to launch for a variety of reasons.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[261]">
+        <source>To access Safe Mode:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]">
+        <source>Choose Help &gt; Restart in Safe Mode… from the menu bar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]">
+        <source>Start LibreOffice from the command line with the --safe-mode option</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[2]/text:p[0]">
+        <source>In Windows Only, choose LibreOffice (Safe Mode) from the Start Menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/draw:frame[0]/draw:text-box[0]/text:p[1]">
+        <source><x id="452" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/draw:frame[0]/draw:text-box[0]/text:p[1]/draw:frame[0]"/><g id="453"><g id="454"/></g>Figure <x id="455" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[262]/draw:frame[0]/draw:text-box[0]/text:p[1]"/>: LibreOffice Safe Mode</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[263]">
+        <source>In Safe Mode, you can find options for repairing or restoring your copy of LibreOffice. <g id="456"/>The following options get more extreme from the top down, so it is recommended that you try them successively. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]">
+        <source>Restore from Backup – <g id="457">LibreOffice keeps backups of previous configurations and activated extensions. <g id="458"/>Use this option to restore the user configuration, installed extensions or both, to a previous known working state if </g>you suspect that your problems were caused by recent changes to either.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[1]/text:p[0]">
+        <source>Configure – <g id="459">This option allows you to disable all user extensions, hardware acceleration, or both. <g id="460"/>This is a good option if you are experiencing crashes on start up or visual glitches that are often related to hardware acceleration.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[2]/text:p[0]">
+        <source>Extensions – <g id="461">If you suspect that a corrupted extension is blocking or causing LibreOffice to crash, this option allows you to uninstall all user extensions, as well as resetting the state of any shared or bundled extensions. <g id="462"/>In the case of shared or bundled extensions, the option will only work if the user has the proper system access rights and should be exercised with caution.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[3]/text:p[0]">
+        <source>Reset to Factory Settings – <g id="463">If all of the above fails, you can reset your settings and your user interface modifications, or your entire profile back to factory defaults. <g id="464"/></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]">
+        <source>Reset Settings and User Interface Modifications – this <g id="465">will reset your User Interface and configuration changes, but keep things like your personal dictionary, templates, etc... <g id="466"/></g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[1]/text:p[0]">
+        <source>Reset Entire User Profile – this will erase all customized options and return your user profile to the factory default state.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]">
+        <source><x id="467" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Apply Changes and Restart - Choose this option to apply any of the above changes and restart LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]">
+        <source>Continue in Safe Mode – Continuing in Safe Mode will allow you to work in LibreOffice as you are used to, but using a temporary profile <g id="468">that was created on start up. <g id="469"/>Any extensions or configuration options you had set up previously will have to be reconfigured in order to be used, bearing in mind that any changes made to the temporary user profile will be lost after </g>any restart.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[2]/text:p[0]">
+        <source>Restart in Normal Mode – If you arrived in Safe Mode accidentally, this option will discard any changes, terminate Safe Mode and restart LibreOffice normally.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[264]">
+        <source>If you are unable to solve your problem using Safe Mode, the advanced tab will provide instructions on receiving further aid.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[265]">
+        <source>In the advanced tab you also have the option to create a zip file of your corrupted user profile which can then be uploaded to the bug tracking system where it can be further investigated by the developers.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[266]">
+        <source>However, be aware that your uploaded user profile may contain sensitive information such as installed extensions, personal dictionaries and settings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Chapter 2  Setting Up LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Troubleshooting LibreOffice in Safe Mode</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Troubleshooting LibreOffice in Safe Mode</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Chapter 2  Setting Up LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Chapter 2  Setting Up LibreOffice</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

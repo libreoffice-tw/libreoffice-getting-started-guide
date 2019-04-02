@@ -1,0 +1,1375 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6011-GraphicsGalleryFontwork.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Chapter 11 <g id="1"/><g id="2"/>Graphics, Gallery, Fontwork</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2018 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="5">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="6">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="8" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>This book is adapted and updated from <g id="9">Getting Started with OpenOffice.org 3.3</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="10" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>To <g id="11">t</g>his <g id="12">e</g>dition<x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Paul Figueiredo</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Oliver Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="14" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>To <g id="15">p</g>revious <g id="16">e</g>ditions<x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Daniel Carrera</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Peter Hillier-Brook</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Peter Kupfer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Iain Roberts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Linda Worthington</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Michele Zarri</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Feedback<x id="19" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="20">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="21" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Publication date and software version<x id="22" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published February 2018. Based on LibreOffice 6.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]">
+        <source><x id="23" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-start[0]"/>Note for macOS users<x id="24" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[6]">
+        <source>Some keystrokes and menu items are different on macOS from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>macOS equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="25">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source><g id="26">Ctrl</g> (<g id="27">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="28">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="29">Shift</g>+⌘+<g id="30">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="31">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the <g id="32">sidebar </g>Styles <g id="33">deck</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="34"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="35"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>To this edition<g id="36"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>To previous editions<g id="37"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Feedback<g id="38"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Publication date and software version<g id="39"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Note for macOS users<g id="40"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Introduction<g id="41"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>Adding images to a document<g id="42"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>Inserting an image file<g id="43"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Drag and drop<g id="44"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Insert Image dialog<g id="45"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Linking an image file<g id="46"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Embedding linked images<g id="47"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Inserting an image from the clipboard<g id="48"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Inserting an image using a scanner<g id="49"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Inserting an image from the Gallery<g id="50"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Inserting an image as a background<g id="51"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Modifying, handling, and positioning graphics<g id="52"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Exporting images<g id="53"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Compressing images<g id="54"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Managing the LibreOffice Gallery<g id="55"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>Adding objects to the Gallery<g id="56"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Deleting images from the Gallery<g id="57"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>Adding a new theme to the Gallery<g id="58"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>Deleting a theme from the Gallery<g id="59"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[26]/text:a[0]">
+        <source>Location of the Gallery and the objects in it<g id="60"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[27]/text:a[0]">
+        <source>Creating an image map<g id="61"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[28]/text:a[0]">
+        <source>Using LibreOffice’s drawing tools<g id="62"/>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[29]/text:a[0]">
+        <source>Creating drawing objects<g id="63"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[30]/text:a[0]">
+        <source>Setting or changing properties for drawing objects<g id="64"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[31]/text:a[0]">
+        <source>Resizing a drawing object<g id="65"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[32]/text:a[0]">
+        <source>Grouping drawing objects<g id="66"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[33]/text:a[0]">
+        <source>Using Fontwork<g id="67"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[34]/text:a[0]">
+        <source>Creating a Fontwork object<g id="68"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[35]/text:a[0]">
+        <source>Editing a Fontwork object<g id="69"/>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[36]/text:a[0]">
+        <source>Using the Fontwork toolbar<g id="70"/>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[37]/text:a[0]">
+        <source>Using the Formatting toolbar<g id="71"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[38]/text:a[0]">
+        <source>Using menu options<g id="72"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[39]/text:a[0]">
+        <source>Using the 3D-Settings toolbar<g id="73"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[40]/text:a[0]">
+        <source>Moving and resizing Fontwork objects<g id="74"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="75" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Introduction<x id="76" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>You can add graphic and image files, including photos, drawings, and scanned images, to LibreOffice documents. LibreOffice can import various vector (line drawing) and raster (bitmap) file formats. The most commonly used graphic formats are GIF, JPG, PNG, and BMP. See Appendix B for a full list of the graphic formats LibreOffice can import.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>Graphics in LibreOffice are of three basic types:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Image files, such as photos, drawings, PDF Documents, and scanned images</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[1]/text:p[0]">
+        <source>Diagrams created using LibreOffice’s drawing tools</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[2]/text:p[0]">
+        <source>Charts created using LibreOffice’s Chart component</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>This chapter covers images and diagrams.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>More detailed descriptions on working with drawing tools can be found in the <g id="77">Draw Guide</g> and <g id="78">Impress Guide</g>. Instructions on how to create charts are given in the <g id="79">Calc Guide</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="80" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/><x id="81" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:reference-mark-start[0]"/>Adding images to a document<x id="82" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/><x id="83" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>Images can be added to a document in several ways: by inserting an image file, directly from a graphics program or a scanner, by dragging them from the clip art internal gallery, or by copying and pasting from a source being viewed on your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="84" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/>Inserting an <x id="85" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[0]"/><x id="86" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[1]"/><x id="87" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[2]"/>image file<x id="88" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>When the image is in a file stored on the computer, you can insert it into a LibreOffice document using either of the following methods.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="89" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/><x id="90" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:alphabetical-index-mark[0]"/>Drag and drop<x id="91" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>Open a file browser window and locate the image you want to insert.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]">
+        <source>Drag the image into the LibreOffice document and drop it where you want it to appear. A faint vertical line marks where the image will be dropped.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>This method embeds (saves a copy of) the image file in the document. To link the file instead of embedding it, hold down the <g id="92">Ctrl+Shift</g> keys while dragging the image.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="93" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/>Insert Image dialog<x id="94" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source><x id="95" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[0]"/>Click in the LibreOffice document where you want the image to appear.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="96">Insert &gt; Image</g> from the menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[2]/text:p[0]">
+        <source>On the Insert Image dialog, navigate to the file to be inserted, and select it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[3]/text:p[0]">
+        <source>At the bottom of the dialog (Figure <x id="97" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[3]/text:p[0]"/>) a <g id="98">Link option</g>. See page <x id="99" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[3]/text:p[0]"/><g id="100"/>for the use of <g id="101">Link</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[4]/text:p[0]">
+        <source>Click <g id="102">Open</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source>If you choose the <g id="103">Link</g> option, a message box appears when you click <g id="104">Open</g>. It asks if you want to embed the graphic instead. Choose <g id="105">Keep Link</g> if you want the link, or <g id="106">Embed Graphic</g> if you do not. To prevent this message from appearing again, deselect the option <g id="107">Ask when linking a graphic</g> at the bottom of the message.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="108" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="109"><g id="110"/></g>Figure <x id="111" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Insert Image dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="113" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[0]"/><x id="114" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[1]"/><x id="115" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[2]"/>Linking an image file<x id="116" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>If the <g id="117">Link</g> option in the Insert picture dialog is selected, LibreOffice creates a link to the file containing the image instead of saving a copy of the image in the document. The result is that the image is displayed in the document, but when the document is saved, it contains only a reference to the image file, not the image itself. The document and the image remain as two separate files, and they are merged together only when you open the document again.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>Linking an image has two advantages and one disadvantage:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>Advantage – Linking can reduce the size of the document when it is saved, because the image file itself is not included. File size is usually not a problem on a modern computer with a reasonable amount of memory, unless the document includes many large graphics files; LibreOffice can handle quite large files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[1]/text:p[0]">
+        <source>Advantage – You can modify the image file separately without changing the document because the link to the file remains valid, and the modified image will appear when you next open the document. This can be a big advantage if you (or someone else, perhaps a graphic artist) is updating images.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[2]/text:p[0]">
+        <source>Disadvantage – If you send the document to someone else, or move it to a different computer, you must also send the image files, or the receiver will not be able to see the linked images. You need to keep track of the location of the images and make sure the recipient knows where to put them on another machine, so that the document can find them. For example, you might keep images in a subfolder named Images (under the folder containing the document); the recipient of the file needs to put the images in a subfolder with the same name and in the same place relative to the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>When inserting the same image several times in the document, it would appear beneficial to link rather than embed; however, this is not necessary as LibreOffice embeds only one copy of the image file in the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="118" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/><x id="119" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:soft-page-break[0]"/>Embedding linked images<x id="120" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>If you originally linked the images, you can easily embed one or more of them later if you wish. To do so:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]">
+        <source>Open the document in LibreOffice and choose <g id="121">Edit &gt; Links to External Files</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[1]/text:p[0]">
+        <source>The Edit Links dialog (Figure <x id="122" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[1]/text:p[0]"/>) shows all the linked files. In the <g id="123">Source file</g> list, select the files you want to change from linked to embedded.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[2]/text:p[0]">
+        <source>Click the <g id="124">Break Link</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[3]/text:p[0]">
+        <source>Click the <g id="125">Close</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[4]/text:p[0]">
+        <source>Save the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="126" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="127" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Edit Links dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>Going the other way, from embedded to linked, is not so easy—you must replace the images, one at a time, selecting the <g id="128">Link</g> option when you do so.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="129" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/>Inserting an image from the clipboard<x id="130" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source>Using the clipboard, you can copy images into a LibreOffice document from another LibreOffice document and from other programs. To do this:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]">
+        <source>Open both the source document and the target document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]">
+        <source>In the source document, select the image to be copied.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[2]/text:p[0]">
+        <source>Click once on the selected image and press <g id="131">Ctrl+C</g> to copy the image to the clipboard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[3]/text:p[0]">
+        <source>Switch to the target document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[4]/text:p[0]">
+        <source>Click to place the cursor where the graphic is to be inserted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[5]/text:p[0]">
+        <source>Press <g id="132">Ctrl+V</g> to insert the image.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]">
+        <source>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>If the application from which the graphic was copied is closed before the graphic is pasted into the target, the image stored on the clipboard could be lost.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/><x id="134" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:soft-page-break[0]"/>Inserting an image using a scanner<x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>If <x id="136" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:alphabetical-index-mark[0]"/>a <x id="137" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:alphabetical-index-mark[1]"/>scanner is connected to your computer, LibreOffice can call the scanning application and insert the scanned item into the LibreOffice document as an image. To start this procedure, and choose <g id="138">Insert &gt; Media &gt; Scan &gt; Select Source</g>. Then place the cursor where you want the graphic to be inserted, and choose <g id="139">Insert &gt; Media &gt; Scan &gt; Request</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>Although this practice is quick and easy, it is unlikely to result in a high-quality image of the correct size. You may get better results by passing scanned material into a graphics program and cleaning it up there before inserting the resulting image into LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="140" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/>Inserting an image from the Gallery<x id="141" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]">
+        <source>The Gallery (Figure <x id="142" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]"/>) provides a convenient way to group reusable objects such as graphics and sounds that you can insert into your documents. The <x id="143" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/text:alphabetical-index-mark[0]"/><x id="144" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/text:alphabetical-index-mark[1]"/>Gallery is available in all components of LibreOffice. See “<x id="145" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]"/>” on page <x id="146" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]"/>. You can <x id="147" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/text:alphabetical-index-mark[2]"/>copy or link an object from the Gallery into a document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source>To insert an object:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]">
+        <source>Click the <g id="148">Gallery</g> icon in the Sidebar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[1]/text:p[0]">
+        <source>Select a theme.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[2]/text:p[0]">
+        <source>Select an object with a single click.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[3]/text:p[0]">
+        <source>Drag and drop the image into the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>You can also right-click on the object and choose <g id="149">Insert</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="150" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="151" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Gallery in the Sidebar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source><x id="152" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:alphabetical-index-mark[0]"/>To insert an object as a link:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="153">Insert &gt; Media &gt; Gallery</g> and select a theme.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[1]/text:p[0]">
+        <source>Select an object with a single click, then while pressing the <g id="154">Shift</g> and <g id="155">Ctrl</g> keys, drag and drop the object into the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:soft-page-break[0]"/><x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[0]"/>Inserting an image as a <x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[1]"/>background<x id="160" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>To insert an image as the background to a page or paragraph:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]">
+        <source>Choose<g id="161"> Insert &gt; Media &gt; Gallery</g> and select a theme.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[1]/text:p[0]">
+        <source>Select an object with a single click, right-click on the object, and choose <g id="162">Insert as <g id="163"/>Background &gt; Page</g> or <g id="164">&gt; Paragraph</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="165" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/>Modifying, handling, and positioning graphics<x id="166" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]">
+        <source>LibreOffice provides many tools for cropping, resizing, modifying, filtering, and positioning graphics; wrapping text around graphics; and using graphics as backgrounds and watermarks. These tools are described in relevant chapters of the other guides. Some sophisticated adjustments of the graphics are best done in an image manipulation program and the results brought into LibreOffice, rather than using LibreOffice’s built-in tools.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="167" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>Exporting images<x id="168" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source>If you need to make complex adjustments to the image, or want to save the image for use in another document, you can export the image directly from your document. Right-click on the image to select it and open the context menu. Then choose <g id="169">Save</g> to open the Image Export dialog. Depending on the original format of the image, LibreOffice will let you save the picture in many different formats. Give a name to the image, select the desired image format in the <g id="170">File Type</g> filter list, and click <g id="171">Save</g>. Before the image is finally saved another dialog (not shown) opens, where you can choose various image size and format options.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/>Compressing images<x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>If you insert a large image in your document and resize it to fit into the layout of the page, the complete full size original image is stored in the document file to preserve its content, resulting in a large document file to store or send by mail.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>If you can accept some loss of quality of the image rendering or want to resize it, you can compress or resize the image object to reduce its data volume while preserving its display in the page layout.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="174" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="175"><g id="176"/></g>Figure <x id="177" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Compressing an image</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source><x id="178" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]/text:soft-page-break[0]"/>Right-click to select the image and open the context menu. Then choose <g id="179">Compress</g> to open the Compress Image dialog (Figure <x id="180" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]"/>). Note that the <g id="181">Calculate</g> button updates the image information on the dialog on each parameter set you change. Click <g id="182">OK</g> to apply the compression settings. If the resulting image is not acceptable, press <g id="183">Ctrl+Z</g> to undo and choose another compression setting. For more information, see the Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="184" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/>Managing the LibreOffice Gallery<x id="185" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]">
+        <source>Graphics in the Gallery are grouped <x id="186" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/text:alphabetical-index-mark[0]"/><x id="187" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/text:alphabetical-index-mark[1]"/>by themes, such as Arrows, Diagrams, and People. You can create other groups or themes and add your own pictures or find extensions containing more graphics. Click on a theme to see its contents displayed in the Gallery window.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>You can display the Gallery in <x id="188" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]/text:alphabetical-index-mark[0]"/><g id="189">Icon View</g> (Figure <x id="190" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]"/>) or <g id="191">Detailed View</g> (Figure <x id="192" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]"/>), and you can <x id="193" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]/text:alphabetical-index-mark[1]"/>hide or show the Gallery by clicking on the Sidebar’s <g id="194">Hide</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="195" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="196" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Gallery in Detailed View</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>In some installations, only the <g id="197">My themes</g> theme is customizable, although new themes can be added as explained in “<g id="198"><x id="199" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/text:span[1]"/></g>” on page <g id="200"><x id="201" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/text:span[2]"/></g>. The locked themes are easily recognizable by right-clicking on them; the only available option in the context menu is <g id="202">Properties</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="203" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/><x id="204" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:alphabetical-index-mark[0]"/>Adding objects to the Gallery<x id="205" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source>You may wish to add to the My Theme folder in the Gallery any images that you use frequently, for example, a company logo. You can then easily insert these graphics into a document later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]">
+        <source>Right-click on the My Theme folder and select <g id="206">Properties</g> from the context menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[1]/text:p[0]">
+        <source>In the theme’s Properties dialog, click the <g id="207">Files</g> tab (Figure <x id="208" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="209" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="210" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Gallery Properties dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source>To add several files at once:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]">
+        <source><g id="211"/>Click the <g id="212">Find Files</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[1]/text:p[0]">
+        <source>The <g id="213">Select path</g> dialog (not shown) opens. You can enter the path for the file’s directory in the <g id="214">Path</g> text box, or you can navigate to locate the file’s directory.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[2]/text:p[0]">
+        <source>Click the <g id="215">Select</g> button to start the search. A list of graphic files is then displayed in the Properties dialog. You can use the <g id="216">File type</g> drop-down list to limit the files displayed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[3]/text:p[0]">
+        <source>To add all of the files shown in the list, click <g id="217">Add All.</g> Otherwise, select the files to add and then click <g id="218">Add</g> (hold down either the Shift key or the <g id="219">Ctrl</g> key while clicking on the files).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>To add a single file:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="220">Add</g> to open the Gallery dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]">
+        <source>Use the navigation controls to locate the image to add to the theme. Select it and then click <g id="221">Open</g> to add it to the theme.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[2]/text:p[0]">
+        <source>Click <g id="222">OK</g> on the Properties dialog to close it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="223" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/><x id="224" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:alphabetical-index-mark[0]"/><x id="225" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:alphabetical-index-mark[1]"/><x id="226" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:alphabetical-index-mark[2]"/>Deleting images from the Gallery<x id="227" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>To delete an image from a theme:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]">
+        <source>Right-click on the name of the image file or its thumbnail in the Gallery.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[1]/text:p[0]">
+        <source>Click <g id="228">Delete</g> in the context menu. A message appears, asking if you want to delete this object. Click <g id="229">Yes.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>Deleting the name of a file from the list in the Gallery does not delete the file from the hard disk or other location.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="230" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/><x id="231" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:reference-mark-start[0]"/><x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:alphabetical-index-mark[0]"/><x id="233" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:alphabetical-index-mark[1]"/>Adding a new theme to the Gallery<x id="234" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/><x id="235" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>To add a new theme to the Gallery:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]">
+        <source>Click the <g id="236">New Theme</g> button above the list of themes (Figure <x id="237" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]">
+        <source>In the Properties of New Theme dialog, click the <g id="238">General</g> tab and type a name for the new theme.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[2]/text:p[0]">
+        <source>Click the <g id="239">Files</g> tab and add images to the theme, as described earlier.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="240" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/><x id="241" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:alphabetical-index-mark[0]"/><x id="242" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:alphabetical-index-mark[1]"/>Deleting a theme from the Gallery<x id="243" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>To delete a theme from the Gallery:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]">
+        <source>Go to <g id="244">Insert &gt; Media &gt; Gallery.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[1]/text:p[0]">
+        <source>Select from the list of themes the theme you wish to delete.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[2]/text:p[0]">
+        <source>Right-click on the theme, then click <g id="245">Delete</g> on the context menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]">
+        <source><x id="246" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-start[0]"/><x id="247" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:soft-page-break[0]"/><x id="248" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:alphabetical-index-mark[0]"/>Location of the Gallery and the objects in it<x id="249" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>Graphics and other objects shown in the Gallery can be located anywhere on your computer’s hard disk, on a network drive, or other removable media. When you add graphics to the Gallery, the files are not moved or copied; the location of each new object is simply added as a reference.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>In a workgroup, you may have access to a shared Gallery (where you cannot change the contents unless authorized to do so) and a user Gallery, where you can add, change, or delete objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>The location of the user Gallery is specified in <g id="250">Tools &gt; Options &gt; LibreOffice &gt; Paths</g>. You can change this location, and you can copy your gallery files (<g id="251">SDV</g>) to other computers.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]">
+        <source>Gallery contents provided with LibreOffice are stored in a different location. You cannot change this location.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>Gallery themes can be packed for distribution through the LibreOffice extensions framework. In that case, the location of the graphic files is determined by the extension settings. To get more gallery themes, visit the LibreOffice extensions website at http://extensions.libreoffice.org.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]">
+        <source><x id="252" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-start[0]"/>Creating an image map<x id="253" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]">
+        <source><x id="254" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/text:alphabetical-index-mark[0]"/>An image map defines areas of an image (called <g id="255">hotspots</g>) with hyperlinks to web addresses, other files on the computer, or parts of the same document. Hotspots are the graphic equivalent of text hyperlinks (described in Chapter 12). Clicking on a hotspot causes LibreOffice to open the linked page in the appropriate program (for example, the default browser for an HTML page; LibreOffice Calc for an ODS file; a PDF viewer for a PDF file). You can create hotspots of various shapes and include several hotspots in the same image.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source>To use the image map editor:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]">
+        <source>In your LibreOffice document, click on the picture in which you want to create the hotspots.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="256">Edit &gt; ImageMap</g> from the menu bar. The ImageMap Editor (Figure <x id="257" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[1]/text:p[0]"/>) opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[2]/text:p[0]">
+        <source>Select the hotspot drawing shape from the toolbar and draw on the image.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[3]/text:p[0]">
+        <source>Use the fields in the dialog (described below) to define the hotspots and links necessary.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[4]/text:p[0]">
+        <source>Click the <g id="258">Apply</g> icon <x id="259" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[4]/text:p[0]/draw:frame[0]"/><g id="260"/>to apply the settings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[5]/text:p[0]">
+        <source>When done, click the <g id="261">Save</g> icon <x id="262" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[5]/text:p[0]/draw:frame[0]"/><g id="263"/>to save the image map to a file, then click the <g id="264">X</g> in the upper right corner to close the dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]">
+        <source>The main part of the dialog shows the image on which the hotspots are defined. A hotspot is identified by a line indicating its shape.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]">
+        <source>The toolbar at the top of the dialog contains the following tools:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]">
+        <source><g id="265">Apply</g> button: click this button to apply the changes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[1]/text:p[0]">
+        <source><g id="266">Load,</g> <g id="267">Save,</g> and <g id="268">Select</g> icons.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[2]/text:p[0]">
+        <source>Tools for drawing a hotspot shape: these tools work in exactly the same way as the corresponding tools in the Drawing toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[3]/text:p[0]">
+        <source><g id="269">Edit</g>, <g id="270">Move</g>, <g id="271">Insert</g>, <g id="272">Delete</g> <g id="273">Points</g>: advanced editing tools to manipulate the shape of a polygon hotspot. Choose the Edit Points tool to activate the other tools.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[4]/text:p[0]">
+        <source><g id="274">Active</g> icon: toggles the status of a selected hotspot between active and inactive.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[5]/text:p[0]">
+        <source><g id="275">Macro</g>: associates a macro with the hotspot instead of just associating a hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[6]/text:p[0]">
+        <source><g id="276">Properties</g>: sets the hyperlink properties and adds the Name attribute to the hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="277" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="278"><g id="279"/></g>Figure <x id="280" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The dialog to create or edit an image map</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>Below the toolbar, specify for the selected hotspot:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]">
+        <source><g id="281">Address:</g> the address pointed to by the hyperlink. You can also point to an anchor in a document; to do this, write the address in this format: <g id="282">file:///&lt;path&gt;/document_name#anchor_name</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[1]/text:p[0]">
+        <source><g id="283">Text</g>: type the text that you want to be displayed when the mouse pointer is moved over the hotspot.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[2]/text:p[0]">
+        <source><g id="284">Frame:</g> where the target of the hyperlink will open: pick among _blank (opens in a new browser window), _self (opens in the active browser window), _top or _parent.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]">
+        <source>The value _self for the target frame will usually work just fine. It is therefore not recommended to use the other choices unless absolutely necessary.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]">
+        <source><x id="285" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-start[0]"/>Using LibreOffice’s drawing tools<x id="286" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]">
+        <source><x id="287" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/text:alphabetical-index-mark[0]"/>You can use LibreOffice’s drawing tools to create graphics such as simple diagrams using rectangles, circles, lines, text, and other predefined shapes. You can also group several drawing objects to make sure they maintain their relative position and proportion.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]">
+        <source>You can place the drawing objects directly on a page in your document, or you can insert them into a frame.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source>You can also use the drawing tools to annotate photographs, screen captures, or other illustrations produced by other programs, but this is not recommended because:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]">
+        <source>You cannot include images in a group with drawing objects, so they may not remain aligned in your document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[1]/text:p[0]">
+        <source>If you convert a document to another format, such as HTML, the drawing objects and the graphics will not remain associated; they are saved separately.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]">
+        <source>In general, if you need to create complex drawings, it is recommended to use LibreOffice Draw, which includes many more features such as layers, styles, and so on.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]">
+        <source><x id="288" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-start[0]"/><x id="289" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:soft-page-break[0]"/>Creating drawing objects<x id="290" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]">
+        <source>To begin using the drawing tools, display the Drawing toolbar (Figure <x id="291" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]"/>) by clicking <g id="292">View &gt; Toolbars &gt; Drawing</g> or by clicking on the <g id="293">Show Draw Functions</g> icon <g id="294"><x id="295" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]/text:span[2]/draw:frame[0]"/></g><g id="296"><g id="297"/>on the standard toolbar.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]">
+        <source>If you are planning to use the drawing tools repeatedly, you can tear off (undock) this toolbar and move it to a convenient place it as a floating toolbar in the window.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Select</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[3]/text:p[0]">
+        <source>Rectangle</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[5]/text:p[0]">
+        <source>Right Triangle</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[7]/text:p[0]">
+        <source>Flowchart</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Insert Line</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[3]/text:p[0]">
+        <source>Rectangle, Rounded</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[5]/text:p[0]">
+        <source>Insert Basic Shapes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[7]/text:p[0]">
+        <source>Callouts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Lines and Arrows</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[3]/text:p[0]">
+        <source>Square</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[5]/text:p[0]">
+        <source>Symbol</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[7]/text:p[0]">
+        <source>Insert Text Box</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Curve, Freehand</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[3]/text:p[0]">
+        <source>Ellipse</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[5]/text:p[0]">
+        <source>Arrow</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[7]/text:p[0]">
+        <source>Fontwork</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Curve, Bézier</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[3]/text:p[0]">
+        <source>Circle</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[5]/text:p[0]">
+        <source>Star</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>23</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[7]/text:p[0]">
+        <source>Points</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Polygon</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[3]/text:p[0]">
+        <source>Isosceles Triangle</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[5]/text:p[0]">
+        <source>Callout</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>24</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[7]/text:p[0]">
+        <source>Toggle extrusion</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]">
+        <source>Figure <x id="298" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[7]/table:table-cell[0]/text:p[0]"/>: The Drawing Toolbar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]">
+        <source>To use a drawing tool:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]">
+        <source>Click in the document where you want the drawing to be anchored. You can change the anchor later, if necessary.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[1]/text:p[0]">
+        <source>Choose the tool from<x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[1]/text:p[0]/text:alphabetical-index-mark[0]"/> the Drawing toolbar (Figure <x id="300" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[1]/text:p[0]"/>). The mouse pointer changes to a drawing-functions pointer <x id="301" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[1]/text:p[0]/draw:frame[0]"/><g id="302"/>and the normal Formatting Toolbar changes to Drawing Object Properties toolbar (Figure <g id="303"><x id="304" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[1]/text:p[0]/text:span[0]"/></g>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[2]/text:p[0]">
+        <source>Move the cross-hair pointer to the place in the document where you want the graphic to appear and then click and drag to create the drawing object. Release the mouse button. The selected drawing function remains active, so that you can draw another object of the same type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[3]/text:p[0]">
+        <source>To cancel the selected drawing function, press the <g id="305">Esc</g> key or click on the <g id="306">Select</g> icon (the arrow) on the Drawing toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[4]/text:p[0]">
+        <source>You can now change the properties (fill color, line type and weight, anchoring, and others) of the drawing object using either <x id="307" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[4]/text:p[0]/text:alphabetical-index-mark[0]"/>the Drawing Object Properties toolbar (Figure <x id="308" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[4]/text:p[0]"/>) or the choices and dialogs reached by right-clicking on the drawing object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]">
+        <source><x id="309" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-start[0]"/>Setting or <x id="310" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:alphabetical-index-mark[0]"/>changing properties for drawing objects<x id="311" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]">
+        <source>To set the properties for a drawing object before you draw it:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]">
+        <source>On the Drawing toolbar (Figure <x id="312" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]"/>), click the <g id="313">Select</g> tool.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[1]/text:p[0]">
+        <source>On the Drawing Object Properties toolbar (Figure <x id="314" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[1]/text:p[0]"/>), click on the icon for each property and select the value you want for that property.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[2]/text:p[0]">
+        <source>For more control, or to define new attributes, you can click on the <g id="315">Area</g> or <g id="316">Line</g> icons on the toolbar to display detailed dialogs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>1</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Line Color</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[3]/text:p[0]">
+        <source>Wrap Off</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[5]/text:p[0]">
+        <source>Align</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[1]/table:table-cell[7]/text:p[0]">
+        <source>Group</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Arrow Style</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[3]/text:p[0]">
+        <source>Page Wrap</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[5]/text:p[0]">
+        <source>Bring to Front</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>23</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[2]/table:table-cell[7]/text:p[0]">
+        <source>Enter Group</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>3</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Line Style</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[3]/text:p[0]">
+        <source>Optimal Page Wrap</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[5]/text:p[0]">
+        <source>Forward One</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>24</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[3]/table:table-cell[7]/text:p[0]">
+        <source>Exit Group</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Line Width</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[3]/text:p[0]">
+        <source>Wrap Left</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[5]/text:p[0]">
+        <source>Back One</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>25</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[4]/table:table-cell[7]/text:p[0]">
+        <source>Ungroup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Area Style / Filling</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[3]/text:p[0]">
+        <source>Wrap Right</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[5]/text:p[0]">
+        <source>Send to Back</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[6]/text:p[0]/text:span[0]">
+        <source>26</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[5]/table:table-cell[7]/text:p[0]">
+        <source>Insert Caption</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Fill Color</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[3]/text:p[0]">
+        <source>Wrap Through</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[6]/table:table-cell[5]/text:p[0]">
+        <source>To Foreground</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[1]/text:p[0]">
+        <source>Anchor</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[2]/text:p[0]/text:span[0]">
+        <source>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[3]/text:p[0]">
+        <source>Rotate</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[4]/text:p[0]/text:span[0]">
+        <source>21</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[7]/table:table-cell[5]/text:p[0]">
+        <source>To Background</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[0]/text:p[0]">
+        <source>Figure <x id="317" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[1]/table:table-row[8]/table:table-cell[0]/text:p[0]"/>: Drawing Object Properties toolbar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]">
+        <source>The default you set applies to the current document and session. It is not retained when you close the document or close Writer, and it does not apply to any other document you open. The defaults apply to all the drawing objects except text objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]">
+        <source>To change the properties for an existing drawing object:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]">
+        <source>Select the object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[1]/text:p[0]">
+        <source>Continue as described above.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]">
+        <source>You can also specify the position and size, rotation, and slant and corner radius properties of the drawing object:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]">
+        <source>Right-click on the drawing object and then choose <g id="318">Position and Size</g> from the context menu. The Position and Size dialog is displayed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[1]/text:p[0]">
+        <source>Choose any properties, as required.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]">
+        <source><x id="319" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-start[0]"/>Resizing a drawing object<x id="320" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]">
+        <source>An object is resized in a similar way to an image. Select the object, click on one of the eight handles around it and drag it to its new size. The object will be scaled up or down. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[71]">
+        <source>When you grab the corner handle of an object and drag it, LibreOffice will resize proportionately. If you also press the <g id="321">Shift</g> key, the resizing will not keep object proportions. Conversely, if you grab one of the edges, LibreOffice will scale disproportionately in the direction perpendicular to the edge; if you also press the <g id="322">Shift</g> key, LibreOffice will scale proportionately.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]">
+        <source>For more sophisticated control of the size of the object, choose <g id="323">Format &gt; Frame and Object &gt; Properties</g> from the Menu bar. Use the <g id="324">Type</g> tab to set the position and size independently. If the <g id="325">Keep ratio</g> option is selected, then the two dimensions change so that the proportion is maintained, resulting in a scaled resizing.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]">
+        <source><x id="326" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-start[0]"/><x id="327" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:alphabetical-index-mark[0]"/>Grouping drawing objects<x id="328" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]">
+        <source>Grouping drawing objects makes it easier to handle several objects as a single entity, while preserving their relative sizes and positions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[74]">
+        <source>To group drawing objects:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[0]/text:p[0]">
+        <source>Select one object, then hold down the <g id="329">Shift</g> key and select the others you want to include in the group. The bounding box expands to include all the selected objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[1]/text:p[0]">
+        <source>With the objects selected, hover the mouse pointer over one of the objects and choose <g id="330">Format &gt; Group &gt; Group</g> from the Menu bar, or click the Group icon on the Drawing Object Properties toolbar, or right-click and choose <g id="331">Group &gt; Group</g> from the pop-up menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[0]/text:p[0]">
+        <source><x id="332" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]">
+        <source>You cannot include an embedded or linked graphic in a group with drawing objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]">
+        <source><x id="333" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-start[0]"/>Using Fontwork<x id="334" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[76]">
+        <source>With Fontwork you can create graphical text art objects to make your work more attractive. There are many different settings for text art objects (line, area, position, size, and more), so you have a large choice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]">
+        <source>Fontwork is available with each component of LibreOffice, but you will notice small differences in the way that each component displays it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]">
+        <source><x id="335" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-start[0]"/><x id="336" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:alphabetical-index-mark[0]"/>Creating a Fontwork object<x id="337" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[0]/text:p[0]">
+        <source>On the Fontwork toolbar (<g id="338">View &gt; Toolbars &gt; Fontwork</g>) or the Drawing toolbar (<g id="339">View &gt; Toolbars &gt; Drawing</g>), click the Fontwork Gallery icon <x id="340" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[0]/text:p[0]/draw:frame[0]"/>, or choose <g id="341">Insert &gt; Media &gt; FontWork Gallery</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]">
+        <source>In the <x id="342" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]/text:alphabetical-index-mark[0]"/>Fontwork Gallery (Figure <x id="343" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]"/>), select a Fontwork style, then click <g id="344">OK</g>. The Fontwork object will appear in your document. Notice the colored squares around the edge (indicating that the object is selected) and the yellow dot; these are discussed in “<x id="345" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]"/>” on page <x id="346" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="347" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="348" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Fontwork Gallery</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[35]/text:list-item[0]/text:p[0]">
+        <source><x id="349" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[35]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Double-click the object to edit the Fontwork text (see Figure <x id="350" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[35]/text:list-item[0]/text:p[0]"/>). Select the text and type your own text in place of the black <g id="351">Fontwork</g> text that appears over the object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="352" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="353" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Editing Fontwork text</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[0]/text:p[0]">
+        <source>Click anywhere in a free space or press <g id="354">Esc</g> to apply your changes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]">
+        <source><x id="355" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-start[0]"/><x id="356" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:alphabetical-index-mark[0]"/>Editing a Fontwork object<x id="357" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[80]">
+        <source>Now that the Fontwork object is created, you can edit some of its attributes. To do this, you can use the Fontwork toolbar, the Formatting toolbar, or menu options as described in this section. If the selected Fontwork object is a 3-D object, you can also use the 3D-Settings toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]">
+        <source><x id="358" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-start[0]"/>Using the <x id="359" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:alphabetical-index-mark[0]"/>Fontwork toolbar<x id="360" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]">
+        <source>Make sure that the Fontwork toolbar, shown in Figure <x id="361" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]"/>, is visible. If you do not see it, go to <g id="362">View &gt; Toolbars &gt; Fontwork</g>. Click on the different icons to edit Fontwork objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="363" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="364" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The floating Fontwork toolbar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Fontwork Shape: Edits the shape of the selected object. You can choose from a palette of shapes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="365" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="366" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Fontwork toolbar showing palette of shapes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Fontwork <x id="367" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[3]/table:table-row[0]/table:table-cell[1]/text:p[0]/text:alphabetical-index-mark[0]"/>Same Letter Heights: Changes the height of characters in the object. Toggles between normal height (some characters taller than others, for example capital letters, d, h, l and others) and all letters the same height.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="368" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="369" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Left: normal letters; right: same letter heights</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Fontwork <x id="370" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[4]/table:table-row[0]/table:table-cell[1]/text:p[0]/text:alphabetical-index-mark[0]"/>Alignment: Changes the alignment of characters. Choices are left align, center, right align, word justify, and stretch justify. The effects of the text alignment can only be seen if the text spans over two or more lines. In the stretch justify mode, all the lines are filled completely.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Fontwork <x id="371" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[0]/table:table-cell[1]/text:p[0]/text:alphabetical-index-mark[0]"/><x id="372" xid="office:document-content[0]/office:body[0]/office:text[0]/table:table[5]/table:table-row[0]/table:table-cell[1]/text:p[0]/text:alphabetical-index-mark[1]"/>Character Spacing: Changes the character spacing and kerning in the object. Select from the choices in the drop-down list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]">
+        <source><x id="373" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-start[0]"/><x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:alphabetical-index-mark[0]"/>Using the Formatting toolbar<x id="375" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]">
+        <source>Now let us go further and customize the Fontwork object with several more attributes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]">
+        <source>Click on the Fontwork object. The Formatting toolbar changes to The Drawing Object Properties toolbar (Figure <x id="376" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]"/>) when you use Fontwork in Writer.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[86]">
+        <source>The Formatting toolbar provides a large choice of options for customizing your object. These choices are the same as the ones for other drawing objects. For more information, see the <g id="377">Draw Guide</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]">
+        <source><x id="378" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/text:bookmark-start[0]"/><x id="379" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/text:reference-mark-start[0]"/>Line options<x id="380" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/text:bookmark-end[0]"/><x id="381" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]">
+        <source><x id="382" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]/text:alphabetical-index-mark[0]"/><g id="383">Line</g> icon: Opens a dialog with three tabs: <g id="384">Line</g>, <g id="385">Line Styles</g>, <g id="386">Arrow Styles</g>. Use the <g id="387">Line</g> tab to edit the most common properties of the line around the selected Fontwork object, by choosing from previously-defined attributes including line style, line color, and arrow styles. Use the <g id="388">Lines Styles</g> and <g id="389">Arrow Styles</g> tabs to edit the properties of line and arrow styles, and define new styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]">
+        <source><g id="390">Arrow Style</g> icon: Choose from the different arrow styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]">
+        <source><g id="391">Line Style</g> box: Choose from the available line styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[91]">
+        <source><g id="392">Line Width</g> box: Set the width of the line.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]">
+        <source><g id="393">Line Color</g> box: Select the color of the line.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]">
+        <source><x id="394" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:bookmark-start[0]"/><x id="395" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:reference-mark-start[0]"/><x id="396" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:alphabetical-index-mark[0]"/>Area options<x id="397" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:bookmark-end[0]"/><x id="398" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]">
+        <source><g id="399">Area</g> icon: Opens a dialog with seven tabs: <g id="400">Area</g>, <g id="401">Shadow</g>, <g id="402">Transparency</g>, <g id="403">Colors</g>, <g id="404">Gradients</g>, <g id="405">Hatching</g>, <g id="406">Bitmaps</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[0]/text:p[0]">
+        <source><g id="407">Area</g> tab: Choose from the predefined list a color, bitmap, gradient or hatching pattern to fill the selected object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[1]/text:p[0]">
+        <source><g id="408">Shadow</g> tab: Set the shadow properties of the selected object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[2]/text:p[0]">
+        <source><g id="409">Transparency</g> tab: Set the transparency properties of the selected object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[3]/text:p[0]">
+        <source><g id="410">Colors</g> tab: Modify the available colors or add new ones to appear on the Area tab.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[4]/text:p[0]">
+        <source><g id="411">Gradients</g> tab: Modify the available gradients or add new ones to appear on the Area tab.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[5]/text:p[0]">
+        <source><g id="412">Hatching</g> tab: Modify the available hatching patterns or add new ones to appear on the Area tab.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[6]/text:p[0]">
+        <source><x id="413" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[6]/text:p[0]/text:soft-page-break[0]"/><g id="414">Bitmaps</g> tab: Create simple bitmap patterns and import bitmaps, to make them available on the Area tab.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]">
+        <source><g id="415">Area Style / Filling</g> boxes: Select the type of the fill of the selected object. For more detailed settings, use the Area icon.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]">
+        <source><x id="416" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]/text:bookmark-start[0]"/><x id="417" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]/text:alphabetical-index-mark[0]"/>Positioning options<x id="418" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]">
+        <source><g id="419">Rotate</g> icon: Rotate the selected object manually using the mouse to drag the object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]">
+        <source><g id="420">To Foreground</g> icon: Move the selected object in front of the text.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]">
+        <source><g id="421">To Background</g> icon: Move the selected object behind the text.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]">
+        <source><g id="422">Alignment</g> icon: Modify the alignment of the selected objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]">
+        <source><g id="423">Bring to front</g> icon: Move the selected object in front of the others.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]">
+        <source><g id="424">Send to back</g> icon: Move the selected object behind the others.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]">
+        <source><g id="425">Change </g><x id="426" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/text:alphabetical-index-mark[0]"/><g id="427">Anchor</g> icon: Choose between anchoring options:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[0]/text:p[0]">
+        <source>To Page—The object keeps the same position in relation to the page margins. It does not move as you add or delete text.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[1]/text:p[0]">
+        <source>To Paragraph—The object is associated with a paragraph and moves with the paragraph. It may be placed in the margin or another location.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[2]/text:p[0]">
+        <source>To Character—The object is associated with a character but is not in the text sequence. It moves with the paragraph but may be placed in the margin or another location. This method resembles anchoring to a paragraph.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[3]/text:p[0]">
+        <source>As Character—The object is placed in the document like any character and moves with the paragraph as you add or delete text before the object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]">
+        <source><g id="428">Ungroup</g> icon: Ungroup a selection of grouped objects, so that they can be managed individually.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]">
+        <source><x id="429" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]/text:alphabetical-index-mark[0]"/><g id="430">Group</g> icon: Group the selected objects, so you can manage them as a single object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]">
+        <source><x id="431" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-start[0]"/><x id="432" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:reference-mark-start[0]"/>Using menu options<x id="433" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-end[0]"/><x id="434" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]">
+        <source>You can use some the choices on the <g id="435">Format</g> menu to anchor, align, arrange, and group selected Fontwork objects, wrap text around them, and flip them horizontally and vertically.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]">
+        <source>You can also right-click on a Fontwork object and choose many of the same options from the pop-up menu. The pop-up menu also provides quick access to the Line, Area, Text, and Position and Size dialogs. The Text dialog offers only a few options for Fontwork objects and is not discussed here. On the Position and Size dialog, you can enter precise values for size and position. For more information on all of these menu options, see the <g id="436">Draw Guide</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]">
+        <source><x id="437" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-start[0]"/>Using the 3D-Settings toolbar<x id="438" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]">
+        <source>If the selected Fontwork object is a 3-D object, you can also use the options on the 3D-Settings toolbar. You can also change a 2-D Fontwork object into a 3-D object (or change a 3-D object into a 2-D object) by clicking the Extrusion On/Off icon on the 3D-Settings toolbar. For more information, see the <g id="439">Draw Guide</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="440" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="441" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: 3D-Settings toolbars</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]">
+        <source><x id="442" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:bookmark-start[0]"/><x id="443" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:soft-page-break[0]"/><x id="444" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:reference-mark-start[0]"/><x id="445" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:alphabetical-index-mark[0]"/>Moving and resizing Fontwork objects<x id="446" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:bookmark-end[0]"/><x id="447" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[33]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]">
+        <source>When you select a Fontwork object, eight colored squares (known as <g id="448">handles</g>) appear around the edge of the object, as shown below. You can drag these handles to resize the object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>A yellow dot also appears on the object. This dot may be along an edge of the object, or it may be somewhere else; in the example on the right. If you hover the pointer over this yellow dot, the pointer turns into a hand symbol. You can drag the dot in different directions to distort the object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[6]/table:table-row[0]/table:table-cell[0]/text:p[1]">
+        <source>Hovering the pointer over other parts of the object turns the pointer into the usual symbol for dragging the object to another part of the page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]">
+        <source><x id="449" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]/text:bookmark-start[0]"/>For precise control of the location and size of the object, use the Position and Size areas of the Type tab in the Properties dialog.<x id="450" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Chapter 11  Graphics, Gallery, Fontwork</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Moving and resizing Fontwork objects</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Editing a Fontwork object</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Chapter 11  Graphics, Gallery, Fontwork</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Chapter 11  Graphics, Gallery, Fontwork</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,664 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6014-CustomizingLibreOffice.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Chapter 14 <g id="1"/><g id="2"/>Customizing LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2017 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="5">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="6">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="8" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>John A Smith </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Jorge Rodríguez</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="9" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>Feedback<x id="10" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="11">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="12" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>Acknowledgments<x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>This chapter is based on Chapter 14 of <g id="14">Getting Started with OpenOffice.org 3.3</g>. The contributors to that chapter are:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source><x id="15" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]/text:bookmark-start[0]"/>Peter Hillier-Brook<x id="16" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Michele Zarri</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Publication date and software version<x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source>Published <g id="19">August</g> 201<g id="20">8</g>. Based on LibreOffice <g id="21">6.0</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="22" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Note for <g id="23">m</g>ac<g id="24">OS</g> users<x id="25" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[6]">
+        <source>Some keystrokes and menu items are different on <g id="26">m</g>ac<g id="27">OS</g> from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Mac<g id="28">OS</g> equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="29">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source><g id="30">Ctrl</g> (<g id="31">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="32">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="33">Shift</g>+⌘+<g id="34">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="35">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the <g id="36">sidebar </g>Styles <g id="37">deck</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="38"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="39"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>Feedback<g id="40"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>Acknowledgments<g id="41"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Publication date and software version<g id="42"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Note for macOS users<g id="43"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Introduction<g id="44"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Customizing menu content<g id="45"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>Creating a new menu<g id="46"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>Modifying existing menus<g id="47"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Adding a command to a menu<g id="48"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Modifying menu entries<g id="49"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Customizing context menu contents<g id="50"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Customizing toolbars<g id="51"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Modifying existing toolbars<g id="52"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Creating a new toolbar<g id="53"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Choosing icons for toolbar commands<g id="54"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Assigning shortcut keys<g id="55"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Example: Assigning styles to shortcut keys<g id="56"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Saving changes to a file<g id="57"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Loading a saved keyboard configuration<g id="58"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Resetting the shortcut keys<g id="59"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>Assigning macros to events<g id="60"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Adding functionality with extensions<g id="61"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>Installing extensions<g id="62"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>Removing and disabling extensions<g id="63"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="64" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Introduction<x id="65" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>This chapter describes some common customization that you may wish to carry out.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>You can customize menus, toolbars, and keyboard shortcuts in LibreOffice, add new menus and toolbars, and assign macros to events. However, you cannot customize context (right-click) menus.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>Other customization are made easy by extensions that you can install from the LibreOffice website or from other providers.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>Since LibreOffice 5.1, the menu bars in Writer, Calc, and Impress have been reorganized to improve the usability of the application. The most used application commands were put together in the Styles, Sheets, and Slide menus, respectively.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>Customization to menus and toolbars can be saved in a template or file. To do so, first save them in a document and then save the document as a template as described in Chapter 3, Using Styles and Templates.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="66" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>Customizing menu content<x id="67" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>In addition to changing the menu font (described in Chapter 2, Setting up LibreOffice), you can add and rearrange categories on the menu bar, add commands to menus, and make other changes.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>To <x id="68" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]/text:alphabetical-index-mark[0]"/>customize menus<x id="69" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]/text:alphabetical-index-mark[1]"/>:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="70">Tools &gt; Customize</g> to display the Customize dialog. Choose the <g id="71">Menus</g> page (Figure <x id="72" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="73" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="74"><g id="75"/></g>Figure <x id="76" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Menus page of the Customize dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source><x id="77" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>In the upper left drop-down list, choose whether to save this changed menu for the application (for example, LibreOffice Writer) or for a selected document (for example, SampleDocument.odt).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[1]/text:p[0]">
+        <source>In the section <g id="78">LibreOffice [name of the program</g> (example: Writer)<g id="79">] Menus</g>, select from the <g id="80">Menu</g> drop-down list the menu that you want to customize. The list includes all the main menus as well as submenus (menus that are contained under another menu). For example, in addition to <g id="81">File</g>, <g id="82">Edit</g>, <g id="83">View</g>, and so on, there is <g id="84">File </g>|<g id="85"> Send</g> and <g id="86">Edit </g>| <g id="87">Changes</g>. The commands available for the selected menu are shown in the left part of the dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[2]/text:p[0]">
+        <source>To customize the selected menu, browse the left part of the dialog, where each line is a command. You can narrow the search by either typing the command in the upper left <g id="88">Search</g> box or selecting the <g id="89">Category</g> in the drop-down list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[3]/text:p[0]">
+        <source>Once the command found click on the right arrow at the center of the dialog box to add the command to the selected menu on the right. Use the up and down arrows on the far right to move the selected menu item to a different position.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[4]/text:p[0]">
+        <source>When you have finished making all your changes, click <g id="90">OK</g> to save them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="91" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/><x id="92" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[0]"/>Creating a new menu<x id="93" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>In the <g id="94">Menus</g> page of the Customize dialog, click on the plus sign (<g id="95">+</g>) to display the New Menu dialog (Figure <x id="96" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>Type a name for your new menu in the <g id="97">Menu name</g> box.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[1]/text:p[0]">
+        <source>Use the up and down arrow buttons to move the new menu into the required position on the menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[2]/text:p[0]">
+        <source>Click <g id="98">OK</g> to save.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>The new menu now appears on the list of menus in the Customize dialog. (It will appear on the menu bar itself after you save your customizations.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>After creating a new menu, you need to add some commands to it, as described in “<x id="99" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]"/>” on page <x id="100" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="101" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="102"><g id="103"/></g>Figure <x id="104" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Adding a new menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="105" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/>Modifying existing menus<x id="106" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>To <x id="107" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]/text:alphabetical-index-mark[0]"/>modify an existing menu, either user-made or inbuilt, select it in the <g id="108">Menu</g> list and click the <g id="109">Modify</g> button to drop down the <g id="110">Rename</g> command. Proceed to enter a new name for the command to be displayed in the menu. To move a menu (such as <g id="111">File</g>), use the up and down arrows on the right.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source><x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/text:soft-page-break[0]"/>To move submenus (such as <g id="113">File | Send</g>), select the main menu (<g id="114">File</g>) in the Menu list and then, in the <g id="115">Menu Content</g> section of the dialog, select the submenu (<g id="116">Send</g>) in the <g id="117">Entries</g> list and use the arrow keys to move it up or down in the sequence. Submenus are easily identified in the <g id="118">Entries</g> list by a small black triangle on the right hand side of the name.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>In addition to renaming, you can allocate a letter in a custom menu’s name, which will become underlined, to be used as a keyboard shortcut, allowing you to select that menu by pressing <g id="119">Alt+</g> that letter. Existing submenus can be edited to change the letter which is used to select their default shortcut.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source>Select a custom menu or a submenu in the <g id="120">Menu</g> drop-down list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[1]/text:p[0]">
+        <source>Click the <g id="121">Menu</g> button and select <g id="122">Rename</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[2]/text:p[0]">
+        <source>Add a tilde (~) in front of the letter that you want to use as an accelerator. For example, to select the <g id="123">Send</g> submenu command by pressing <g id="124">S</g> (after opening the File menu using <g id="125">Alt+F</g>), enter <g id="126">~Send</g>. This changes it from the default <g id="127">d</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]">
+        <source>It is possible to use a letter already in use in the menu list (for example, in the Insert menu, the letter <g id="128">v</g> is used in <g id="129">Envelope</g> and in <g id="130">Movie and sound</g> as an accelerator). However, you should use an unused letter if possible, to make it simpler to navigate.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/>Adding a command to a menu<x id="132" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>You can <x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]/text:alphabetical-index-mark[0]"/>add commands to both the supplied menus and menus you have created. On the Customize dialog, select the menu in the <g id="134">Menu</g> list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>Start choosing the command in the left pane of the Customize dialog (Figure <g id="135"><x id="136" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/text:span[0]"/></g>) and click on the Right arrow to add it to the menu. Use the up and down arrows on the right to position the command in the menu list. To remove an unwanted entry of the current menu, select it in the right pane and click on the left arrow. Click <g id="137">OK</g> to save your menu customization.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="138" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="139" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[0]"/>Modifying menu entries<x id="140" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>In addition to changing the sequence of entries on a menu or submenu, you can add submenus, rename or delete the entries, and add group separators.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]">
+        <source>To begin, select the menu or submenu to be modified from the <g id="141">Menu</g> list on the right. Click the <g id="142">Modify</g> button to rename the entry. Click on the Let arrow to remove from the menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source>You can add menu separators, a horizontal line that takes the place of a command and is useful to group many related commands in a pseudo-section in the menu. To add a separator, highlight the command just below the position of the separator and then click on the Insert drop-down and choose <g id="143">Insert separator.</g> The horizontal line will appear in the right pane of the menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>Use the <g id="144">Insert submenu</g> of the Insert button to add a submenu to your menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="145" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/>Customizing context menu contents<x id="146" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]">
+        <source>Context menus are a dynamic set of menus that displays different commands and options depending on the selected object in you document. For instance, the context menu of a table object is different from the context menu of a frame object.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source>To <x id="147" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:alphabetical-index-mark[0]"/>customize context menus<x id="148" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/text:alphabetical-index-mark[1]"/>:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="149">Tools &gt; Customize</g> to display the Customize dialog. Choose the <g id="150">Context Menus</g> page (Figure <x id="151" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]"/>, and the context menu tab is identical).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[1]/text:p[0]">
+        <source>All procedures and options of the LibreOffice menus applies to the contexts menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="152" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/><x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:soft-page-break[0]"/>Customizing <x id="154" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:alphabetical-index-mark[0]"/>toolbars<x id="155" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar (as described in Chapter 1, Introducing LibreOffice), and adding or deleting icons (commands) in the list of those available on a toolbar. <g id="156"/>You can also create new toolbars. This section describes how to create new toolbars and add or delete icons on existing ones.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]">
+        <source>To get to the toolbar customization dialog (Figure <x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]"/>), do any of the following:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]">
+        <source>On the toolbar, right-click in the toolbar and choose <g id="158">Customize Toolbar</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="159">View &gt; Toolbars &gt; Customize</g> from the menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[2]/text:p[0]">
+        <source>Choose <g id="160">Tools &gt; Customize</g> from the menu bar and go to the <g id="161">Toolbars</g> page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="162" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="163"><g id="164"/></g>Figure <x id="165" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The Toolbars page of the Customize dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="166" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/>Modifying existing toolbars<x id="167" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>You will recognize the same dialog layout as for the menus. Indeed, the procedures for creating, modifying and deleting a toolbar are very similar (Figure <g id="168"><x id="169" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]/text:span[0]"/></g>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>To modify an existing toolbar:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]">
+        <source>In the upper right drop-down list, choose whether to save this changed toolbar for the application (for example, Writer) or for a selected document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[1]/text:p[0]">
+        <source>Just below, select from the <g id="170">Toolbar</g> drop-down list the toolbar that you want to customize. The current toolbar content is displayed in the right pane below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[2]/text:p[0]">
+        <source>Select the commands on the right. You can narrow your search by performing a search on the top left search box or choosing a category in the drop-down list just below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[3]/text:p[0]">
+        <source>Click on the right arrow to add the command to the toolbar. Use the up and down arrows in the far right to position the command in the bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[4]/text:p[0]">
+        <source>When you have finished making all your changes, click <g id="171">OK</g> to save them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/><x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:soft-page-break[0]"/><x id="174" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:alphabetical-index-mark[0]"/>Creating a new toolbar<x id="175" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source>To create a new toolbar:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="176">Tools &gt; Customize &gt; Toolbars</g> from the menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[1]/text:p[0]">
+        <source>Click on the plus sign (+) on the top right part of the dialog. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[2]/text:p[0]">
+        <source>On the <g id="177">Name</g> dialog (Figure <x id="178" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[2]/text:p[0]"/>), type the new toolbar’s name and choose from the <g id="179">Save In</g> drop-down list where to save this changed menu: for the application (for example, Writer) or for a selected document. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="180">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>The new toolbar now appears on the list of toolbars in the Customize dialog. After creating a new toolbar, you need to add some commands to it, as described above.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="181" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="182" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Naming a new toolbar</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="183" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="184" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[0]"/>Choosing icons for toolbar commands<x id="185" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>Toolbar buttons usually have icons, not words, on them, but not all of the commands have associated icons.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>To choose an icon for a command, select the command and click <g id="186">Modify &gt; Change icon</g>. On the Change Icon dialog, you can scroll through the available icons, select one, and click <g id="187">OK</g> to assign it to the command (Figure <x id="188" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="189" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="190" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Change Icon dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source>To use a custom icon, create it in a graphics program and import it into LibreOffice by clicking the <g id="191">Import</g> button on the Change Icon dialog. Custom icons should be 16 x 16 pixels in size to achieve the best quality and should not contain more than 256 colors.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="192" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/><x id="193" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:soft-page-break[0]"/>Assigning shortcut keys<x id="194" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source>In addition to using the <x id="195" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]/text:alphabetical-index-mark[0]"/>built-in <x id="196" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]/text:alphabetical-index-mark[1]"/>keyboard shortcuts (listed in Appendix A), you can define your own. You can assign shortcuts to standard LibreOffice functions or your own macros and save them for use with the entire LibreOffice suite.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]">
+        <source>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source>Be careful when reassigning your operating system’s or LibreOffice’s predefined shortcut keys. Many key assignments are universally understood shortcuts, such as <g id="197">F1</g> for Help, and are always expected to provide certain results. Although you can easily reset the shortcut key assignments to the LibreOffice defaults, changing some common shortcut keys can cause confusion, especially if other users share your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>To adapt shortcut keys to your needs, use the <x id="198" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]/text:alphabetical-index-mark[0]"/>Customize dialog, as described below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]">
+        <source>Select <g id="199">Tools &gt; Customize &gt; Keyboard</g>. The Customize dialog (Figure <x id="200" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]"/>) opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[1]/text:p[0]">
+        <source>To have the shortcut key assignment available in all components of LibreOffice, select <g id="201">LibreOffice</g> in the upper right.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[2]/text:p[0]">
+        <source>Next select the required function from the <g id="202">Category</g> and <g id="203">Function</g> lists.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[3]/text:p[0]">
+        <source>Now select the desired shortcut keys in the <g id="204">Shortcut keys</g> list and click the <g id="205">Modify</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[4]/text:p[0]">
+        <source>Click <g id="206">OK</g> to accept the change. Now the chosen shortcut keys will execute the function chosen in step 3 above whenever they are pressed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>All existing shortcut keys for the currently selected <g id="207">Function</g> are listed in the <g id="208">Keys</g> selection box. If the <g id="209">Keys</g> list is empty, it indicates that the chosen key combination is free for use. If it were not, and you wanted to reassign a shortcut key combination that is already in use, you must first delete the existing key.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>Shortcut keys that are grayed-out in the listing on the Customize dialog, such as <g id="210">F1</g> and <g id="211">F10</g>, are not available for reassignment.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="212" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>Example: <x id="213" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark[0]"/>Assigning styles to shortcut keys<x id="214" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>You can configure shortcut keys to quickly assign styles in your document. Some shortcuts are predefined, such as <g id="215">Ctrl+0</g> for the <g id="216">Text body</g> paragraph style, <g id="217">Ctrl+1</g> for the <g id="218">Heading 1</g> style, and <g id="219">Ctrl+2</g> for <g id="220">Heading 2</g>. You can modify these shortcuts and create your own.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="221">Tools &gt; Customize &gt; Keyboard</g>. The Keyboard page of the Customize dialog opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[1]/text:p[0]">
+        <source>To have the shortcut key assignment available only with one component (for example, Writer), select that component’s name in the upper right corner of the page; otherwise select <g id="222">LibreOffice</g> to make it available to every component.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[2]/text:p[0]">
+        <source>Choose the shortcut keys you want to assign a style to. In this example, we have chosen <g id="223">Ctrl+9</g>. This enables the <g id="224">Modify</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[3]/text:p[0]">
+        <source>In the <g id="225">Functions</g> section at the bottom of the dialog, scroll down in the <g id="226">Category</g> list to <g id="227">Styles</g>. Click the expansion symbol (usually a + sign or triangle) to expand the list of styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[4]/text:p[0]">
+        <source>Choose the category of style. (This example uses a paragraph style, but you can also choose character styles and others.) The <g id="228">Function</g> list will display the names of the available styles for the selected category. The example shows some of LibreOffice’s predefined styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[5]/text:p[0]">
+        <source><x id="229" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[5]/text:p[0]/text:soft-page-break[0]"/>To assign <g id="230">Ctrl+9</g> to be the shortcut key combination for the List 1 style, select <g id="231">List 1</g> in the <g id="232">Function</g> list, and then click <g id="233">Modify</g>. <g id="234">Ctrl+9</g> now appears in the <g id="235">Keys</g> list on the right, and <g id="236">List 1</g> appears next to <g id="237">Ctrl+9</g> in the Shortcut keys box at the top.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[6]/text:p[0]">
+        <source>Make any other required changes, and then click <g id="238">OK</g> to save these settings and close the dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="240" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Defining keyboard shortcuts for applying styles</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]">
+        <source>Warning</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>If you assign a custom style to a shortcut key, the shortcut will be effective only in documents that contains a custom style with the same name and family (paragraph, character, frame...). As consequence, a new default document may not have the custom style defined and the shortcut will apply a non-existing style.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="241" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/>Saving changes to a file<x id="242" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>Changes to the shortcut key assignments can be <x id="243" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]/text:alphabetical-index-mark[0]"/>saved in a keyboard configuration file for use a later time, thus permitting you to create and apply different configurations as the need arises, or in another way, create a standard keyboard configuration file to be distributed among many users in a company. To save keyboard shortcuts to a file:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]">
+        <source>After making your keyboard shortcut assignments, click the <g id="244">Save</g> button at the right of the Customize dialog (Figure <x id="245" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]">
+        <source>In the Save Keyboard Configuration dialog, select <g id="246">All files</g> from the <g id="247">Save as Type</g> list.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[2]/text:p[0]">
+        <source>Next enter a name for the keyboard configuration file in the <g id="248">File name</g> box, or select an existing file from the list. If you need to, browse to find a file from another location.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="249">Save</g>. A confirmation dialog appears if you are about to overwrite an existing file, otherwise there will be no feedback and the file will be saved.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="250" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/><x id="251" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:soft-page-break[0]"/>Loading a saved keyboard configuration<x id="252" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>To <x id="253" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]/text:alphabetical-index-mark[0]"/>load a saved keyboard configuration file and replace your existing configuration, click the <g id="254">Load</g> button at the right of the Customize dialog, and then select the configuration file from the Load Keyboard Configuration dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="255" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/>Resetting the shortcut keys<x id="256" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]">
+        <source>To <x id="257" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/text:alphabetical-index-mark[0]"/>reset all of the keyboard shortcuts to their default values, click the <g id="258">Reset</g> button near the bottom right of the Customize dialog. Use this feature with care as no confirmation dialog will be displayed; the defaults will be set without any further notice or user input.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="259" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/><x id="260" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:alphabetical-index-mark[0]"/>Assigning macros to events<x id="261" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>In LibreOffice, when something happens, we say that an event occurred. For example, a document was opened, a key was pressed, or the mouse moved. You can associate a macro with an event, so the macro is run when the event occurs. A common use is to assign the “open document” event to run a macro that performs certain setup tasks for the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]">
+        <source>To associate a macro with an event, use the Events page of the Customize dialog. For more information, see Chapter 13, Getting Started with Macros.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="262" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/>Adding functionality with extensions<x id="263" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source>An extension is a program that can be installed into LibreOffice to add new functionality and improve your productivity with LibreOffice. Template sets, spelling dictionaries, clipart galleries, macros, and dialog libraries can be packaged as LibreOffice extensions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]">
+        <source>Several extensions are shipped bundled with LibreOffice and are installed with the program. These can only be removed by changing the installation options. Others can be downloaded from various websites. The official extension repository is located at <g id="264">http</g><g id="265"><g id="266">s</g></g><g id="267">://extensions.libreoffice.org/</g>. These extensions are free of charge.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]">
+        <source>Some extensions from other sources are free of charge; others are available for a fee. Check the descriptions to see what licenses and fees apply to the ones that interest you.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]">
+        <source>Download the extension to your computer in any folder that you want (Usually folder Download).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="268" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/>Installing extensions<x id="269" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>Extensions can be installed in any of these ways:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]">
+        <source>Directly from the *.oxt file in your system’s file browser: double-click the file.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[1]/text:p[0]">
+        <source>From your web browser, if it can be configured to open this file type from a web page hyperlink: select the hyperlink, and then select to Open the file.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[1]/text:p[1]">
+        <source>In both cases, after the Extension Manager opens, a warning dialog opens for you to verify the installation and then continue. The file is installed as a “user only” file in a multi-user system.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[2]/text:p[0]">
+        <source>Directly from <g id="270">Tools &gt; Extension Manager</g>, as follows:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]">
+        <source>In LibreOffice, select <g id="271">Tools &gt; Extension Manager</g> from the menu bar. The option to view the extensions bundled with LibreOffice can be deselected to view more easily those installations that have been added by a user.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[1]/text:p[0]">
+        <source>In the Extension Manager dialog (Figure 10), click <g id="272">Add</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[2]/text:p[0]">
+        <source>A file browser window opens. Find and select the extension you want to install and click <g id="273">Open</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[3]/text:p[0]">
+        <source><x id="274" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[3]/text:p[0]/text:soft-page-break[0]"/>Users with administrator or root privileges will see a dialog where they can choose to install extensions “for all users” (<g id="275">shared</g>) or “only for me” (<g id="276">user</g>). Normal users without those privileges can install, remove, or modify extensions only for their own use (<g id="277">user</g>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]">
+        <source>In all cases, during the process you may be asked to accept a license agreement. When the installation is complete, the extension is listed in the Extension Manager dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]">
+        <source>To get extensions that are listed in the repository, you can open the Extension Manager and click the <g id="278">Get more extensions online</g> link. You do not need to download them separately.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="279" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="280"><g id="281"/></g>Figure <x id="282" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Extension Manager Main Window</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source>Update <g id="283">e</g>xtensions</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]">
+        <source>Using the Check For Updates on the bottom of the main window of the Extension Manager, you can look for updates for the installed extensions, if there is any new version (Figure <g id="284"><x id="285" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/text:span[0]"/></g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="286" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="287"><g id="288"/></g>Figure <x id="289" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Extension Update Window</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]">
+        <source><x id="290" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-start[0]"/><x id="291" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:soft-page-break[0]"/>Removing and disabling <g id="292">e</g>xtensions<x id="293" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]">
+        <source>You can remove whatever extension that you had installed. For this, select the extension in the main windows of Extension Manager and click the <g id="294">Remove</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]">
+        <source>Finally you can disable an extension without uninstall<g id="295">ing</g> it, <g id="296">by</g>selecting the extension in the main window of Extension Manager and clickin<g id="297">g</g> the button <g id="298">Disable</g>. After that, the button Disable change<g id="299">s</g> to Enable.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Chapter 14  Customizing LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Removing and disabling extensions</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Adding functionality with extensions</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Chapter 14  Customizing LibreOffice</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Chapter 14  Customizing LibreOffice</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

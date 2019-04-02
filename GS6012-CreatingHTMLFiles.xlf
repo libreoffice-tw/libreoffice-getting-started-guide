@@ -1,0 +1,775 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6012-CreatingHTMLFiles.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Chapter 12 <g id="1"/><g id="2"/>Creating <g id="3">HTML Files</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[3]">
+        <source>Saving Documents as HTML Files</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="5" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 201<g id="6">8</g> by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the <g id="7">GNU General Public License</g> (<g id="8">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the <g id="9">Creative Commons Attribution License</g> (<g id="10">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="11" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="12" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>This book is adapted and updated from <g id="13">Getting Started with OpenOffice.org 3.3</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="14" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>To <g id="15">t</g>his <g id="16">e</g>dition<x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Dan Lewis</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>To <g id="19">previous</g> <g id="20">e</g>dition<g id="21">s</g><x id="22" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Peter Hillier-Brook</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Ian Laurenson</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Peter Kupfer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Jean Hollis Weber</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Linda Worthington</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Peter Schofield</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="23" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Feedback<x id="24" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="25">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="26" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Publication date and software version<x id="27" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]/text:span[0]">
+        <source>Published February 201</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]/text:span[1]">
+        <source>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]/text:span[2]">
+        <source>. Based on LibreOffice </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]/text:span[3]">
+        <source>6.0</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]/text:span[4]">
+        <source>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]">
+        <source><x id="28" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-start[0]"/>Note for <g id="29">m</g>ac<g id="30">OS</g> users<x id="31" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[6]">
+        <source>Some keystrokes and menu items are different on <g id="32">m</g>ac<g id="33">OS</g> from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Mac<g id="34">OS</g> equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="35">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source><g id="36">Ctrl</g> (<g id="37">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="38">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="39">Shift</g>+⌘+<g id="40">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="41">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the <g id="42">sidebar </g>Styles <g id="43">deck</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="44"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="45"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>To this edition<g id="46"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>To previous editions<g id="47"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Feedback<g id="48"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Publication date and software version<g id="49"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Note for macOS users<g id="50"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Introduction<g id="51"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>Relative and absolute hyperlinks<g id="52"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>Creating hyperlinks<g id="53"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Using the Navigator<g id="54"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Using the Hyperlink dialog<g id="55"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Editing hyperlinks<g id="56"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Removing hyperlinks<g id="57"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Saving and exporting documents as HTML files<g id="58"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Writer documents<g id="59"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Saving a Writer document as an HTML file<g id="60"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Exporting a single web page<g id="61"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Saving as a series of web pages<g id="62"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Calc spreadsheets<g id="63"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Impress presentations<g id="64"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Draw documents<g id="65"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>Creating, editing, and saving HTML files using Writer/Web<g id="66"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Writer/Web display modes<g id="67"/>14</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>Creating and editing an HTML document<g id="68"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>Checking a web page in a browser<g id="69"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="70" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Introduction<x id="71" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>HTML capabilities in LibreOffice <g id="72">make it possible to</g> sav<g id="73">e</g> and export documents in HTML format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>This chapter describes how to do the following in Writer, Calc, Impress, and Draw:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Create hyperlinks within a document, a<g id="74">lso</g> to other documents such as web pages, PDFs, and other files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[1]/text:p[0]">
+        <source>Create, edit, and save HTML documents using Writer/Web.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]">
+        <source>When creating a document that you plan to deliver as a<g id="75">n HTML file</g>, you need to consider the following:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>In an HTML document, hyperlinks are active (clickable), but other cross-references inserted by LibreOffice are not active links.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[1]/text:p[0]">
+        <source>An object such as an image is saved as a separate file. However, if that object has been placed in a frame (for example, with an associated caption), it is not saved and does not appear in the HTML document; instead, the name of the frame appears.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="76" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/><x id="77" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark[0]"/><x id="78" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:alphabetical-index-mark[1]"/>Relative and absolute hyperlinks<x id="79" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>Hyperlinks stored within a file can be either relative or absolute.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>A relative hyperlink says, <g id="80">Here is how to get there starting from where you are now</g> (meaning from the folder in which your current document is saved) while an absolute hyperlink says, <g id="81">Here is how to get there no matter where you start from</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>An absolute link will stop working if the target is moved. A relative link will stop working if the start and target locations change relative to each other. For instance, if you have two spreadsheets in the same folder linked to each other and you move the entire folder to a new location, an absolute hyperlink will break but a relative one will not.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>To change the way that LibreOffice stores the hyperlinks in your file, select <g id="82">Tools &gt; Options &gt; Load/Save &gt; General</g> and choose if you want URLs saved relatively when referencing the <g id="83">File System</g>, or the <g id="84">Internet</g>, or both.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source>Calc will always display an absolute hyperlink. Do not be alarmed when it does this even when you have saved a relative hyperlink. This ‘absolute’ target address will be updated if you move the file.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>HTML Files containing links as relative to the file system that will be uploaded to a web server requires the files be in a file structure matching that of the web server. Otherwise, the links will point to the wrong folder.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>When you rest the mouse pointer on a hyperlink, a help tip displays the absolute reference, because LibreOffice uses absolute path names internally. The complete path and address can only be seen when you view the result of the HTML export (saving <g id="85">a</g> spreadsheet as an HTML file), by loading the HTML file as text, or by opening it with a text editor.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="86" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/><x id="87" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:soft-page-break[0]"/>Creating <x id="88" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[0]"/>hyperlinks<x id="89" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]">
+        <source>When you type text (such as a website addresses or URL) that can be used as a hyperlink, and then press the space bar or the <g id="90">Enter</g> key, LibreOffice automatically creates the hyperlink and applies formatting to the text (usually a color and underlining). If this does not happen, you can enable this feature by going to <g id="91">Tools &gt; AutoCorrect Options &gt; Options</g> on the menu bar and selecting <x id="92" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]/text:alphabetical-index-mark[0]"/>the <g id="93">URL Recognition</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>If you do not want LibreOffice to convert a specific URL to a hyperlink, go to <g id="94">Edit &gt; Undo Insert</g> on the menu bar, or press <g id="95">Ctrl+Z</g> immediately after the formatting has been applied, or place the cursor in the hyperlink, right-click, and select <g id="96">Remove Hyperlink</g> from the context menu.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>To change the color of hyperlinks, go to <g id="97">Tools &gt; Options &gt; LibreOffice &gt; Application colors</g>, scroll to <g id="98">Unvisited links</g> and/or <g id="99">Visited links</g>, pick the new colors and click <g id="100">OK</g>. Caution: this will change the color for all hyperlinks in all components of LibreOffice; this may not be what you want.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]">
+        <source>In Writer and Calc (but not Draw or Impress), you can also change the <g id="101">Internet link</g> character style or define and apply new styles to selected links.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="102" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/>Using the Navigator<x id="103" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>You can insert hyperlinks using the Navigator and this is an easy way to insert a hyperlink to another part of the same document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source>Open the documents containing the items you want to cross-reference.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[1]/text:p[0]">
+        <source>Click on the Navigator icon in the Sidebar or press <g id="104">F5</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[2]/text:p[0]">
+        <source>Click the triangle to the right of the <g id="105">Drag Mode</g> icon and select <g id="106">Insert as Hyperlink</g> (Figure <x id="107" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[2]/text:p[0]"/>). The Drag Mode icon changes shape depending on the type of insert that was previously selected. The default icon for Drag Mode is to show the Hyperlink icon<g id="108"><x id="109" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[2]/text:p[0]/text:span[2]/draw:frame[0]"/></g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="110" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="111" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Inserting hyperlink using the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]">
+        <source>Select the document from the drop-down list at the bottom of the Navigator that contains the item that you want to link to.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[1]/text:p[0]">
+        <source><x id="112" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[1]/text:p[0]/text:soft-page-break[0]"/>In the Navigator list, select the item that you want to insert as a hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[2]/text:p[0]">
+        <source>Drag the item to where you want to insert the hyperlink in the document. The name of the item is inserted in the document as an active hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>When using the Navigator to insert a hyperlink to an object such as a graphic, it is recommended to have the hyperlink show a useful name, for example <g id="113">2009 Sales Graph.</g> You need to give such objects useful names instead of leaving them as the default names, for example Graphics6, or you will have to edit the name of the resulting link using the Hyperlink dialog, as described below.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]">
+        <source>You can also use the Navigator to insert a hyperlink from one document (the source) to a specific place in another document (the target). Open the Navigator in the target document and drag the item to the position in the source document where you want the hyperlink to appear.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="114" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/>Using the Hyperlink dialog<x id="115" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>You can use the Hyperlink dialog to insert a hyperlink and modify all hyperlinks.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]">
+        <source>Highlight the existing text you want to use as a link.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[1]/text:p[0]">
+        <source>Click the <g id="116">Hyperlink </g>icon on the Standard toolbar or go to <g id="117">Insert &gt; Hyperlink</g> on the menu bar to open the Hyperlink dialog (Figure <x id="118" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[2]/text:p[0]">
+        <source>On the left side, select one of the four categories of hyperlink:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]">
+        <source><g id="119">Internet</g>: the hyperlink points to a web address, normally starting with http://.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]">
+        <source><g id="120">Mail</g>: the hyperlink opens an email message that is pre-addressed to a particular recipient.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[2]/text:p[0]">
+        <source><g id="121">Document</g>: the hyperlink points to another document or to another place in the current document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[3]/text:p[0]">
+        <source><g id="122">New document</g>: the hyperlink creates a new document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]">
+        <source>The Hyperlink dialog changes depending on the type of hyperlink selected. Enter all necessary details to create the hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[1]/text:p[0]">
+        <source>Click <g id="123">Apply</g> <g id="124">or </g><g id="125"><g id="126">OK</g></g><g id="127"> button </g>to create the hyperlink. <g id="128">If the </g><g id="129"><g id="130">Apply</g></g><g id="131"> button is clicked</g> the Hyperlink dialog remains open allowing you to create another hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[2]/text:p[0]">
+        <source>Click <g id="132">Close</g> to close the Hyperlink dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="134" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Hyperlink dialog showing details for Internet links</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source>The dialog changes according to the choice made for the hyperlink category in the left panel. A full description of all the choices and their interactions is beyond the scope of this chapter. Here is a summary of the most common choices.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]">
+        <source><x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>For an <g id="136">Internet</g> hyperlink, choose the type of hyperlink (Web or FTP), and enter the required web address (URL).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[1]/text:p[0]">
+        <source>For a <g id="137">Mail </g>hyperlink, specify the address of the receiver and the subject.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[2]/text:p[0]">
+        <source>For a <g id="138">Document</g> hyperlink, specify the document path (clicking <g id="139">Open File</g> opens a file browser) or leave this blank if you want to link to a target in the same document. Optionally specify the target in the document (for example a specific slide). Click the <g id="140">Target in Document</g> icon to open the Target in Document dialog where you can select the type of target; or, if you know the name of the target, you can type it into the box.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[3]/text:p[0]">
+        <source>For a <g id="141">New Document</g> hyperlink, specify whether to edit the newly created document immediately (<g id="142">Edit now</g>) or just create it (<g id="143">Edit later</g>). Enter the file name and select the type of document to create (text, spreadsheet, and so on). Click the <g id="144">Select Path</g> icon to open a file browser and choose where to store the file.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>The <g id="145">Further settings</g> section in the bottom right part of the dialog is common to all the hyperlink categories, although some choices are more relevant to some types of links.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]">
+        <source><g id="146">Frame</g> value determines how the hyperlink will open. This applies to documents that open in a Web browser.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[1]/text:p[0]">
+        <source><g id="147">Form</g> specifies if the link is to be presented as text or as a button. See the <g id="148">Writer Guide Chapter 15 Using Forms in Writer</g> for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[2]/text:p[0]">
+        <source><g id="149">Text</g> specifies the text that will be visible to the user. If you do not enter anything here, LibreOffice uses the full URL or path as the link text. Note that if the link is relative and you move the file, this text will not change, though the target will.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[3]/text:p[0]">
+        <source><g id="150">Name</g> is applicable to HTML documents. It specifies text that will be added as a <g id="151">NAME</g> attribute in the HTML code behind the hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[4]/text:p[0]">
+        <source><g id="152">Events</g>: click this icon to open the Assign Macro dialog and select a macro to run when the link is clicked. See <g id="153">Chapter 13 Getting Started with Macros</g> for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="154" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="155" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark[0]"/>Editing hyperlinks<x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]">
+        <source>To edit an existing link:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]">
+        <source>Click anywhere in the hyperlink text.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[1]/text:p[0]">
+        <source>Click the <g id="157">Hyperlink </g>icon on the Standard toolbar, or go to <g id="158">Edit &gt; Hyperlink</g> on the menu bar, or right-click and select <g id="159">Edit Hyperlink</g> from the context menu. The Hyperlink dialog opens.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[2]/text:p[0]">
+        <source>Make your changes and click <g id="160">Apply</g> to save your changes. The Hyperlink dialog remains open, allowing you to continue editing hyperlinks. Click <g id="161">Apply</g> after editing each hyperlink.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[3]/text:p[0]">
+        <source>When you are finished editing hyperlinks, click <g id="162">Close</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]">
+        <source>The standard (default) behavior for activating hyperlinks within LibreOffice is to use <g id="163">Ctrl+click</g>. This behavior can be changed in <g id="164">Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options</g> by deselecting the option <g id="165">Ctrl-click required to follow hyperlinks</g>. If clicking in your links activates them, check that page to see if the option has been deselected.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="166" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/><x id="167" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:alphabetical-index-mark[0]"/>Removing hyperlinks<x id="168" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>You can remove the link from hyperlink text and leave just the text by right-clicking on the link and selecting <g id="169">Remove Hyperlink</g> from the context menu. You may then need to re-apply some formatting to match the text with the rest of your document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]">
+        <source>To erase the link text or button from the document completely, select it and press the <g id="170">Backspace</g> or <g id="171">Delete</g> key.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/><x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:soft-page-break[0]"/>Saving and exporting documents as <g id="174">HTML files</g><x id="175" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source>The easiest way to create HTML documents in LibreOffice is to start with an existing document. You can get a good idea of how it will appear as a web page by <x id="176" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]/text:alphabetical-index-mark[0]"/>using <g id="177">View &gt; Web</g>. However, web layout view does not show you which features will or will not be saved correctly in HTML format. Refer to “<x id="178" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]"/>” on page <x id="179" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]"/><g id="180"/>on what to consider before creating a web page from a document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="181" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/>Writer documents<x id="182" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="183" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/>Saving a Writer document as <g id="184">an HTML file</g><x id="185" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>To save a Writer document as a single HTML f<g id="186">ile</g>, go to <g id="187">File &gt; Save As</g> on the menu bar and specify <g id="188">HTML Document (Writer)</g> as the file type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>Saving a document as HTML document produces a set of files on your disk. LibreOffice will generate the image files and the HTML files necessary to create an HTML page in the browser.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source>Use an empty folder to save your document as HTML file and images, The number of files generated by the format conversion depends on the number of images and objects in the original text document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>The file names are created following a simple rule summarized in Table <x id="189" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]">
+        <source>Table <x id="190" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]"/>: Summary of the file types created when saving as HTML format</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>File</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Myfile.html</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>The text contents, page layout, text attributes, meta tags, and styles.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Myfile_html_[random number].gif</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Gif image of visible contents of OLE objects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Myfile_html_[random number].png, jpg, or bmp</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Images inserted in the text document as PNG, BMP, or JPEG keep their original format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>The HTML transformation of the text document is limited by the HTML 4.0 Transitional specification. Text documents in office suites have a richer set of resources that will not appear in HTML, for example page formatting. Do not expect <g id="191">the same</g> layout fidelity when saving a file with HTML format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>Saving as HTML may require more work directly on the HTML code to adjust the layout of the web page. See “<x id="192" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]"/>” on page <x id="193" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="194" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/>Exporting a single <x id="195" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark-start[0]"/>web page<x id="196" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/><x id="197" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>Another way to create a HTML file is to use <g id="198">File &gt; Export</g> and specify <g id="199">XHTML</g> as the file type. LibreOffice will generate one XHTML file per text document. The image files are embedded in the XHTML file. XHTML files created by exporting a text document in LibreOffice have significant better layout rendering but fail to render objects other than images.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]">
+        <source><x id="200" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Notes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source>Writer does not replace multiple spaces in the original document with the HTML code for non-breaking spaces. If you want to have extra spaces in your HTML file or web page, you need to insert non-breaking spaces in LibreOffice. To do this, press <g id="201">Ctrl+Spacebar</g> instead of just <g id="202">Spacebar</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source>The tab character is not rendered on exporting to XHTML. Instead, use borderless tables to position contents instead of the tab character in a line. This also affect<g id="203">s</g> bullet and number lists that insert by default a tab character between the bullet or number and the text. Use a list style where the tab character is replaced by a space.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source>Objects different than usual image formats are not rendered in LibreOffice XHTML output. These include drawings, spreadsheets, charts, and OLE object in general. To render an OLE object in XHTML, first transform its visible contents into an image and then replace the object in your document with the image.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>The use of styles in the text document is strongly recommended for getting the best results when exporting to HTML or XHTML.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="204" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/>Saving as a series of web pages<x id="205" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]">
+        <source>Writer can save a large document as a series of web pages (HTML files) with a table of contents page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]">
+        <source>Decide which headings in the document should start on a new page and make sure all those headings have the same paragraph style (for example, Heading 1).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]">
+        <source>Go to<g id="206"> File &gt; Send &gt; Create HTML Document</g> on the menu bar to open the Name and Path of the HTML Document dialog (Figure <x id="207" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="208" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="209" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Creating a series of web pages from one document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]">
+        <source>Type the file name to save the pages under.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[1]/text:p[0]">
+        <source>Specify which style indicates a new page by using the <g id="210"><g id="211">separated by</g></g> drop-down list at the bottom of the dialog (for example, Heading 1).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[2]/text:p[0]">
+        <source>Click <g id="212">Save</g> to create the multi-page HTML document. The resulting HTML files conform to the HTML 4 Transitional standard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="213" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/><x id="214" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:soft-page-break[0]"/><x id="215" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark-start[0]"/>Calc spreadsheets<x id="216" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/><x id="217" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>Calc can save files as HTML documents by going to <g id="218">File &gt; Save As</g> on the menu bar and select <g id="219">HTML Document (Calc)</g> format as the file type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>If the file contains more than one sheet, the additional sheets will follow one another in the HTML file. Links to each sheet will be placed at the top of the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]">
+        <source>Calc also allows the insertion of links directly into the spreadsheet using the Hyperlink dialog. See “<x id="220" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]"/>” on page <x id="221" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]"/><g id="222"/>for more information on hyperlinks.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="223" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/><x id="224" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark-start[0]"/>Impress presentations<x id="225" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/><x id="226" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>Saving in HTML format does not retain animation and slide transitions.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>Impress presentations cannot be saved in HTML format, but have to be exported as HTML documents. Note that you can click <g id="227">Create</g> at any step in the following procedure. The <g id="228">HTML files</g> created will then use the default settings that you have not changed in any way.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]">
+        <source>Go to <g id="229">File &gt; Export</g> on the menu bar and specify the file name and location of where to save the web page version of your presentation.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]">
+        <source>Select <g id="230">HTML document (Impress)</g> as the file type and click <g id="231">Save</g> to open the HTML Export dialog (Figure <x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="233" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="234" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Export dialog - Assign design page</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]">
+        <source>On the <g id="235">Assign design </g>page, you can choose to create a new design and select or delete an existing design. Specify a <g id="236">New design</g> or an <g id="237">Existing design</g> and click <g id="238">Next &gt;&gt;</g>. If you have not previously saved a web page design, the <g id="239">Existing Design</g> choice is not available. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]">
+        <source><g id="240">New design</g> – creates a new design in the next pages of the Wizard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]">
+        <source><g id="241">Existing design</g> – loads an existing design from the design list to use as a starting point for the steps that follow. The list box displays all existing designs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[2]/text:p[0]">
+        <source><g id="242">Delete Selected Design</g> deletes the selected design from the design list. If you delete a design, you will only delete the design information. An export file will not be deleted by this action.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]">
+        <source><x id="243" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Specify the <g id="244">Publication type</g> for the web pages (Figure <x id="245" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]"/>), then click <g id="246">Next&gt;&gt;</g>. The publication type defines the basic settings for the intended export. The choices are:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]">
+        <source><g id="247">Standard HTML format</g> – creates standard HTML pages from export pages.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[1]/text:p[0]">
+        <source><g id="248">Standard HTML with frames</g> – creates standard HTML pages with frames. The exported page will be placed in the main frame and the frame to the left will display a table of contents in the form of hyperlinks.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[2]/text:p[0]">
+        <source><g id="249">Automatic</g> – creates a default HTML presentation as a kiosk export in which the slides are automatically advanced after a specified amount of time.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[3]/text:p[0]">
+        <source><g id="250">WebCast</g> – in a WebCast export, automatic scripts will be generated with Perl or ASP support. This enables the speaker (for example, a speaker in a telephone conference using a slide show on the Internet) to change the slides in the web browsers used by the audience.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>For more information on the options available for this page of the HTML Export dialog, click <g id="251">Help</g> to open the help pages.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="252" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="253" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Export dialog – Publication type page</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]">
+        <source>Specify the options for <g id="254">Save graphics as</g>, <g id="255">Monitor resolution</g>, and <g id="256">Effects</g> used for the web pages (Figure <x id="257" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]"/>), then click <g id="258">Next&gt;&gt;</g>. The options for this page of the HTML Export dialog are as follows:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[0]/text:p[0]">
+        <source><g id="259">Save graphics as</g> – determines the image format. You can also define the compression value for the export.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[1]/text:p[0]">
+        <source><g id="260">Monitor resolution</g> – defines the resolution for the target screen. Depending on the selected resolution, the image will be displayed in a reduced size. You can specify a reduction of up to 80% from the original size. When selecting a resolution, consider what the majority of your viewers might be using. If you specify a high resolution, then a viewer with a medium-resolution monitor will have to scroll sideways to see the entire slide, which is probably not desirable.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[2]/text:p[0]">
+        <source><g id="261">Effects</g> – specifies whether sound files defined as an effect for slide transitions are exported and whether any hidden slides are exported.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source>For more information on the options available for this page of the HTML Export dialog, click <g id="262">Help</g> to open the help pages.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="263" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="264" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Export dialog – graphics and monitor resolution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]">
+        <source>Specify the <g id="265">Information for the title page</g> to be used with the web version of your presentation (Figure <x id="266" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]"/>). The title page normally contains the author’s name, an e-mail address and home page, along with any additional information you may want to include. This page is not available if you have selected not to create a title page and either Automatic or WebCast publication type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="267" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="268" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Export dialog – title page information</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]">
+        <source>Select <g id="269">Link to a copy of the original presentation</g> if you want to create a hyperlink to download a copy of the presentation file and then click <g id="270">Next&gt;&gt;.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[1]/text:p[0]">
+        <source><g id="271">Select button style</g> to be used for the web pages from the designs available (Figure <x id="272" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[1]/text:p[0]"/>) and then click <g id="273">Next&gt;&gt;.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]">
+        <source>If you do not select a button style, LibreOffice will create a text navigator.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>This page is not available if you have selected either Automatic or WebCast publication type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="274" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="275" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Export dialog – button style page</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]">
+        <source><g id="276">Select color scheme</g> to be used for the web pages (Figure <x id="277" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]"/>) such as the color scheme and colors for text and background. This page is not available if you have selected either Automatic or WebCast publication type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="278" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="279" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Export dialog – color scheme page</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="280">Create</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[1]/text:p[0]">
+        <source>If you have created a new design for your web pages, type in a name for your design and click <g id="281">Save</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]">
+        <source>Depending on the size of your presentation and the number of graphics it contains, the HTML export function creates several HTML, JPG, and GIF files. It is recommended to create a folder to hold all the files created for the web version of your presentation. If you simply save to your desktop and not in a specific folder, these separate HTML and graphics files will be placed all over your desktop.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="282" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/><x id="283" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:soft-page-break[0]"/>Draw documents<x id="284" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source><x id="285" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]/text:bookmark-start[0]"/>Draw documents cannot be saved in HTML format, but have to be exported as HTML documents. Exporting drawings from Draw is similar to exporting a presentation from Impress. Go to <g id="286">File &gt; Export</g> and select <g id="287">HTML Document (Draw)</g> as the file type, then follow the procedure above for exporting Impress presentations.<x id="288" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="289" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/>Creating, editing, and saving <g id="290">HTML files</g> using<g id="291"> Writer/Web</g><x id="292" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]">
+        <source>LibreOffice Writer can create, edit, and save <g id="293">files</g> in HTML format using a configuration called Writer/Web.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]">
+        <source>To create a new HTML file use the menu option <g id="294">File &gt; New &gt; HTML Document</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="295" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="296"><g id="297"/></g>Figure <x id="298" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Web display mode for Writer/Web</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/>Writer/Web display modes<x id="300" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]">
+        <source>In addition to the Normal and <g id="301">Web</g> display modes for editing (Figure <x id="302" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]"/>), Writer/Web has a third editing mode called HTML Source mode (Figure <x id="303" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]"/>). With the HTML Source mode, you can directly edit HTML tags such as <g id="304">&lt;p&gt;</g>, <g id="305">&lt;ul&gt;</g>, <g id="306">&lt;table&gt;</g>, and so on to compose web page elements. In that mode you must know the HTML markup language.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]">
+        <source>You normally add content to an HTML document using the Web display mode, because it will render the contents as if displayed in a browser. Use the HTML Source editing mode to tweak the formatting.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]">
+        <source>Because HTML markup language has fewer formatting possibilities than a text document in OpenDocument Format, Writer/Web cannot provide all formatting features for HTML documents and some formatting dialogs have fewer options available. For example, an HTML paragraph has no tab settings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="307" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="308"><g id="309"/></g>Figure <x id="310" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: HTML Source view mode</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="311" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/>Creating and editing an HTML document<x id="312" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]">
+        <source>To create an HTML document, choose <g id="313">File &gt; New &gt; HTML Document</g>. Writer/Web opens a blank document in web display mode. You can now add content to the document by typing or pasting text, images, tables, and other objects. Use all the Writer/Web formatting resources including styles to format the content. When you have finished, save the document with the HTML file type.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]">
+        <source>If you need to add HTML content directly into the document, enter HTML Source editing mode by clicking the <g id="314">HTML Source</g> icon on the toolbar or choosing <g id="315">View &gt; HTML Source</g> from the menu bar. In that mode, Writer/Web turns into a notepad-like text editor (Figure <x id="316" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[71]">
+        <source>The HTML markup content generated by Writer/Web is limited to the production of a displayable document in a web browser. It does not consider other components of a website such as external cascading style sheets (CSS), external <g id="317">JavaScript</g>, or other script languages. Use the HTML Source mode to manually insert links to these external components into the page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="318" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/>Checking a web page in a browser<x id="319" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]">
+        <source>It is important to check your web pages (HTML documents) in a web browser such as Mozilla Firefox, Google Chrome, Microsoft Edge, or Safari. Not all browsers render HTML files the same way, so if possible, check the contents in several browsers.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]">
+        <source>To make LibreOffice open your default web browser and display the contents of a document, go to <g id="320">File &gt; Preview in Web Browser</g>. You can also open any web browser and then open the HTML file in it.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Chapter 12  Creating HTML Files</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Checking a web page in a browser</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Creating, editing, and saving HTML files using Writer/Web</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Chapter 12  Creating HTML Files</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Chapter 12  Creating HTML Files</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

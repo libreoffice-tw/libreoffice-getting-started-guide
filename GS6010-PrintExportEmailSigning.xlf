@@ -1,0 +1,1432 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.1" version="1.1">
+  <file original="GS6010-PrintExportEmailSigning.odt" source-language="en" datatype="plaintext">
+    <body>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]">
+        <source><x id="0" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[1]/draw:frame[0]"/>Getting Started Guide</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[2]">
+        <source>Chapter 10 <g id="1"/><g id="2"/>Printing, Exporting, E‑mailing and Signing Documents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]">
+        <source><x id="3" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-start[0]"/>Copyright<x id="4" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[0]">
+        <source>This document is Copyright © 2018 by the LibreOffice Documentation Team. Contributors are listed below. You may distribute it and/or modify it under the terms of either the GNU General Public License (<g id="5">http://www.gnu.org/licenses/gpl.html</g>), version 3 or later, or the Creative Commons Attribution License (<g id="6">http://creativecommons.org/licenses/by/4.0/</g>), version 4.0 or later.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[1]">
+        <source>All trademarks within this guide belong to their legitimate owners.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]">
+        <source><x id="7" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-start[0]"/>Contributors<x id="8" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[2]">
+        <source>This book is adapted and updated from <g id="9">Getting Started with OpenOffice.org 3.3</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]">
+        <source><x id="10" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-start[0]"/>To <g id="11">t</g>his <g id="12">e</g>dition<x id="13" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Dave Barton</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Paul Figueiredo</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]">
+        <source><x id="14" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-start[0]"/>To <g id="15">p</g>revious <g id="16">e</g>ditions<x id="17" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>John A Smith</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Jean Hollis Weber </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Hazel Russman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Ron Faile Jr.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Olivier Hallot</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Miklos Vajna</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Joe Sellman</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Agnes Belzunce</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Michael Kotsarinis</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Peter Kupfer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Robert Scott</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[1]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Janet M. Swisher</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]">
+        <source><x id="18" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-start[0]"/>Feedback<x id="19" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[3]">
+        <source>Please direct any comments or suggestions about this document to the Documentation Team’s mailing list: <g id="20">documentation@global.libreoffice.org</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[4]">
+        <source>Everything you send to a mailing list, including your email address and any other personal information that is written in the message, is publicly archived and cannot be deleted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]">
+        <source><x id="21" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-start[0]"/>Publication date and software version<x id="22" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[5]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[5]">
+        <source><g id="23">Published </g>September 2018. Based on LibreOffice 6.0.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]">
+        <source><x id="24" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-start[0]"/>Note for <g id="25">m</g>ac<g id="26">OS</g> users<x id="27" xid="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:h[6]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:p[6]">
+        <source>Some keystrokes and menu items are different on <g id="28">m</g>ac<g id="29">OS</g> from those used in Windows and Linux. The table below gives some common substitutions for the instructions in this chapter. For a more detailed list, see the application Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Windows or Linux</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Mac<g id="30">OS</g> equivalent</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Effect</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source><g id="31">Tools &gt; Options</g> menu selection</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[1]/text:p[0]/text:span[0]">
+        <source>LibreOffice &gt; Preferences</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Access setup options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>Right-click</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Control+click and/or right-click depending on computer setup</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Open a context menu</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source><g id="32">Ctrl</g> (<g id="33">Control</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>⌘ (<g id="34">Command</g>)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>Used with other keys</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source><g id="35">Shift</g>+⌘+<g id="36">F5</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>Open the Navigator</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[0]/text:p[0]/text:span[0]">
+        <source>F11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>⌘+<g id="37">T</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/table:table[2]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>Open the <g id="38">sidebar</g> Styles <g id="39">deck</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:index-title[0]/text:p[0]">
+        <source>Contents</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[0]/text:a[0]">
+        <source>Copyright<g id="40"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[1]/text:a[0]">
+        <source>Contributors<g id="41"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[2]/text:a[0]">
+        <source>To this edition<g id="42"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[3]/text:a[0]">
+        <source>To previous editions<g id="43"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[4]/text:a[0]">
+        <source>Feedback<g id="44"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[5]/text:a[0]">
+        <source>Publication date and software version<g id="45"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[6]/text:a[0]">
+        <source>Note for macOS users<g id="46"/>2</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[7]/text:a[0]">
+        <source>Quick printing<g id="47"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[8]/text:a[0]">
+        <source>Controlling printing<g id="48"/>4</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[9]/text:a[0]">
+        <source>Selecting general printing options<g id="49"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[10]/text:a[0]">
+        <source>Printing multiple pages on a single sheet of paper<g id="50"/>5</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[11]/text:a[0]">
+        <source>Selecting pages/sheets/slides to print<g id="51"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[12]/text:a[0]">
+        <source>Writer<g id="52"/>6</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[13]/text:a[0]">
+        <source>Calc<g id="53"/>7</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[14]/text:a[0]">
+        <source>Impress and Draw<g id="54"/>8</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[15]/text:a[0]">
+        <source>Printing handouts, notes, or outlines in Impress<g id="55"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[16]/text:a[0]">
+        <source>Printing a brochure<g id="56"/>9</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[17]/text:a[0]">
+        <source>Printing envelopes, labels, business cards<g id="57"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[18]/text:a[0]">
+        <source>Printing in black and white (on a color printer)<g id="58"/>10</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[19]/text:a[0]">
+        <source>Previewing pages/sheets before printing<g id="59"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[20]/text:a[0]">
+        <source>Writer<g id="60"/>11</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[21]/text:a[0]">
+        <source>Calc<g id="61"/>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[22]/text:a[0]">
+        <source>Exporting to PDF<g id="62"/>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[23]/text:a[0]">
+        <source>Quick export to PDF<g id="63"/>12</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[24]/text:a[0]">
+        <source>Controlling PDF content and quality<g id="64"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[25]/text:a[0]">
+        <source>General page of PDF Options dialog<g id="65"/>13</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[26]/text:a[0]">
+        <source>Initial View page of PDF Options dialog<g id="66"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[27]/text:a[0]">
+        <source>User Interface page of PDF Options dialog<g id="67"/>15</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[28]/text:a[0]">
+        <source>Links page of PDF Options dialog<g id="68"/>16</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[29]/text:a[0]">
+        <source>Security page of PDF Options dialog<g id="69"/>17</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[30]/text:a[0]">
+        <source>Digital Signatures page of PDF Options dialog<g id="70"/>18</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[31]/text:a[0]">
+        <source>Exporting to EPUB format<g id="71"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[32]/text:a[0]">
+        <source>Quick export to EPUB<g id="72"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[33]/text:a[0]">
+        <source>Export to EPUB<g id="73"/>19</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[34]/text:a[0]">
+        <source>Exporting to other formats<g id="74"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[35]/text:a[0]">
+        <source>E-mailing documents<g id="75"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[36]/text:a[0]">
+        <source>E-mailing a document to several recipients<g id="76"/>20</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[37]/text:a[0]">
+        <source>Digital signing of documents<g id="77"/>22</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[38]/text:a[0]">
+        <source>Signing multiple times with same signature<g id="78"/>23</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:section[0]/text:table-of-content[0]/text:index-body[0]/text:p[39]/text:a[0]">
+        <source>Removing personal data<g id="79"/>24</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]">
+        <source><x id="80" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-start[0]"/>Quick printing<x id="81" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[0]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[3]">
+        <source>Click the <x id="82" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[3]/text:alphabetical-index-mark[0]"/><g id="83">Print File Directly</g> icon (<x id="84" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[3]/draw:frame[0]"/>) to send the entire document to the default printer defined for your computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[0]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[4]">
+        <source>You can change the action of the <g id="85">Print File Directly</g> icon to send the document to the printer defined for the document instead of the default printer for the computer. Go to <g id="86">Tools &gt; Options &gt; Load/Save &gt; General </g>and select the <g id="87">Load printer settings with the document</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]">
+        <source><x id="88" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-start[0]"/>Controlling printing<x id="89" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[1]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[5]">
+        <source>For more control over printing, use the Print dialog (<g id="90">File &gt; Print</g> or <g id="91">Ctrl+P</g>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="92" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="93" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: The <x id="94" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:alphabetical-index-mark-start[0]"/>Print dialog<x id="95" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[6]/draw:frame[0]/draw:text-box[0]/text:p[0]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[1]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[7]">
+        <source>The options selected on the Print dialog apply to this printing of this document only.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[8]">
+        <source>To specify default printing settings for LibreOffice, go to <g id="96">Tools &gt; Options &gt;</g> <g id="97">LibreOffice &gt; Print</g> and <g id="98">Tools &gt; Options &gt; LibreOffice [Component] &gt; Print</g>. See Chapter 2, Setting Up LibreOffice, for more details.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[9]">
+        <source>The Print dialog has four pages, from which you can choose a range of options, as described in the following sections.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]">
+        <source>The different components of LibreOffice have different print settings available, as summarized in Table <x id="99" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[10]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]">
+        <source><x id="100" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]/text:soft-page-break[0]"/>Table <x id="101" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[11]"/>: Print options in LibreOffice components</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[0]/text:p[0]">
+        <source>Feature</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[1]/text:p[0]">
+        <source>Writer</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[2]/text:p[0]">
+        <source>Calc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[3]/text:p[0]">
+        <source>Impress</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[0]/table:table-cell[4]/text:p[0]">
+        <source>Draw</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[0]/text:p[0]">
+        <source>Select pages/sheets/slides to print</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[1]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[2]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[3]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[1]/table:table-cell[4]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[0]/text:p[0]">
+        <source>Print multiple pages/sheets/slides on one page</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[1]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[2]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[3]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[2]/table:table-cell[4]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[0]/text:p[0]">
+        <source>Print a brochure</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[1]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[2]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[3]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[3]/table:table-cell[4]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[0]/text:p[0]">
+        <source>Print envelopes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[1]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[2]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[3]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[4]/table:table-cell[4]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[0]/text:p[0]">
+        <source>Print labels or business cards</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[1]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[2]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[3]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[5]/table:table-cell[4]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[0]/text:p[0]">
+        <source>Preview pages/sheets before printing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[1]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[2]/text:p[0]">
+        <source>Yes</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[3]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/table:table[0]/table:table-row[6]/table:table-cell[4]/text:p[0]">
+        <source>No</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]">
+        <source><x id="102" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-start[0]"/>Selecting <x id="103" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:alphabetical-index-mark[0]"/>general printing options<x id="104" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[2]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[12]">
+        <source>On the <g id="105">General</g> tab of the Print dialog, you can choose:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[0]/text:p[0]">
+        <source>The <g id="106">printer</g> (from the list of available printers)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[1]/text:p[0]">
+        <source>Which <g id="107">pages</g> to print, the number of copies to print, and whether to collate multiple copies (<g id="108">Range and copies</g> section).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[2]/text:list-item[2]/text:p[0]">
+        <source>Whether to print any <g id="109">comments</g> that are in the document, and where to print the comments.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[13]">
+        <source>Some selections may not be available all the time. For example, if the document contains no comments, the Print – Comments drop-down list is disabled..</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="110" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="111" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[14]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Choosing whether and where to print comments</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]">
+        <source>Select the <g id="112">Properties</g> button to display the selected printer’s properties dialog where you can choose portrait or landscape <x id="113" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[15]/text:alphabetical-index-mark[0]"/>orientation, which paper tray to use, and the paper size to print on.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]">
+        <source>On the Options tab of the Print dialog (Figure <x id="114" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[16]"/>), the last item, <g id="115">Use only paper tray from printer preference</g>, is not available in Calc.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="116" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="117" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[17]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: General print options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]">
+        <source><x id="118" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-start[0]"/>Printing <x id="119" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:alphabetical-index-mark[0]"/>multiple pages on a single sheet of paper<x id="120" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[3]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[18]">
+        <source>You can print multiple pages of a document on one sheet of paper. To do this:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]">
+        <source>In the Print dialog, select the Page Layout tab (Figure <x id="121" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[3]/text:list-item[0]/text:p[0]"/>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="122" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="123" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[19]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Printing multiple page per sheet of paper</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[4]/text:list-item[0]/text:p[0]">
+        <source>In the <g id="124">Layout</g> section, select from the drop-down list the number of pages to print per sheet. The preview panel on the left of the Print dialog shows how the printed document will look.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[20]">
+        <source>When printing more than 2 pages per sheet, you can choose the order in which they are printed across and down the paper.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="125" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="126"><g id="127"/></g>Figure <x id="128" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[21]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Print order options</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[5]/text:list-item[0]/text:p[0]">
+        <source>In the <g id="129">Page sides</g> section, select whether to print all pages or only some pages. Click the <g id="130">OK</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[6]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]">
+        <source>In Writer, to print two pages per sheet in “facing pages” (book layout) style, print from Print Preview instead. See page <x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[22]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]">
+        <source><x id="132" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-start[0]"/><x id="133" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:alphabetical-index-mark[0]"/>Selecting pages/sheets/slides to print<x id="134" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[4]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]">
+        <source>In addition to printing a full document, you can choose to print individual pages/sheets/slides, ranges of pages/sheets/slides, or a selection of a document. The details vary slightly between Writer, Calc, Draw, and Impress, as described in this section.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]">
+        <source><x id="135" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-start[0]"/><x id="136" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark-start[0]"/>Writer<x id="137" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:bookmark-end[0]"/><x id="138" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[5]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[24]">
+        <source>Printing an individual page:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="139">File &gt; Print</g> from the Menu bar, or press <g id="140">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[1]/text:p[0]">
+        <source>On the Print dialog, select the page to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]">
+        <source>In the <g id="141">Range and copies</g> section of the General page, select the <g id="142">Pages</g> option. The text input box displays the current page number.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]">
+        <source><x id="143" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]/text:soft-page-break[0]"/>Enter the page number of the page you want to print. The preview box changes to show the selected page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="144">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[25]">
+        <source>Printing a range of pages:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="145">File &gt; Print</g> from the Menu bar, or press <g id="146">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[10]/text:list-item[1]/text:p[0]">
+        <source>On the Print dialog, select the range of pages to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[0]/text:p[0]">
+        <source>In the <g id="147">Range and copies</g> section of the General page, select the <g id="148">Pages</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[11]/text:list-item[1]/text:p[0]">
+        <source>Enter the sequence numbers of the pages to print (for example, 1–4 or 1,3,7,11).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="149">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[26]">
+        <source>Printing a selection of text:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]">
+        <source>In the document, select the material (text and graphics) to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="150">File &gt; Print</g> from the Menu bar, or press <g id="151">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]">
+        <source>The <g id="152">Range and copies</g> section of the Print dialog now includes a <g id="153">Selection</g> option and the preview box shows the selected material. See Figure <x id="154" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="155">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[27]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Printing a selection of text</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]">
+        <source><x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-start[0]"/><x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:alphabetical-index-mark-start[0]"/>Calc<x id="160" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:bookmark-end[0]"/><x id="161" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[6]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]">
+        <source>You can choose single sheets, multiple sheets, and selections of cells for printing <g id="162">(Figure </g><g id="163"><x id="164" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[28]/text:span[1]"/></g><g id="165">)</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="166" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="167" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[29]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Choosing what to print in Calc</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]">
+        <source><x id="168" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[30]/text:soft-page-break[0]"/>Printing an individual sheet:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]">
+        <source>In the spreadsheet, click on the sheet tab to select the sheet you want to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="169">File &gt; Print</g> from the Menu bar, or press <g id="170">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[2]/text:p[0]">
+        <source>In the <g id="171">Range and copies</g> section of the Print dialog, choose the <g id="172">Selected sheets</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="173">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[31]">
+        <source>Printing a range of sheets:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[15]/text:list-item[0]/text:p[0]">
+        <source>In the spreadsheet, select the sheets to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]">
+        <source>Select the first sheet.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]">
+        <source>Hold down the <g id="174">Control</g> key.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[2]/text:p[0]">
+        <source>Click on the additional sheet tabs.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[3]/text:p[0]">
+        <source>Release the <g id="175">Control</g> key when all required sheets are selected.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="176">File &gt; Print</g> from the Menu bar, or press <g id="177">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[1]/text:p[0]">
+        <source>In the <g id="178">Range and copies</g> section of the Print dialog, choose the <g id="179">Selected sheets</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[17]/text:list-item[2]/text:p[0]">
+        <source>Click <g id="180">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]">
+        <source>Printing a selection of cells:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[0]/text:p[0]">
+        <source>In the document, select the section of cells to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="181">File &gt; Print</g> from the Menu bar, or press <g id="182">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[2]/text:p[0]">
+        <source>In the <g id="183">Ranges and copies</g> section of the Print dialog, select the <g id="184">Selected cells</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[3]/text:p[0]">
+        <source>In the sub-section <g id="185">From which print</g> select the <g id="186">Pages</g> option and type 1 in the edit box.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[18]/text:list-item[4]/text:p[0]">
+        <source>Click <g id="187">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]">
+        <source>Caution</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[33]">
+        <source>After printing, be sure to deselect the extra sheets. If you keep them selected, the next time you enter data on one sheet, you enter data on all the selected sheets. This might not be what you want.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]">
+        <source><x id="188" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-start[0]"/><x id="189" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:alphabetical-index-mark[0]"/>Impress and Draw<x id="190" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[7]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[34]">
+        <source>You can choose individual slides, ranges of slides, or selections of slides for printing.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="191" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="192" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[35]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Choosing what to print in Impress and Draw</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[36]">
+        <source>Printing an individual slide:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="193">File &gt; Print</g> from the Menu bar, or press <g id="194">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[1]/text:p[0]">
+        <source>Select the slide to print <g id="195">(Figure </g><g id="196"><x id="197" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[1]/text:p[0]/text:span[1]"/></g><g id="198">)</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]">
+        <source><x id="199" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>In the <g id="200">Range and copies</g> section of the Print dialog, select the <g id="201">Slides</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]">
+        <source>Enter the number of the slide to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[22]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="202">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[37]">
+        <source>Printing a range of slides:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="203">File &gt; Print</g> from the Menu bar, or press <g id="204">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[1]/text:p[0]">
+        <source>Select the slides to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]">
+        <source>In the <g id="205">Range and copies</g> section of the Print dialog, select the <g id="206">Slides</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[1]/text:p[0]">
+        <source>Enter the slide numbers to print (for example 1-4 or 1,3,7,11).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[25]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="207">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]">
+        <source>Printing a selection from a slide, or a selection from multiple slides:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[0]/text:p[0]">
+        <source>In the document, select the section of the slide to print.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[1]/text:p[0]">
+        <source>Choose <g id="208">File &gt; Print</g> from the Menu bar, or press <g id="209">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[2]/text:p[0]">
+        <source>Select the <g id="210">Selection</g> option in the <g id="211">Range and copies</g> section of the Print dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[26]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="212">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]">
+        <source><x id="213" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-start[0]"/><x id="214" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:alphabetical-index-mark[0]"/>Printing handouts, <x id="215" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:alphabetical-index-mark[1]"/>notes, or outlines in Impress<x id="216" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[8]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]">
+        <source><g id="217">Handouts</g> prints the slides in reduced size on the page, from one to nine slides per page. The slides can be printed horizontally (landscape orientation) or vertically (portrait orientation) on the page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]">
+        <source><g id="218">Notes</g> prints a single slide per page with any notes entered for that slide in Notes View.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[41]">
+        <source><g id="219">Outline</g> prints the title and headings of each slide in outline format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[42]">
+        <source>To print handouts, notes, or outlines:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="220">File &gt; Print</g> from the Menu bar, or press <g id="221">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[1]/text:p[0]">
+        <source>In the Print section of the Print dialog, select the required option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[2]/text:p[0]">
+        <source>For Handouts, you can then choose how many slides to print per page, and the order in which they are printed <g id="222">(Figure </g><g id="223"><x id="224" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[2]/text:p[0]/text:span[1]"/></g><g id="225">)</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[27]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="226">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="227" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="228"><g id="229"/></g>Figure <x id="230" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[43]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Handouts</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]">
+        <source><x id="231" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-start[0]"/><x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:reference-mark-start[0]"/>Printing a brochure<x id="233" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:bookmark-end[0]"/><x id="234" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[9]/text:reference-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]">
+        <source>In Writer, Impress, and Draw, you can print a document with two pages on each side of a sheet of paper, arranged so that when the printed pages are folded in half, the pages are in the correct order to form <x id="235" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/text:alphabetical-index-mark[0]"/>a<x id="236" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/text:alphabetical-index-mark[1]"/> <x id="237" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/text:alphabetical-index-mark[2]"/>booklet or <x id="238" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[44]/text:alphabetical-index-mark[3]"/>brochure.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]">
+        <source><x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[28]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[45]">
+        <source>Plan your document so it will look good when printed half size; choose appropriate margins, font sizes, and so on. You may need to experiment.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[46]">
+        <source>To print a brochure on a single-sided printer:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="240">File &gt; Print</g>, or press <g id="241">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[1]/text:p[0]">
+        <source>In the Print dialog, click <g id="242">Properties</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[2]/text:p[0]">
+        <source>Check that the printer is set to the same orientation (portrait or landscape) as specified in the page setup for your document. Usually the orientation does not matter, but it does for brochures. Click <g id="243">OK</g> to return to the Print dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[3]/text:p[0]">
+        <source>Select the <g id="244">Page layout</g> tab in the Print dialog <g id="245">(Figure </g><g id="246"><x id="247" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[3]/text:p[0]/text:span[2]"/></g><g id="248">)</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[4]/text:p[0]">
+        <source>Select the <g id="249">Brochure</g> option.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[29]/text:list-item[5]/text:p[0]">
+        <source>In the <g id="250">Page sides</g> section, select the <g id="251">Back sides / left pages</g> option from the <g id="252">Include</g> drop-down list. Click <g id="253">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="254" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="255" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[47]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Selecting which pages to print</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[0]/text:p[0]">
+        <source>Take the printed pages out of the printer, turn the pages over, and put them back into the printer in the correct orientation to print on the blank side. You may need to experiment a bit to find out what the correct arrangement is for your printer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[30]/text:list-item[1]/text:p[0]">
+        <source>On the Print dialog, in the Page sides section, select the <g id="256">Front sides / right pages</g> option from the Include drop-down box. Click <g id="257">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[31]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]">
+        <source>If your printer can print double-sided automatically, choose <g id="258">All pages</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]">
+        <source><x id="259" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-start[0]"/><x id="260" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[0]"/>Printing <x id="261" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[1]"/><x id="262" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:alphabetical-index-mark[2]"/>envelopes, labels, business cards<x id="263" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[10]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]">
+        <source>Printing envelopes, labels, or business cards using Writer involves two steps: setup and printing.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]">
+        <source>For details of how to set these up, see Chapter 11, Using Mail Merge, in the <g id="264">Writer Guide</g>. To print:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="265">File &gt; Print</g> from the Menu bar, or press <g id="266">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[32]/text:list-item[1]/text:p[0]">
+        <source>On the Print dialog, under <g id="267">Range and copies</g>, choose <g id="268">Pages</g> and type <g id="269">1</g> in the box. Click <g id="270">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]">
+        <source><x id="271" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/>Printing in <x id="272" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:alphabetical-index-mark[0]"/>black and white (on a color printer)<x id="273" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[51]">
+        <source>You may wish to print documents in black and white on a color printer. Several choices are available.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[0]/text:p[0]">
+        <source><x id="274" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[33]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[52]">
+        <source><g id="275"/>Some color printers may print in color regardless of the settings you choose.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[53]">
+        <source>Change the printer settings to print in black and white or grayscale:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="276">File &gt; Print</g>, or press <g id="277">Ctrl+P,</g> to open the Print dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[1]/text:p[0]">
+        <source>Click <g id="278">Properties</g> to open the Properties dialog for the printer. The available choices vary from one printer to another, but you should find options for the Color settings. See your printer’s help or user manual for more information.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[2]/text:p[0]">
+        <source>The choices for color might include <g id="279">black and white</g> or <g id="280">grayscale</g>. Choose the required setting.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="281">OK</g> to confirm your choice and return to the Print dialog,</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[34]/text:list-item[4]/text:p[0]">
+        <source>Click <g id="282">OK</g> to print the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[35]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]">
+        <source><x id="283" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[54]/text:alphabetical-index-mark[0]"/>Grayscale is better if you have any graphics in the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[55]">
+        <source>Change the LibreOffice settings to print all color text and graphics as grayscale:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="284">Tools &gt; Options &gt; LibreOffice &gt; Print</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[1]/text:p[0]">
+        <source>Select the <g id="285">Convert colors to grayscale</g> option. Click <g id="286">OK</g> to save the change.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[2]/text:p[0]">
+        <source>Open the Print dialog (<g id="287">File &gt; Print</g>), or press <g id="288">Ctrl+P.</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[36]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="289">OK</g> to print the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[56]">
+        <source>Change the LibreOffice Writer (or Calc, Impress, Draw) settings to print all color text as black, and all graphics as grayscale:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="290">Tools &gt; Options &gt; LibreOffice Writer &gt; Print</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[1]/text:p[0]">
+        <source>Under <g id="291">Contents</g>, select the <g id="292">Print text in black</g> option. Click <g id="293">OK</g> to save the change.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[2]/text:p[0]">
+        <source>Open the Print dialog (<g id="294">File &gt; Print</g>), or press <g id="295">Ctrl+P</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[37]/text:list-item[3]/text:p[0]">
+        <source>Click <g id="296">OK</g> to print the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]">
+        <source><x id="297" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>Previewing pages/sheets before printing<x id="298" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]">
+        <source>You can use the previewing options in Writer and Calc to view the document as it will be printed. Different viewing options are available.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]">
+        <source><x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-start[0]"/><x id="300" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark-start[0]"/>Writer<x id="301" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:bookmark-end[0]"/><x id="302" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[13]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]">
+        <source>The normal page view in Writer shows you what each page will look like when printed and you can edit the pages in that view. If you are designing a document to be printed double-sided, you may want to see what facing pages look like. Writer provides two ways to do this:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[38]/text:list-item[0]/text:p[0]">
+        <source>View Layout (editable view): use the Facing Pages (Book view) button on the status bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[39]/text:list-item[0]/text:p[0]">
+        <source>Print Preview (read-only view).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]">
+        <source>To use Print Preview:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="303">File &gt; Print Preview</g>, click the <g id="304">Print Preview</g> button (<x id="305" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[40]/text:list-item[0]/text:p[0]/draw:frame[0]"/>) on the Standard toolbar or press <g id="306">Ctrl+Shift+O</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]">
+        <source>Writer now displays the <g id="307">Print Preview</g> toolbar instead of the Formatting toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="308" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="309" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Print Preview toolbar (Writer)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[0]/text:p[0]">
+        <source>Select the required preview icon: <g id="310">Two Pages</g> (<g id="311"><x id="312" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[0]/text:p[0]/text:span[1]/draw:frame[0]"/></g>), <g id="313">Multiple Pages</g> (<x id="314" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[0]/text:p[0]/draw:frame[0]"/>) or <x id="315" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[0]"/><g id="316">Book Preview (</g><g id="317"><x id="318" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[0]/text:p[0]/text:span[4]/draw:frame[0]"/></g><g id="319">).</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[1]/text:p[0]">
+        <source>To print the document from this view, click the <g id="320">Print </g>icon (<g id="321"><x id="322" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[41]/text:list-item[1]/text:p[0]/text:span[1]/draw:frame[0]"/></g>) to open the Print dialog. Choose the print options and click the <g id="323">OK</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]">
+        <source><x id="324" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/><x id="325" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:alphabetical-index-mark-start[0]"/>Calc<x id="326" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/><x id="327" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:alphabetical-index-mark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[63]">
+        <source>To preview the sheets in Calc before printing:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[42]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="328">File &gt; Print Preview</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[64]">
+        <source>The Calc window now displays the <g id="329">Print Preview</g> toolbar instead of the Formatting toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="330" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="331" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[65]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Print Preview toolbar (Calc)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[0]/text:p[0]">
+        <source>To print the document from this view, click the <g id="332">Print </g>icon (<x id="333" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[0]/text:p[0]/draw:frame[0]"/>) to open the Print dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[43]/text:list-item[1]/text:p[0]">
+        <source>Choose the print options and click the <g id="334">Print button</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]">
+        <source><x id="335" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-start[0]"/>Exporting to PDF<x id="336" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[15]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]">
+        <source>LibreOffice <x id="337" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:alphabetical-index-mark[0]"/>can export documents to <x id="338" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:alphabetical-index-mark-start[0]"/>PDF<x id="339" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[66]/text:alphabetical-index-mark-end[0]"/> (Portable Document Format). This industry-standard file format is ideal for sending the file to someone else to view using Adobe Reader or other PDF viewers.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[44]/text:list-item[0]/text:p[0]">
+        <source>Warning</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[67]">
+        <source>A document in PDF format is not protected against contents tampering or editing by default. The PDF document contents can be edited by specialized software tools, including LibreOffice Draw.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[68]">
+        <source>The process and dialogs are the same for Writer, Calc, Impress, and Draw, with a few minor differences mentioned in this section.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[45]/text:list-item[0]/text:p[0]">
+        <source>Tip</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[69]">
+        <source>Unlike <g id="340">Save As</g>, the <g id="341">Export</g> command writes a copy of the current document in a new file with the chosen format, but keeps the current document and format open in your session.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]">
+        <source><x id="342" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-start[0]"/>Quick export to PDF<x id="343" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[16]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]">
+        <source>Click the <x id="344" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]/text:alphabetical-index-mark[0]"/><g id="345">Export Directly as PDF</g> icon (<x id="346" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[70]/draw:frame[0]"/>) to export the entire document using the PDF settings you most recently selected on the PDF Options dialog (see below). You are asked to enter the file name and location for the PDF file, but you do not get a chance to choose a page range, the image compression, or other options.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]">
+        <source><x id="347" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/><x id="348" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:soft-page-break[0]"/>Controlling PDF content and quality<x id="349" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[71]">
+        <source>For more control over the content and quality of the resulting PDF, use <g id="350">File &gt; Export as PDF</g>. The PDF Options dialog opens. This dialog has six pages (General, Initial View, User Interface, Links, Security, and Digital Signatures). Select the appropriate settings, and then click<g id="351"> Export.</g> Then you are asked to enter the location and file name of the PDF to be created, and click<g id="352"> Save</g> to export the file.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[46]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[72]">
+        <source>Another choice is to use <g id="353"><g id="354">File &gt; <g id="355"/>Export</g></g>. This opens the Export dialog. Select the PDF file format, file name and location and click <g id="356">Export</g>. This then opens the PDF Options dialog. Click <g id="357">Export</g> when all the selections have been made.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]">
+        <source><x id="358" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/>General page <x id="359" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:alphabetical-index-mark[0]"/>of PDF Options dialog<x id="360" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]">
+        <source>On the <g id="361">General</g> page (Figure <x id="362" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[73]"/>), you can choose which pages to include in the PDF, the type of compression to use for images (which affects the quality of images in the PDF), and other options.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[74]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="363" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[74]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="364"><g id="365"/></g>Figure <x id="366" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[74]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: General page of PDF Options dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]">
+        <source><x id="367" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[75]/text:alphabetical-index-mark[0]"/>Range section</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[47]/text:list-item[0]/text:p[0]">
+        <source><g id="368">All</g>: Exports the entire document to PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[47]/text:list-item[1]/text:p[0]">
+        <source><g id="369">Pages</g>: To export a range of pages, use the format <g id="370">3-6</g> (pages 3 to 6). To export single pages, use the format <g id="371">7;9;11</g> (pages 7, 9 and 11). You can also export a combination of page ranges and single pages, by using a format like <g id="372">3-6;8;10;12</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[47]/text:list-item[2]/text:p[0]">
+        <source><g id="373">Selection</g>: Exports all the selected material.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[76]">
+        <source><x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[76]/text:alphabetical-index-mark[0]"/>Images section</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[0]/text:p[0]">
+        <source><g id="375">Lossless compression</g><g id="376">: <g id="377"/>Images are stored without any loss of quality. Tends to make large files when used with photographs. </g>Recommended for other kinds of images or graphics.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[1]/text:p[0]">
+        <source><g id="378">JPEG compression</g>: Allows for varying degrees of quality. A setting of 90% works well with photographs (small file size, little perceptible loss of quality).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[2]/text:p[0]">
+        <source><g id="379">Reduce image resolution</g>: Lower DPI (dots per inch) images have lower quality. For viewing on a computer screen, generally a resolution of 72dpi (for Windows) or 96dpi (GNU/Linux) is sufficient, while for printing it is generally preferable to use at least 300 or <x id="380" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[48]/text:list-item[2]/text:p[0]/text:soft-page-break[0]"/>600dpi, depending on the capability of the printer. Higher DPI settings greatly increase the size of the exported file.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[77]">
+        <source>Watermark section</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[49]/text:list-item[0]/text:p[0]">
+        <source><g id="381">Sign with Watermark:</g> When this option is selected, a transparent overlay of the text you enter into the <g id="382">Watermark Text</g> box will appear on each page of the PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[50]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]">
+        <source><x id="383" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]/text:alphabetical-index-mark[0]"/><x id="384" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[78]/text:alphabetical-index-mark[1]"/>EPS (Encapsulated PostScript) images with embedded previews are exported only as previews. EPS images without embedded previews are exported as empty placeholders.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[79]">
+        <source>General section</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[0]/text:p[0]">
+        <source><g id="385">Hybrid PDF (embed ODF file)</g>: Use this setting to export the document as a PDF file containing two file formats: PDF and ODF. In PDF viewers it behaves like a normal PDF file, and it remains fully editable in LibreOffice.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[1]/text:p[0]">
+        <source><g id="386">Archive </g><x id="387" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[1]/text:p[0]/text:alphabetical-index-mark[0]"/><g id="388">PDF/A-1a (ISO 19005-1)</g>: PDF/A is an ISO standard for long-term preservation of documents, by embedding all the information necessary for faithful reproduction (such as fonts) while forbidding other elements (including forms, security, and encryption). PDF tags are written. If you select PDF/A-1a, the forbidden elements are grayed-out (not available).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[2]/text:p[0]">
+        <source><x id="389" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[51]/text:list-item[2]/text:p[0]/text:alphabetical-index-mark[0]"/><g id="390">Tagged PDF</g>: Tagged PDF contains information about the structure of the document’s contents. This can help to display the document on devices with different screens, and when using screen reader software. Some tags that are exported are table of contents, hyperlinks, and controls. This option can increase file sizes significantly.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[0]/text:p[0]">
+        <source><g id="391">Create </g><x id="392" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[0]"/><g id="393">PDF form – Submit format:</g> Choose the format of submitting forms from within the PDF file. This setting overrides the control’s URL property that you set in the document. There is only one common setting valid for the whole PDF document: PDF (sends the whole document), <x id="394" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark-start[0]"/>FDF<x id="395" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark-end[0]"/> (sends the control contents), HTML, and XML. Most often you will choose the PDF format.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[0]/text:p[1]">
+        <source><g id="396">Allow duplicate field names:</g> If enabled, the same field name can be used for multiple fields in the generated PDF file. With this option enabled, you can enter data in the first occurrence of the named field in the PDF document and all fields with the same name will carry your entry. If disabled, field names will be exported using generated unique names.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[1]/text:p[0]">
+        <source><g id="397">Export bookmarks</g>: Exports headings in Writer documents, and page or slide names in Impress and Draw documents, as “bookmarks” (a table of contents list displayed by most PDF viewers, including Adobe Reader).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[2]/text:p[0]">
+        <source><g id="398">Export comments</g>: Exports comments as PDF notes. You may not want this!</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[3]/text:p[0]">
+        <source><g id="399">Export automatically inserted </g><x id="400" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[3]/text:p[0]/text:alphabetical-index-mark[0]"/><g id="401">blank pages</g>: If selected, automatically inserted blank pages are exported to the PDF. This is best if you are printing the PDF double-sided. For example, books usually have chapters set to always start on an odd-numbered (right-hand) page. When the previous chapter ends on an odd page, LibreOffice inserts a blank page between the two odd pages. This option controls whether to export that blank page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[52]/text:list-item[4]/text:p[0]">
+        <source><g id="402">View PDF after export:</g> Your default PDF viewer will open and display the newly exported PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]">
+        <source><x id="403" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-start[0]"/><x id="404" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:soft-page-break[0]"/>Initial View page of PDF Options dialog<x id="405" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[19]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[80]">
+        <source>On the <x id="406" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[80]/text:alphabetical-index-mark[0]"/><g id="407">Initial View</g> page (Figure <x id="408" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[80]"/>), you can choose how the PDF opens by default in a PDF viewer. The selections should be self-explanatory.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[81]">
+        <source>If you have Complex Text Layout enabled (in <g id="409">Tools &gt; Options &gt; Language settings &gt; Languages</g>), an additional selection is available under <g id="410">Continuous facing</g>: <g id="411">First page is left</g> (normally, the first page is on the right when using the <g id="412">Continuous facing</g> option).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="413" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="414"><g id="415"/></g>Figure <x id="416" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[82]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Initial View page of PDF Options dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]">
+        <source><x id="417" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-start[0]"/>User Interface page of PDF Options dialog<x id="418" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[20]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]">
+        <source>On the <x id="419" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]/text:alphabetical-index-mark[0]"/><g id="420">U</g><g id="421">ser Interface</g> page <g id="422">(Figure </g><g id="423"><x id="424" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[83]/text:span[3]"/></g><g id="425">)</g>, you can choose more settings to control how a PDF viewer displays the file. Some of these choices are particularly useful when you are creating a PDF to be used as a presentation or a kiosk-type display.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="426" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="427"><g id="428"/></g>Figure <x id="429" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[84]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: User Interface page of the PDF Options dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]">
+        <source><x id="430" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[85]/text:soft-page-break[0]"/>Window options section</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[53]/text:list-item[0]/text:p[0]">
+        <source><g id="431">Resize window to initial page.</g> Causes the PDF viewer window to resize to fit the first page of the PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[53]/text:list-item[1]/text:p[0]">
+        <source><g id="432">Center window on screen.</g> Causes the PDF viewer window to be centered on the computer screen.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[53]/text:list-item[2]/text:p[0]">
+        <source><g id="433">Open in full screen mode.</g> Causes the PDF viewer to open full-screen instead of in a smaller window.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[54]/text:list-item[0]/text:p[0]">
+        <source><g id="434">Display document title.</g> Causes the PDF viewer to display the document’s title in the title bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[86]">
+        <source>User interface options section</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[55]/text:list-item[0]/text:p[0]">
+        <source><g id="435">Hide menubar.</g> Causes the PDF viewer to hide the menu bar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[55]/text:list-item[1]/text:p[0]">
+        <source><g id="436">Hide toolbar.</g> Causes the PDF viewer to hide the toolbar.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[55]/text:list-item[2]/text:p[0]">
+        <source><g id="437">Hide window controls.</g> Causes the PDF viewer to hide other window controls.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]">
+        <source>Transitions</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]">
+        <source>In Impress, displays slide transition effects as their respective PDF effects.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]">
+        <source>Bookmarks</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]">
+        <source>Select how many heading levels are displayed as bookmarks, if <g id="438">Export bookmarks</g> is selected on the General page.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]">
+        <source><x id="439" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-start[0]"/>Links page of PDF Options dialog<x id="440" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[21]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[91]">
+        <source>On the Links page <g id="441">(Figure </g><g id="442"><x id="443" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[91]/text:span[1]"/></g><g id="444">)</g>, you can choose how links are exported to PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="445" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="446"><g id="447"/></g>Figure <x id="448" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[92]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Links page of PDF Options dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[93]">
+        <source>Export bookmarks as named destinations</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[94]">
+        <source>If you have defined Writer bookmarks, Impress or Draw slide names, or Calc sheet names, this option exports them as “named destinations” to which Web pages and PDF documents can link.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]">
+        <source>Convert document references to PDF targets</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]">
+        <source>If you have defined links to other documents with OpenDocument extensions (such as .odt, .ods, and .odp), this option converts the files’ extensions to .pdf in the exported PDF document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]">
+        <source>Export URLs relative to file system</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[98]">
+        <source>If you have defined relative links in a document, this option exports those links to the PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]">
+        <source>Cross-document links</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]">
+        <source>Defines the behavior of links clicked in PDF files. Select one among the following alternatives:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[56]/text:list-item[0]/text:p[0]">
+        <source><g id="449">Default mode</g>: The PDF links will be handled as specified in your operating system.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[56]/text:list-item[1]/text:p[0]">
+        <source><x id="450" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[56]/text:list-item[1]/text:p[0]/text:soft-page-break[0]"/><g id="451">Open with PDF reader application</g>: Use the same application used to display the PDF document to open linked PDF documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[56]/text:list-item[2]/text:p[0]">
+        <source><g id="452">Open with Internet browser</g>: Use the default Internet browser to display linked PDF documents.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]">
+        <source><x id="453" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-start[0]"/><x id="454" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:alphabetical-index-mark[0]"/>Security page of PDF Options dialog<x id="455" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]">
+        <source>PDF export includes options <x id="456" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]/text:alphabetical-index-mark[0]"/>to encrypt the PDF (so that it cannot be opened without a password) and apply <x id="457" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]/text:alphabetical-index-mark[1]"/><x id="458" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[101]/text:alphabetical-index-mark[2]"/>some digital rights management (DRM) features.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[57]/text:list-item[0]/text:p[0]">
+        <source>With an <g id="459">open password</g> set, the PDF can only be opened with the <x id="460" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[57]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[0]"/>password<x id="461" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[57]/text:list-item[0]/text:p[0]/text:alphabetical-index-mark[1]"/>. Once opened, there are no restrictions on what the user can do with the document (for example, print, copy, or change it).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[57]/text:list-item[1]/text:p[0]">
+        <source>With a <g id="462">permissions password set</g>, the PDF can be opened by anyone, but its permissions can be restricted. See Figure <x id="463" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[57]/text:list-item[1]/text:p[0]"/>. After you set a password for permissions, the other choices on the Security page become available.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[57]/text:list-item[2]/text:p[0]">
+        <source>With <g id="464">both</g> the open password and permission password set, the PDF can only be opened with the correct password, and its permissions can be restricted.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[58]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[102]">
+        <source>Permissions settings are effective only if the user’s PDF viewer respects the settings.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="465" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="466"><g id="467"/></g>Figure <x id="468" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Security page of PDF Options dialog</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]">
+        <source>Figure <x id="469" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]"/><g id="470"/>shows the pop-up dialog displayed when you click the <g id="471">Set passwords</g> button on the Security page of the PDF Options dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]">
+        <source>When you have set all the options you require, click on <g id="472">Export</g> to open the Export dialog, where you can set the file name and the save location.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="473" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="474" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[106]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Setting a password to encrypt a PDF</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]">
+        <source><x id="475" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-start[0]"/>Digital Signatures page of PDF Options dialog<x id="476" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[107]">
+        <source>This page contains the options related to exporting a digitally signed PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[108]">
+        <source>Digital signatures are used to ensure that the PDF was really created by the original author (that is, you), and that the document has not been modified since it was signed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]">
+        <source>The signed PDF export uses the keys and X.509 certificates already stored in your default key store location or on a smartcard. The key store to be used can be selected under <g id="477">Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Certificate Path</g>. When using a smartcard, it must already be configured for use by your key store. This is usually done during installation of the smartcard software. Details about using these features is outside the scope of this chapter.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="478" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="479"><g id="480"/></g>Figure <x id="481" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[110]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="482">Digital signature page for PDF</g></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[0]/text:p[0]">
+        <source><g id="483">Use this certificate to digitally sign PDF documents:</g> Click <g id="484">Select</g> to open the Select Certificate dialog, where all certificates found in your selected key store are displayed. If the key store is protected by a password, you are prompted for it. When using a smartcard that is protected by a PIN, you are also prompted for that. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[0]/text:p[1]">
+        <source>Select the certificate to use for digitally signing the exported PDF, then click <g id="485">OK</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[0]/text:p[2]">
+        <source>All other fields on the Digital Signatures tab are accessible only after a certificate has been selected.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[1]/text:p[0]">
+        <source><g id="486">Certificate password:</g> Enter the password used for protecting the private key associated with the selected certificate. Usually this is the key store password. If the key store password has already been entered in the Select Certificate dialog, the key store may already be unlocked and not require the password again.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[1]/text:p[1]">
+        <source><x id="487" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[1]/text:p[1]/text:soft-page-break[0]"/>When using a smartcard, enter the PIN here. Some smartcard software will prompt you for the PIN again before signing.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[2]/text:p[0]">
+        <source><g id="488">Location, Contact information, Reason:</g> Optionally enter additional information about the digital signature that will be applied to the PDF. This information will be embedded in the appropriate PDF fields and will be visible to anyone viewing the PDF. Each or all of the three fields may be left blank.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[3]/text:p[0]">
+        <source><g id="489">Time Stamp Authority:</g> Optionally select a Time Stamping Authority (TSA) URL. During the PDF signing process, the TSA will be used to obtain a digitally signed timestamp that is then embedded in the signature. Anyone viewing the PDF can use this timestamp to verify when the document was signed.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[59]/text:list-item[3]/text:p[1]">
+        <source>The list of TSA URLs that can be selected is maintained under <g id="490">Tools &gt; Options &gt; LibreOffice &gt; Security &gt; TSAs</g>. If no TSA URL is selected (the default), the signature will not be timestamped, but will use the current time from your local computer.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]">
+        <source><x id="491" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-start[0]"/>Exporting to EPUB format<x id="492" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[24]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[111]">
+        <source>EPUB format is becoming popular since mobile devices such as smartphones, tablets and e-readers appeared on the market. The EPUB format is implemented as an archive file consisting of <g id="493">HTML</g> files carrying the content, along with images and other supporting files.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]">
+        <source><x id="494" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-start[0]"/>Quick export to EPUB<x id="495" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[25]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]">
+        <source>Choose menu <g id="496">File &gt; Export &gt; </g><x id="497" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]/text:alphabetical-index-mark[0]"/><g id="498">Export Directly as EPUB</g> to export the entire document using the EPUB settings you most recently selected on the EPUB Options dialog (see below). You are asked to enter the file name and location for the PDF file, but you do not get a chance to select other options.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]">
+        <source><x id="499" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-start[0]"/>Export to EPUB<x id="500" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]">
+        <source>For more control over the content and quality of the resulting EPUB file, use <g id="501">File &gt; Export as EPUB</g>. The EPUB Export dialog opens (Figure <g id="502"><x id="503" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[113]/text:span[1]"/></g>).</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="504" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="505"><g id="506"/></g>Figure <x id="507" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: EPUB Ex<g id="508">p</g>ort</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[115]">
+        <source>The EPUB Export dialog is rather simple:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[60]/text:list-item[0]/text:p[0]">
+        <source><g id="509">Version</g>: choose the EPUB version for the exported file. Values are <g id="510">EPUB 2.0</g> and <g id="511">EPUB 3.0</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[60]/text:list-item[1]/text:p[0]">
+        <source><g id="512">Split method</g>: Select the method to split the document for pagination. The heading method splits the pages by Heading 1 or Chapters style and the page method tries to honor the pagination of the original document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]">
+        <source><x id="513" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-start[0]"/><x id="514" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:soft-page-break[0]"/><x id="515" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:alphabetical-index-mark[0]"/>Exporting to other formats<x id="516" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]">
+        <source>LibreOffice uses the term “export” for some file operations involving a change of file type. If you cannot find what you want under <g id="517">File &gt; Save As</g>, look under <g id="518">File &gt; Export</g> as well.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]">
+        <source>LibreOffice can export files to XHTML. In addition, Draw and Impress can export to Adobe <x id="519" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]/text:alphabetical-index-mark-start[0]"/>Flash<x id="520" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[117]/text:alphabetical-index-mark-end[0]"/> (SWF) and a range of image formats.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[118]">
+        <source>To export to one of these formats, choose <g id="521">File &gt; Export</g>. On the Export dialog, specify a file name for the exported document, then select the required format in the <g id="522">File format</g> list and click the <g id="523">Export</g> button.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]">
+        <source><x id="524" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-start[0]"/>E-mailing documents<x id="525" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[28]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]">
+        <source>LibreOffice provides several ways to send documents quickly and easily as e-mail <x id="526" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[119]/text:alphabetical-index-mark[0]"/>attachments in one of three formats: OpenDocument (LibreOffice’s default format), Microsoft Office formats, or PDF.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[61]/text:list-item[0]/text:p[0]">
+        <source>Note</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[120]">
+        <source>With Linux operating system, documents can only be sent from the LibreOffice menu if a mail program has been set up in <g id="527">Tools &gt; Options &gt; Internet &gt; E-mail. </g>With Windows operating system, LibreOffice uses the e-mail program defined in the Windows Standard Applications.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]">
+        <source>To <x id="528" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]/text:alphabetical-index-mark[0]"/>send the current document in OpenDocument format:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[62]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="529">File &gt; Send &gt; Document as E-mail</g>. LibreOffice opens your default e-mail program. The document is attached.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[62]/text:list-item[1]/text:p[0]">
+        <source>In your e-mail program, enter the recipient, subject, and any text you want to add, then send the e-mail.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]">
+        <source><g id="530">File &gt; Send &gt; E-mail as OpenDocument [Text</g>, <g id="531">Spreadsheet</g>, or <g id="532">Presentation]</g> has the same effect.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]">
+        <source>If you choose <g id="533">E-mail as Microsoft [Word</g>,<g id="534"> Excel</g>, or<g id="535"> PowerPoint]</g>, LibreOffice first creates a file in one of those formats and then opens your e-mail program with the file attached.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]">
+        <source>Similarly, if you choose <g id="536">E-mail as PDF</g>, LibreOffice first creates a PDF using your default PDF settings (as when using the <g id="537">Export Directly as PDF</g> toolbar button) and then opens your email program with the PDF file attached.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]">
+        <source><x id="538" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-start[0]"/>E-mailing a document <x id="539" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:alphabetical-index-mark[0]"/>to several recipients<x id="540" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]">
+        <source>To e-mail a document to several recipients, you can use the features in your e-mail program or you can use LibreOffice’s mail merge facilities to extract email addresses from an address book.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]">
+        <source>You can use LibreOffice’s mail merge to send e-mail in two ways:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[63]/text:list-item[0]/text:p[0]">
+        <source>Use the Mail Merge Wizard to create the document and send it. See Chapter 11, Using Mail Merge, in the <g id="541">Writer Guide</g> for details.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[63]/text:list-item[1]/text:p[0]">
+        <source>Create the document in Writer without using the Wizard, then use the Wizard to send it. This method is described here.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]">
+        <source>To use <x id="542" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/text:alphabetical-index-mark[0]"/>the <x id="543" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/text:alphabetical-index-mark[1]"/>Mail Merge Wizard to send a previously-created Writer document:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[64]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="544">Tools &gt; Mail Merge Wizard</g>. On the first page of the wizard, select <g id="545">Use the current document</g> and click <g id="546">Next</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="547" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="548" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Select starting document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[65]/text:list-item[0]/text:p[0]">
+        <source>On the second page, select <g id="549">E-mail message</g> and click <g id="550">Next</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="551" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="552" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Select document type</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[66]/text:list-item[0]/text:p[0]">
+        <source>On the third page, click the <g id="553">Select Address List</g> button. Select the required address list (even if only one is shown) and then click <g id="554">OK</g>. (If the address list you need is not shown here, you can click <g id="555">Add</g> to find it and add it to the list.)</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="556" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="557" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Selecting an address list</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[67]/text:list-item[0]/text:p[0]">
+        <source>Back on the Select address list page, click <g id="558">Next</g>. On the Create salutation page, deselect <g id="559">This document should contain a salutation</g>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="560" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="561" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Deselecting a salutation</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[68]/text:list-item[0]/text:p[0]">
+        <source>In the left-hand list, click <g id="562">8. Save, print or send</g>. LibreOffice displays a “Creating documents” message and then displays the <g id="563">Save, print or send</g> page of the Wizard.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[69]/text:list-item[0]/text:p[0]">
+        <source>Select <g id="564">Send merged document as E-Mail</g>. The lower part of the page changes to show e‑mail settings choices. See Figure <x id="565" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[69]/text:list-item[0]/text:p[0]"/>.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[69]/text:list-item[1]/text:p[0]">
+        <source>Type a subject for your email and click <g id="566">Send documents</g>. LibreOffice sends the e-mails.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="567" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="568" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[132]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Sending a document as an email message</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]">
+        <source><x id="569" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-start[0]"/>Digital signing of documents<x id="570" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[30]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[133]">
+        <source>To sign a document digitally, you need a personal key, also known as a <g id="571">certificate</g>. A personal key is stored on your computer as a combination of a private key, which must be kept secret, and a public key, which you add to your documents when you sign them. You can get a certificate from a certification authority, which may be a private company or a governmental institution.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]">
+        <source>When you apply <x id="572" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]/text:alphabetical-index-mark[0]"/>a digital signature to a document, a kind of checksum is computed from the document’s content plus your personal key. The checksum and your public key are stored together with the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]">
+        <source><x id="573" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]/text:soft-page-break[0]"/>When someone later opens the document on any computer with a recent version of LibreOffice, the program will compute the checksum again and compare it with the stored checksum. If both are the same, the program will signal that you see the original, unchanged document. In addition, the program can show you the public key information from the certificate. You can compare the public key with the public key that is published on the web site of the certificate authority. Whenever someone changes something in the document, this change breaks the digital signature.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]">
+        <source>On Windows operating systems, the Windows features of validating a signature are used. On Solaris and Linux systems, files that are supplied by Thunderbird, Mozilla or Firefox are used. For a more detailed description of how to get and manage a certificate, and signature validation, see “About Digital Signatures” in the LibreOffice Help.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[137]">
+        <source>To sign a document:</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[70]/text:list-item[0]/text:p[0]">
+        <source>Choose <g id="574">File &gt; Digital Signatures</g>. If you have set LibreOffice to warn you when the document contains comments (see “<x id="575" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[70]/text:list-item[0]/text:p[0]"/>” below), you may see a message box asking whether you want to want to continue signing the document. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[70]/text:list-item[1]/text:p[0]">
+        <source>If you have not saved the document since the last change, a message box appears. Click <g id="576">Yes</g> to save the file. </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[70]/text:list-item[2]/text:p[0]">
+        <source>The Digital Signatures dialog opens. Click <g id="577">Sign Document</g> to add a public key to the document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[70]/text:list-item[3]/text:p[0]">
+        <source>In the Select Certificate dialog, select your certificate and click <g id="578">OK</g> to return to the Digital Signatures dialog.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[70]/text:list-item[4]/text:p[0]">
+        <source>The certificate used is displayed in the dialog with an icon next to its name.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]">
+        <source>This icon indicates the status of the digital signature.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[0]/text:p[0]">
+        <source>An icon with a red seal (<g id="579"><x id="580" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[0]/text:p[0]/text:span[0]/draw:frame[0]"/></g>) indicates that the document was signed and the certificate was validated.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[1]/text:p[0]">
+        <source>An icon with a yellow caution triangle overlaying the red seal (<x id="581" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[1]/text:p[0]/draw:frame[0]"/>) indicates that the document is signed but that the certificate could not be validated.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[2]/text:p[0]">
+        <source>An icon of a yellow caution triangle by itself (<g id="582"><x id="583" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[71]/text:list-item[2]/text:p[0]/text:span[0]/draw:frame[0]"/></g>) indicates an invalid digital signature.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[72]/text:list-item[0]/text:p[0]">
+        <source>Click <g id="584">Close</g> to apply the digital signature.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]">
+        <source>A signed document shows an icon in the status bar. You can double-click the icon to view the certificate. More than one signature can be added to a document.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]">
+        <source><x id="585" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-start[0]"/>Signing multiple times with same signature<x id="586" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[31]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]">
+        <source>In the past, LibreOffice prohibited creating multiple signatures by the same author on a document, because there was no semantic meaning of signing the same document multiple times. LibreOffice <g id="587"><g id="588"/>now</g> provides a signature description, so multiple signatures from the same author are now allowed, because each signature can have a different meaning.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]">
+        <source>When you select <g id="589">File &gt; Digital Signatures</g>, the dialog (Figure <x id="590" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]"/>) lists existing signatures together with their description (if they have any):</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="591" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="592" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[142]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Signatures of the document</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]">
+        <source>When you click on the <g id="593">Sign Document</g> button, the dialog (Figure <x id="594" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]"/>) for certificate selection now also asks for an optional description.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]">
+        <source>Changing the value of an existing description invalidates the signature.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]/draw:frame[0]/draw:text-box[0]/text:p[0]">
+        <source><x id="595" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="596" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Signatures can now have a description</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]">
+        <source><x id="597" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-start[0]"/><x id="598" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:alphabetical-index-mark[0]"/>Removing personal data<x id="599" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[32]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[146]">
+        <source>You may wish to ensure that personal data, versions, notes, hidden information, or recorded changes are removed from files before you send them to other people or create PDFs from them.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[147]">
+        <source>In <g id="600">Tools &gt; Options &gt; LibreOffice &gt; Security &gt; Options</g>, you can set LibreOffice to remind (warn) you when files contain certain information and remove personal information automatically on saving.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]">
+        <source>To remove personal and some other data from a file, go to <g id="601">File &gt; Properties</g>. On the <g id="602">General</g> tab, uncheck <g id="603">Apply user data</g> and then click the <g id="604">Reset Properties</g> button. This removes any names in <x id="605" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[148]/text:soft-page-break[0]"/>the created and modified fields, deletes the modification and printing dates, and resets the editing time to zero, the creation date to the current date and time, and the version number to 1.</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]">
+        <source><x id="606" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]/text:bookmark-start[0]"/>To remove version information, either go to <g id="607">File &gt; Versions</g>, select the versions from the list and click <g id="608">Delete;</g> or use <g id="609">File &gt; Save As</g> and save the file with a different name.<x id="610" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[149]/text:bookmark-end[0]"/></source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-meta[0]/office:meta[0]/dc:title[0]">
+        <source>Chapter 10  Printing, Exporting, E‑mailing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:chapter[0]">
+        <source>Removing personal data</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[0]/style:footer-left[0]/text:p[0]/text:chapter[0]">
+        <source>Removing personal data</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:title[0]">
+        <source>Chapter 10  Printing, Exporting, E‑mailing</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer[0]/text:p[0]/text:span[0]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:span[0]">
+        <source>Documentation for LibreOffice is available at </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/loext:footer-first[0]/text:p[0]/text:a[0]/text:span[0]/text:span[0]">
+        <source>https://documentation.libreoffice.org/en/english-documentation/</source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:span[1]">
+        <source>| </source>
+      </trans-unit>
+      <trans-unit xml:space="preserve" id="office:document-styles[0]/office:master-styles[0]/style:master-page[2]/style:footer-left[0]/text:p[0]/text:title[0]">
+        <source>Chapter 10  Printing, Exporting, E‑mailing</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
