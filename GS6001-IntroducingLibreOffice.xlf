@@ -493,7 +493,7 @@
       <target state="translated"><x id="127" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-start[0]"/>擴充套件<x id="128" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[11]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[23]" approved="yes">
         <source>Extensions and add-ons are available to enhance LibreOffice. Several extensions are installed with the program and you can get others from the official extensions repository, <g id="129">http://extensions.libreoffice.org/</g>. See <g id="130">Chapter 14, Customizing LibreOffice</g> for more information on installing extensions and add-ons.</source>
-      <target state="translated">擴充套件可用來加強LibreOffice。有些是隨程式安裝，而其他的可以從官方渠道獲得，<g id="129">http://extensions.libreoffice.org/</g>。參照<g id="130">第十四章，自訂LibreOffice</g>，以取得關於安裝擴充套件的更多資訊。</target></trans-unit>
+      <target state="translated">擴充套件可用來加強LibreOffice。有些是隨程式安裝，而其他的可以從官方渠道獲得，<g id="129">http://extensions.libreoffice.org/</g>。參照<g id="130">「第十四章，自訂LibreOffice」</g>，以取得關於安裝擴充套件的更多資訊。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]" approved="yes">
         <source><x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>Starting LibreOffice<x id="132" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="131" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-start[0]"/>啟動LibreOffice<x id="132" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[12]/text:bookmark-end[0]"/></target></trans-unit>
@@ -535,7 +535,7 @@
       <target state="translated">如果你沒有關聯這些檔案類型而且Microsoft Office已安裝在你的電腦上，那麼當你雙擊Microsoft Office檔案，那麼將會啟動相關的Microsoft Office組件。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]" approved="yes">
         <source>For more information on opening files, see “<x id="139" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]"/>” on page <x id="140" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]"/>.</source>
-      <target state="translated">關於更多開啟檔案的資訊，請參照第<x id="140" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]"/>的「<x id="139" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]"/>」。</target></trans-unit>
+      <target state="translated">關於更多開啟檔案的資訊，請參照第<x id="140" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]"/>頁的「<x id="139" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[32]"/>」。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]" approved="yes">
         <source><x id="141" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/>Quickstarter<x id="142" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="141" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-start[0]"/>快速啟動<x id="142" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[14]/text:bookmark-end[0]"/></target></trans-unit>
@@ -556,7 +556,7 @@
       <target state="translated"><x id="145" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[0]/text:p[0]/text:soft-page-break[0]"/>開啟LibreOffice。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Go to <g id="146">Tools &gt; Options &gt; LibreOffice &gt; General</g> on the Menu bar and select <g id="147">Load LibreOffice during system start-up (if using Windows) or select Enable systray Quickstarter (if using Linux)</g>.</source>
-      <target state="translated">至選單列中 <g id="146">工具 &gt; 選項 &gt; LibreOffice &gt; 一般</g> 並選擇 <g id="147">系統初始啟動時載入LibreOffice(Windows)或是選擇啟用快速啟動系統圖示(Linux)</g>。</target></trans-unit>
+      <target state="translated">至選單列中<g id="146">「工具 &gt; 選項 &gt; LibreOffice &gt; 一般」</g>並選擇<g id="147">「系統初始啟動時載入LibreOffice」(Windows)或是選擇「啟用快速啟動系統圖示」(Linux)</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[7]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Close and restart LibreOffice to have Quickstarter appear.</source>
       <target state="translated">關閉並重啟LibreOffice使快速啟動出現。</target></trans-unit>
@@ -571,10 +571,10 @@
       <target state="translated">直接從快速啟動中啟動LibreOffice組件：</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Right-click the <g id="152">Quickstarter</g> icon in the system tray to open a pop-up menu (Figure <x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]"/>).</source>
-      <target state="translated">在系統圖示中的<g id="152">快速啟動</g>圖示點擊右鍵以開啟選單(圖<x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]"/>)。</target></trans-unit>
+      <target state="translated">在系統圖示中的<g id="152">「快速啟動」</g>圖示點擊右鍵以開啟選單(圖<x id="153" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[0]/text:p[0]"/>)。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[8]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Select the LibreOffice component you want to open to create a new document, or select <g id="154">From Template</g> to open the Template Manager, or select <g id="155">Open Document</g> to open an existing document.</source>
-      <target state="translated">選擇你想要開啟並用來建立新文件的LibreOffice組件，或選擇<g id="154">從範本</g>來開啟範本管理器，或選擇<g id="155">開啟文件</g>來開啟已存在的文件。</target></trans-unit>
+      <target state="translated">選擇你想要開啟並用來建立新文件的LibreOffice組件，或選擇<g id="154">「從範本」</g>來開啟範本管理器，或選擇<g id="155">「開啟文件」</g>來開啟已存在的文件。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Quickstarter menu in Windows</source>
       <target state="translated"><x id="156" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="157" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[38]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>：Windows上的快速啟動選單</target></trans-unit>
@@ -583,16 +583,16 @@
       <target state="translated"><x id="158" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-start[0]"/><x id="159" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:reference-mark-start[0]"/>禁用快速啟動<x id="160" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:bookmark-end[0]"/><x id="161" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[17]/text:reference-mark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[39]" approved="yes">
         <source>To temporarily close Quickstarter on a computer using a Windows operating system, right-click on the <g id="162">Quickstarter</g> icon in the system tray and select <g id="163">Exit Quickstarter</g> in the pop-up menu. However, when the computer is restarted, Quickstarter will be loaded again.</source>
-      <target state="translated">如果要在Windows系統的電腦上暫時禁用快速啟動，請在<g id="162">快速啟動</g>的圖示上點擊右鍵並選擇<g id="163">離開快速啟動</g>。然而，當電腦重啟時，快速啟動將被重新載入。</target></trans-unit>
+      <target state="translated">如果要在Windows系統的電腦上暫時禁用快速啟動，請在<g id="162">「快速啟動」</g>的圖示上點擊右鍵並選擇<g id="163">「離開快速啟動」</g>。然而，當電腦重啟時，快速啟動將被重新載入。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[40]" approved="yes">
         <source>To prevent the Quickstarter from loading during system startup, do one of the following:</source>
       <target state="translated">如要防止系統載入時啟動快速啟動，請選擇以下的一種方式：</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Right-click on the <g id="164">Quickstarter</g> icon and deselect <g id="165">Load LibreOffice during system start-up</g> on the pop-up menu (on Windows) or select <g id="166">Disable systray Quickstarter</g> (on Linux).</source>
-      <target state="translated">在<g id="164">快速啟動</g>圖示上點擊右鍵並取消選取<g id="165">系統初始啟動時載入LibreOffice</g>(Windows)，或是<g id="166">禁用快速啟動系統圖示</g>(Linux)。</target></trans-unit>
+      <target state="translated">在<g id="164">「快速啟動」</g>圖示上點擊右鍵並取消選取<g id="165">「系統初始啟動時載入LibreOffice」</g>(Windows)，或是<g id="166">「禁用快速啟動系統圖示」</g>(Linux)。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[9]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Go to <g id="167">Tools &gt; Options &gt; LibreOffice &gt; General</g> on the Menu bar and deselect <g id="168">Load LibreOffice during system start-up </g>(on Windows)<g id="169"> </g>or deselect<g id="170"> Enable systray Quickstarter</g> on Linux.</source>
-      <target state="translated">至選單列中 <g id="167">工具 &gt; 選項 &gt; LibreOffice &gt; 一般 </g> 並取消選擇<g id="168">系統初始啟動時載入LibreOffice</g>(Windows)<g id="169"> </g>或是取消選擇<g id="170">啟用快速啟動系統圖示</g>(Linux)。</target></trans-unit>
+      <target state="translated">至選單列中<g id="167">「工具 &gt; 選項 &gt; LibreOffice &gt; 一般」</g>並取消選擇<g id="168">「系統初始啟動時載入LibreOffice」</g>(Windows)<g id="169"> </g>或是取消選擇<g id="170">「啟用快速啟動系統圖示」</g>(Linux)。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]" approved="yes">
         <source><x id="171" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:reference-mark-start[0]"/>Reactivating Quickstarter<x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/><x id="174" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:reference-mark-end[0]"/></source>
       <target state="translated"><x id="171" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-start[0]"/><x id="172" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:reference-mark-start[0]"/>重新啟用快速啟動<x id="173" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:bookmark-end[0]"/><x id="174" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[18]/text:reference-mark-end[0]"/></target></trans-unit>
@@ -658,16 +658,16 @@
       <target state="translated">在使用LibreOffice預設的安裝選項下，標準工具列下方的是<g id="195">格式</g>工具列。他會對於內容而改變；也就是說，他會顯示現在游標或是選取物件的相關工具。比方說，當游標在一個圖形上時，格式工具列會顯示圖形相關的工具；當游標在文字時，會顯示關於文字格式的工具。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[48]" approved="yes">
         <source>In some cases it is convenient to reduce the number of toolbars displayed and get more space for the document. LibreOffice provides a single-toolbar alternative to the default double-toolbar setup. It contains the most-used commands. To activate it, enable <g id="196">View &gt; Toolbars &gt; Standard (Single Mode)</g> and disable <g id="197">View &gt; Toolbars &gt; Standard</g> and <g id="198">View &gt; Toolbars &gt; Formatting</g>.</source>
-      <target state="translated">在某些情況中，減少工具列的數量並取得更多顯示文件的空間會更加便利。LibreOffice提供了一個單一工具列取代原本雙層工具列的設置。它包含了許多常用的指令。如果要啟用它，請選取 <g id="196">檢視 &gt; 工具列 &gt; 標準(單工具列模式)</g> 並禁用 <g id="197">檢視 &gt; 工具列 &gt; 標準</g> 及 <g id="198">檢視 &gt; 工具列 &gt; 格式設定</g>。</target></trans-unit>
+      <target state="translated">在某些情況中，減少工具列的數量並取得更多顯示文件的空間會更加便利。LibreOffice提供了一個單一工具列取代原本雙層工具列的設置。它包含了許多常用的指令。如果要啟用它，請選取<g id="196">「檢視 &gt; 工具列 &gt; 標準(單工具列模式)」</g>並禁用<g id="197">「檢視 &gt; 工具列 &gt; 標準」</g>及<g id="198">「檢視 &gt; 工具列 &gt; 格式設定」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]" approved="yes">
         <source><x id="199" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-start[0]"/>Displaying or hiding toolbars<x id="200" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="199" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-start[0]"/>顯示或隱藏工具列<x id="200" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[22]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[49]" approved="yes">
         <source>To display or hide toolbars, go to <g id="201">View &gt; Toolbars</g> on the Menu bar, then click on the name of a toolbar from the drop-down list. An active toolbar shows a check-mark beside its name. Toolbars created from tool palettes are not listed in the View menu.</source>
-      <target state="translated">如要顯示或隱藏工具列，請到選單列的 <g id="201">檢視 &gt; 工具列</g> ，並點選下拉式選單中工具列的名稱。被啟用的工具列會在其名字旁顯示打勾的圖案。而產生自工具頁的工具列則不會顯示在檢視選單中。</target></trans-unit>
+      <target state="translated">如要顯示或隱藏工具列，請到選單列的<g id="201">「檢視 &gt; 工具列」</g>，並點選下拉式選單中工具列的名稱。被啟用的工具列會在其名字旁顯示打勾的圖案。而產生自工具頁的工具列則不會顯示在檢視選單中。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]" approved="yes">
         <source><x id="202" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/text:soft-page-break[0]"/>To close a toolbar go to <g id="203">View &gt; Toolbars</g> on the Menu bar and deselect the toolbar, or right-click in an empty space between the icons on a toolbar and select <g id="204">Close toolbar</g> from the context menu.</source>
-      <target state="translated"><x id="202" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/text:soft-page-break[0]"/>如要關閉某個工具列，請至選單列中的 <g id="203">檢視 &gt; 工具列</g> 並取消選取工具列，或是在工具列的空白區域按下右鍵並選擇<g id="204">關閉工具列</g>。</target></trans-unit>
+      <target state="translated"><x id="202" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[50]/text:soft-page-break[0]"/>如要關閉某個工具列，請至選單列中的<g id="203">「檢視 &gt; 工具列」</g>並取消選取工具列，或是在工具列的空白區域按下右鍵並選擇<g id="204">「關閉工具列」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]" approved="yes">
         <source><x id="205" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-start[0]"/>Sub-menus and tool palettes<x id="206" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="205" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-start[0]"/>子選單或工具頁<x id="206" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[23]/text:bookmark-end[0]"/></target></trans-unit>
@@ -709,40 +709,40 @@
       <target state="translated">LibreOffice包含許多額外的工具列，他們的預設值是根據游標或是選擇物件的位置顯示浮動的工具列，你可以這些工具列固定在視窗的上下方，或是移動到螢幕的任意位置(參照上面的「<x id="224" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[57]"/>」)。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[58]" approved="yes">
         <source>Some of these additional toolbars are context sensitive and will automatically appear depending on the position of the cursor. For example, when the cursor is in a table, a <g id="225">Table</g> toolbar appears, and when the cursor is in a numbered or bullet list, the <g id="226">Bullets and Numbering</g> toolbar appears.</source>
-      <target state="translated">其中一些額外的工具列將自動根據文件內容，在滑鼠所指的位置顯示。比如說，當游標指向一個表格，<g id="225">表格</g>工具列則會出現，而當游標指向一個項目符號，<g id="226">項目符號與編號</g>工具列將會顯示。</target></trans-unit>
+      <target state="translated">其中一些額外的工具列將自動根據文件內容，在滑鼠所指的位置顯示。比如說，當游標指向一個表格，<g id="225">「表格」</g>工具列則會出現，而當游標指向一個項目符號，<g id="226">「項目符號與編號」</g>工具列將會顯示。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]" approved="yes">
         <source><x id="227" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-start[0]"/><x id="228" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:soft-page-break[0]"/>Customizing toolbars<x id="229" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="227" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-start[0]"/><x id="228" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:soft-page-break[0]"/>自訂工具列<x id="229" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[26]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[59]" approved="yes">
         <source>You can customize toolbars in several ways, including choosing which icons are visible and locking the position of a docked toolbar. You can also add icons and create new toolbars, as described in <g id="230">Chapter 14 Customizing LibreOffice</g>. To access the customization options for a toolbar, right-click in an empty space between the icons on a toolbar to open a context menu as follows:</source>
-      <target state="translated">你可以用許多方式自訂工具列，包含選擇哪些圖示要顯示以及將工具列固定在某個位置。你也可以增加圖示或建立新的工具列，此部分將在<g id="230">第十四章 自訂LibreOffice</g>介紹。如要存取工具列的自訂選項，請在工具列圖示中的空白區域按右鍵來開啟如下的右鍵選單：</target></trans-unit>
+      <target state="translated">你可以用許多方式自訂工具列，包含選擇哪些圖示要顯示以及將工具列固定在某個位置。你也可以增加圖示或建立新的工具列，此部分將在<g id="230">「第十四章 自訂LibreOffice」</g>介紹。如要存取工具列的自訂選項，請在工具列圖示中的空白區域按右鍵來開啟如下的右鍵選單：</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]" approved="yes">
         <source>To show or hide icons defined for the selected toolbar, click <g id="231">Visible Buttons</g>. Visible icons on a toolbar are indicated by an outline around the icon (Figure <x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]"/>) or by a check mark beside the icon, depending on your operating system. Select or deselect icons to hide or show them on the toolbar.</source>
-      <target state="translated">如要顯示或隱藏所選工具列的圖示，請按下<g id="231">可視按紐</g>。可見的按鈕將會以顯示外框(圖<x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]"/>)或是打勾圖案來標記，取決於你的作業系統。選取或取消選取他們來控制是否要顯示在工具列上。</target></trans-unit>
+      <target state="translated">如要顯示或隱藏所選工具列的圖示，請按下<g id="231">「可視按紐」</g>。可見的按鈕將會以顯示外框(圖<x id="232" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[12]/text:list-item[0]/text:p[0]"/>)或是打勾圖案來標記，取決於你的作業系統。選取或取消選取他們來控制是否要顯示在工具列上。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="233" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="234" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Selection of visible toolbar icons</source>
       <target state="translated"><x id="233" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="234" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[60]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>:選擇可見的工具列圖示</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Click <g id="235">Customize Toolbar</g> to open the Customize dialog; See <g id="236">Chapter 14 Customizing LibreOffice</g> for more information.</source>
-      <target state="translated">在<g id="235">自訂工具列</g>按下左鍵會開啟自訂視窗；參照<g id="236">第十四章 自訂LibreOffice</g>以取得更多資訊。</target></trans-unit>
+      <target state="translated">在<g id="235">「自訂工具列」</g>按下左鍵會開啟自訂視窗；參照<g id="236">「第十四章 自訂LibreOffice」</g>以取得更多資訊。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Click <g id="237">Dock Toolbar</g> to dock the selected floating toolbar. By default, a toolbar will dock at the top of the workspace. You can reposition the toolbar to a different docked position. See “<x id="238" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]"/>” on page <x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]"/>.</source>
-      <target state="translated">在<g id="237">停駐工具列</g>按下左鍵來固定一個浮動工具列。在預設值中，工具列將會固定在工作區域的上方。你可以將其移動到其他不同位置。參照「<x id="238" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]"/>」在第<x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]"/>頁。</target></trans-unit>
+      <target state="translated">在<g id="237">「停駐工具列」</g>按下左鍵來固定一個浮動工具列。在預設值中，工具列將會固定在工作區域的上方。你可以將其移動到其他不同位置。參照「<x id="238" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]"/>」在第<x id="239" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[1]/text:p[0]"/>頁。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Click <g id="240">Dock All Toolbars</g> to dock all floating toolbars. By default, toolbars will dock at the top of the workspace. You can reposition the toolbars to different docked positions. See “<x id="241" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>” on page <x id="242" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>.</source>
-      <target state="translated">在<g id="240">停駐所有工具列</g>按下左鍵來固定所有浮動工具列。在預設值中，工具列將會固定在工作區域的上方。你可以將其移動到其他不同位置。參照「<x id="241" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>」在第<x id="242" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>頁。</target></trans-unit>
+      <target state="translated">在<g id="240">「停駐所有工具列」</g>按下左鍵來固定所有浮動工具列。在預設值中，工具列將會固定在工作區域的上方。你可以將其移動到其他不同位置。參照「<x id="241" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>」在第<x id="242" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[2]/text:p[0]"/>頁。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[3]/text:p[0]" approved="yes">
         <source>Click <g id="243">Lock Toolbar Position</g> to lock a docked toolbar into its docked position.</source>
-      <target state="translated">在<g id="243">鎖定工具列位置</g>按下左鍵來鎖定工具列到一個固定的位置。</target></trans-unit>
+      <target state="translated">在<g id="243">「鎖定工具列位置」</g>按下左鍵來鎖定工具列到一個固定的位置。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[13]/text:list-item[4]/text:p[0]" approved="yes">
         <source>Click <g id="244">Close Toolbar</g> to close the selected toolbar.</source>
-      <target state="translated">在<g id="244">關閉工具列</g>按下左鍵來關閉所選工具列。</target></trans-unit>
+      <target state="translated">在<g id="244">「關閉工具列」</g>按下左鍵來關閉所選工具列。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]" approved="yes">
         <source><x id="245" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-start[0]"/>Context menus<x id="246" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="245" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-start[0]"/>右鍵選單<x id="246" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[27]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]" approved="yes">
         <source>Context menus provide quick access to many menu functions. They are opened by right-clicking on a paragraph, graphic, or other object. When a context menu opens, the functions or options available will depend on the object that has been selected. A context menu can be the easiest way to reach a function, especially if you are not sure where the function is located in the menus or <x id="247" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]/text:soft-page-break[0]"/>toolbars. <g id="248">By default, context menus will display an applicable keyboard shortcut if one has been set. <g id="249"/>If you wish, you can toggle this visibility off or on in</g><g id="250"> Tools &gt; Options &gt; View &gt; Menu</g>.</source>
-      <target state="translated">右鍵選單提供了能快速存取選單的功能。右鍵選單可經由在文章段落、圖形、或其他物件上按下右鍵來開啟。當右鍵選單開啟時，可使用的功能將會取決於你所選取的物件。右鍵選單是最簡單存取功能的方法，特別是當你並不知道某個功能在哪一個選單或是<x id="247" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]/text:soft-page-break[0]"/>工具列時。<g id="248">在預設值中，右鍵選單將會顯示每個功能相對應的快捷鍵。 <g id="249"/>你可以在以下位置中調整是否要顯示:<g id="250"> 工具 &gt; 選項 &gt; 檢視 &gt; 選單 </g></g>。</target></trans-unit>
+      <target state="translated">右鍵選單提供了能快速存取選單的功能。右鍵選單可經由在文章段落、圖形、或其他物件上按下右鍵來開啟。當右鍵選單開啟時，可使用的功能將會取決於你所選取的物件。右鍵選單是最簡單存取功能的方法，特別是當你並不知道某個功能在哪一個選單或是<x id="247" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[61]/text:soft-page-break[0]"/>工具列時。<g id="248">在預設值中，右鍵選單將會顯示每個功能相對應的快捷鍵。 <g id="249"/>你可以在以下位置中調整是否要顯示:<g id="250">「工具 &gt; 選項 &gt; 檢視 &gt; 選單」</g></g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="251" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="252"><g id="253"/></g>Figure <x id="254" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: <g id="255">Keyboard s</g>hortcuts in context menus</source>
       <target state="translated"><x id="251" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/><g id="252"><g id="253"/></g>圖 <x id="254" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[62]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>：右鍵選單中的鍵盤快捷鍵</target></trans-unit>
@@ -820,19 +820,19 @@
       <target state="translated">縮放條</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[86]" approved="yes">
         <source>Drag the Zoom slider, or click on the <g id="264">+</g> and <g id="265">–</g> signs to change the view magnification of your document.</source>
-      <target state="translated">拖曳此縮放條，或是在<g id="264">+</g>及<g id="265">–</g>字號上按下左鍵來改變文件顯示的大小。</target></trans-unit>
+      <target state="translated">拖曳此縮放條，或是在<g id="264">「+」</g>及<g id="265">「–」</g>字號上按下左鍵來改變文件顯示的大小。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[87]" approved="yes">
         <source>Zoom percentage</source>
       <target state="translated">縮放比例</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[88]" approved="yes">
         <source>Indicates the magnification level of the document. Right-click on the percentage figure to open a list of magnification values from which to choose. Cicking on this percentage figure opens the <g id="266">Zoom &amp; View Layout</g> dialog.</source>
-      <target state="translated">顯示此份文件的縮放比例。在縮放比例按下右鍵以開啟縮放倍率選單。在縮放比例按下左鍵將開啟<g id="266">遠近調整和檢視版面配置</g>對話框。</target></trans-unit>
+      <target state="translated">顯示此份文件的縮放比例。在縮放比例按下右鍵以開啟縮放倍率選單。在縮放比例按下左鍵將開啟<g id="266">「遠近調整和檢視版面配置」</g>對話框。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]" approved="yes">
         <source><x id="267" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-start[0]"/>Sidebar<x id="268" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="267" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-start[0]"/>側邊欄<x id="268" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[29]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]" approved="yes">
         <source>To activate the Sidebar, select <g id="269">View &gt; Sidebar</g> from the Menu bar. The Sidebar (Figure <x id="270" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]"/>) is located on the right side of the edit views of Writer, Calc, Impress, and Draw. It contains one or more panels, based on the current document context. Panels are organized into decks. A tab bar on the right side of the sidebar allows you to switch between different decks.</source>
-      <target state="translated">如要啟用側邊攔，請在選單列中選取<g id="269">檢視 &gt; 側邊攔</g>。側邊欄(圖<x id="270" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]"/>)在Writer, Calc, Impress, 及Draw的編輯區域的右邊。它包含了一個或多個面板，取決於當前文件的內容。面板會被統整進側邊欄中，在右方的切換標籤可以讓你在不同的頁面中切換。</target></trans-unit>
+      <target state="translated">如要啟用側邊攔，請在選單列中選取<g id="269">「檢視 &gt; 側邊攔」</g>。側邊欄(圖<x id="270" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[89]"/>)在Writer, Calc, Impress, 及Draw的編輯區域的右邊。它包含了一個或多個面板，取決於當前文件的內容。面板會被統整進側邊欄中，在右方的切換標籤可以讓你在不同的頁面中切換。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="271" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="272" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Properties panel of Sidebar in Writer</source>
       <target state="translated"><x id="271" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="272" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[90]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Writer中側邊攔的屬性頁面。</target></trans-unit>
@@ -850,10 +850,10 @@
       <target state="translated">如要取得更多細節，請參照相關LibreOffice組件中的使用者手冊中關於側邊欄的描述。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[95]" approved="yes">
         <source>To hide the Sidebar, click on the gray <g id="273">Hide</g> button on the left. Click on the same button to show the Sidebar again.</source>
-      <target state="translated">如要隱藏側邊欄，請按下左方灰色的<g id="273">隱藏</g>按鈕。再按一次則會恢復顯示。</target></trans-unit>
+      <target state="translated">如要隱藏側邊欄，請按下左方灰色的<g id="273">「隱藏」</g>按鈕。再按一次則會恢復顯示。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]" approved="yes">
         <source>To undock the Sidebar and make it floating, and to dock a floating Sidebar, use the <g id="274">Sidebar settings</g> drop-down list at the top of the tab bar (see Figure <x id="275" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"/>). From the same list you can choose which items to show in the Sidebar.</source>
-      <target state="translated">如要使側邊欄變為浮動顯示，或固定浮動顯示的側邊欄，請使用在標籤中<g id="274">側邊欄設定</g>中的彈出式選單(參照圖<x id="275" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"/>)。在同一個選單中你也可以選擇哪些頁面要顯示在側邊欄中。</target></trans-unit>
+      <target state="translated">如要使側邊欄變為浮動顯示，或固定浮動顯示的側邊欄，請使用在標籤中<g id="274">「測邊欄設定」</g>的彈出式選單(參照圖<x id="275" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[96]"/>)。在同一個選單中你也可以選擇哪些頁面要顯示在側邊欄中。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="276" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="277" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Floating (undocking) or docking the Sidebar</source>
       <target state="translated"><x id="276" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="277" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[97]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>:將側邊欄變為浮動或是固定。</target></trans-unit>
@@ -865,25 +865,25 @@
       <target state="translated">你可以利用一些方式在LibreOffice中建立一個新的、空白的文件。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]" approved="yes">
         <source>When LibreOffice is running but no document is open, the Start Center (Figure <x id="280" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"/><g id="281"/>on page <x id="282" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"/>) is shown. Click one of the icons to open a new document of that type, or click the <g id="283">Templates</g> icon to start a new document using a template.</source>
-      <target state="translated">當LibreOffice已啟動但未開啟任何文件時，啟動中心(圖<x id="280" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"/><g id="281"/>在第<x id="282" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"/>頁)將會顯示。在其中一個圖示中按下左鍵以開啟一個相應格式的新文件，或是按下<g id="283">範本</g>來利用範本產生新文件。</target></trans-unit>
+      <target state="translated">當LibreOffice已啟動但未開啟任何文件時，啟動中心(圖<x id="280" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"/><g id="281"/>在第<x id="282" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[99]"/>頁)將會顯示。在其中一個圖示中按下左鍵以開啟一個相應格式的新文件，或是按下<g id="283">「範本」</g>來利用範本產生新文件。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[100]" approved="yes">
         <source>You can also start a new document in one of the following ways:</source>
       <target state="translated">你也可以利用以下方法建立新文件:</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Use <g id="284">File &gt; New</g> on the Menu bar and select the type of document from the context menu.</source>
-      <target state="translated">使用選單列的 <g id="284">檔案 &gt; 新增</g> 並在子選單中選擇一種文件類型。</target></trans-unit>
+      <target state="translated">使用選單列的<g id="284">「檔案 &gt; 新增」</g>並在子選單中選擇一種文件類型。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Use the keyboard shortcut <g id="285">Ctrl+N</g> to create a new document. The type of document created depends on which LibreOffice component is open and active. For example, if Calc is open and active, a new spreadsheet is created.</source>
       <target state="translated">使用鍵盤快捷鍵<g id="285">Ctrl+N</g>來建立新文件。所建立的新文件類型將會取決哪一個LibreOffice組件正被開啟。比方說，當Calc處於開啟狀態，新的試算表文件將會被建立。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Use <g id="286">File &gt; Wizards</g> on the Menu bar and select the type of document from the context menu.</source>
-      <target state="translated">使用選單列中的 <g id="286">檔案 &gt; 精靈</g> 並在子選單中選擇一種文件類型。</target></trans-unit>
+      <target state="translated">使用選單列中的<g id="286">「檔案 &gt; 精靈」</g>並在子選單中選擇一種文件類型。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[3]/text:p[0]" approved="yes">
         <source>If a document is already open in LibreOffice, click the <g id="287">New</g> icon on the Standard toolbar and a new document of the same type is created in a new window. For example, if Calc is open and active, a new spreadsheet is created. The New icon changes depending on which component of LibreOffice is open.</source>
-      <target state="translated">當一個文件已經在LibreOffice中開啟，請在標準工具列中的<g id="287">新增</g>按下左鍵，將會在新視窗建立一個同樣類型的新文件。比如說，當Calc處於開啟狀態，新的試算表文件將會被建立。新增圖示的作用將取決於哪一個LibreOffice組件處於開啟狀態。</target></trans-unit>
+      <target state="translated">當一個文件已經在LibreOffice中開啟，請在標準工具列中的<g id="287">「新增」</g>按下左鍵，將會在新視窗建立一個同樣類型的新文件。比如說，當Calc處於開啟狀態，新的試算表文件將會被建立。新增圖示的作用將取決於哪一個LibreOffice組件處於開啟狀態。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[4]/text:p[0]" approved="yes">
         <source>If a document is already open in LibreOffice, click on the small triangle to the right of the <g id="288">New</g> icon on the Standard toolbar and select the type of document from the context menu that opens.</source>
-      <target state="translated">當一個文件已經在LibreOffice中開啟，按下標準工具列中的<g id="288">新增</g>按鈕旁的小三角形並在子選單中選擇一種文件類型。</target></trans-unit>
+      <target state="translated">當一個文件已經在LibreOffice中開啟，按下標準工具列中的<g id="288">「新增」</g>按鈕旁的小三角形並在子選單中選擇一種文件類型。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[5]/text:p[0]" approved="yes">
         <source>On Windows or Linux, use the Quickstarter feature included with LibreOffice. See “<x id="289" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[5]/text:p[0]"/>” on page <x id="290" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[5]/text:p[0]"/><g id="291"/>for more information.</source>
       <target state="translated">在Windows或是Linux系統中，利用LibreOffice的快速啟動功能。參見第<x id="290" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[14]/text:list-item[5]/text:p[0]"/><g id="291"/>頁中的「在Windows及Linux系統使用快速啟動」以取得更多資訊。</target></trans-unit>
@@ -901,28 +901,28 @@
       <target state="translated">你也可以利用以下方法開啟已存在的文件:</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[0]/text:p[0]" approved="yes">
         <source>When no document is open, click <g id="294">Open File</g> or <g id="295">Remote files</g> in the Start Center to reach the Open dialog.</source>
-      <target state="translated">當沒有文件被開啟，按下啟動中心中的<g id="294">開啟檔案</g>或是<g id="295">遠端檔案</g>來開啟對話框。</target></trans-unit>
+      <target state="translated">當沒有文件被開啟，按下啟動中心中的<g id="294">「開啟檔案」</g>或是<g id="295">「遠端檔案」</g>來開啟對話框。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Go to <g id="296">File &gt; Open</g> or <g id="297">File &gt; Open Remote…</g> on the Menu bar to reach the Open dialog.</source>
-      <target state="translated">至選單列的<g id="296">檔案 &gt; 開啟</g>或是<g id="297">檔案 &gt; 開啟遠端</g>來開啟對話框。</target></trans-unit>
+      <target state="translated">至選單列的<g id="296">「檔案 &gt; 開啟」</g>或是<g id="297">「檔案 &gt; 開啟遠端」</g>來開啟對話框。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Use the keyboard shortcut <g id="298">Ctrl+O</g> to reach the Open dialog.</source>
       <target state="translated">使用鍵盤快捷鍵<g id="298">Ctrl+O</g>來開啟對話框。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[3]/text:p[0]" approved="yes">
         <source><x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[3]/text:p[0]/text:soft-page-break[0]"/>If a document is already open, click the <g id="300">Open</g> icon on the Standard toolbar and select from a list of available documents from the Open dialog, or click <g id="301">Open Template…</g> to select a template.</source>
-      <target state="translated"><x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[3]/text:p[0]/text:soft-page-break[0]"/>如果一個文件已被開啟，按下標準工具列中的<g id="300">開啟</g>圖示並在對話框中選擇可用的文件，或是按下<g id="301">開啟範本</g>來選擇一個範本。</target></trans-unit>
+      <target state="translated"><x id="299" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[3]/text:p[0]/text:soft-page-break[0]"/>如果一個文件已被開啟，按下標準工具列中的<g id="300">「開啟」</g>圖示並在對話框中選擇可用的文件，或是按下<g id="301">「開啟範本」</g>來選擇一個範本。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[4]/text:p[0]" approved="yes">
         <source>Click the small triangle to the right of the <g id="302">Open</g> icon and select from a list of recently opened documents.</source>
-      <target state="translated">在<g id="302">開啟</g>旁邊的小三角形按下左鍵並從最近開啟的文件中選擇。</target></trans-unit>
+      <target state="translated">在<g id="302">「開啟」</g>旁邊的小三角形按下左鍵並從最近開啟的文件中選擇。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[16]/text:list-item[5]/text:p[0]" approved="yes">
         <source>When no document is open, double-click on a thumbnail of recently opened documents displayed in the Start Center. You can scroll up or down in the Start Center to locate a recently opened document.</source>
       <target state="translated">當文件已被開啟，在啟動中心中點擊最近開啟的文件的縮圖。你可以在啟動中心中上下滾動來尋找最近開啟的文件。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[103]" approved="yes">
         <source>When using the Open dialog, navigate to the folder you want and select the file you want, and then click <g id="303">Open</g>. If a document is already open in LibreOffice, the second document opens in a new window.</source>
-      <target state="translated">當使用「開啟」對話框，導向到你所要的資料夾並選擇你所想要開啟的文件，然後按下<g id="303">開啟</g>。如果有一個文件已被LibreOffice開啟，則文件將會在新視窗中被開啟。</target></trans-unit>
+      <target state="translated">當使用開啟對話框時，導向到你所要的資料夾並選擇你所想要開啟的文件，然後按下<g id="303">「開啟」</g>。如果有一個文件已被LibreOffice開啟，則文件將會在新視窗中被開啟。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[104]" approved="yes">
         <source>In the Open dialog, you can reduce the list of files by selecting the type of file you are looking for. For example, if you choose <g id="304">Text documents</g> as the file type, you will only see documents Writer can open (including <g id="305">.odt</g>, <g id="306">.doc</g>, <g id="307">.txt</g>); if you choose <g id="308">Spreadsheets</g>, you will see <g id="309">.ods</g>, <g id="310">.xls</g>, and other files that Calc opens.</source>
-      <target state="translated">在「開啟」對話框中，你可以利用選擇所要的檔案類型來減少檔案列表。比方說，如果你選擇<g id="304">文字文件</g>當成你的檔案類型，你將只會看到Writer可以開啟的文件(包含<g id="305">.odt</g>, <g id="306">.doc</g>, <g id="307">.txt</g>)；如果你選擇<g id="308">試算表</g>，你將會看到<g id="309">.ods</g>,<g id="310">.xls</g>,及其他Calc可以開啟的檔案。</target></trans-unit>
+      <target state="translated">在開啟對話框中，你可以利用選擇所要的檔案類型來減少檔案列表。比方說，如果你選擇<g id="304">「文字文件」</g>當成你的檔案類型，你將只會看到Writer可以開啟的文件(包含<g id="305">.odt</g>, <g id="306">.doc</g>, <g id="307">.txt</g>)；如果你選擇<g id="308">「試算表」</g>，你將會看到<g id="309">.ods</g>,<g id="310">.xls</g>,及其他Calc可以開啟的檔案。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[105]" approved="yes">
         <source>You can also open an existing document that is in a format that LibreOffice recognizes by double-clicking on the file icon on the desktop or in a file manager such as Windows Explorer. LibreOffice has to be associated with file types that are not ODF files for the appropriate LibreOffice component to open.</source>
       <target state="translated">你也可以利用雙擊桌面上、或是像是Windows檔案總管的檔案管理器中LibreOffice可開啟的檔案的圖示來開啟文件。前提是LibreOffice必須和這些非odf文件有相關LibreOffice組件的檔案關聯。</target></trans-unit>
@@ -961,22 +961,22 @@
       <target state="translated">如果你想儲存時保留原文件的檔名及位置，請做以下其中一個動作:</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Use the menu option <g id="320">File &gt; Save</g> </source>
-      <target state="translated">使用選單列的 <g id="320">檔案 &gt; 儲存</g></target></trans-unit>
+      <target state="translated">使用選單列的<g id="320">「檔案 &gt; 儲存」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Use the keyboard shortcut <g id="321">Ctrl+S</g>.</source>
       <target state="translated">使用鍵盤快捷鍵<g id="321">Ctrl+S</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Click the <g id="322">Save</g> icon on the Standard toolbar.</source>
-      <target state="translated">點擊標準工具列中的<g id="322">儲存</g>圖示。</target></trans-unit>
+      <target state="translated">點擊標準工具列中的<g id="322">「儲存」</g>圖示。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[3]/text:p[0]" approved="yes">
         <source>Use the menu option <g id="323">File &gt; Save All</g> </source>
-      <target state="translated">使用選單列的 <g id="323">檔案 &gt; 儲存全部</g></target></trans-unit>
+      <target state="translated">使用選單列的<g id="323">「檔案 &gt; 儲存全部」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[4]/text:p[0]" approved="yes">
         <source>Use the menu option <g id="324">File &gt; Save Remote</g></source>
-      <target state="translated">使用選單列的 <g id="324">檔案 &gt; 儲存遠端</g></target></trans-unit>
+      <target state="translated">使用選單列的<g id="324">「檔案 &gt; 儲存遠端」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[5]/text:p[0]" approved="yes">
         <source>Use the menu option <g id="325">File &gt; Save a Copy (Similar to the </g><g id="326"><g id="327"><x id="328" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[19]/text:list-item[5]/text:p[0]/text:span[1]/text:span[0]"/></g></g><g id="329">)</g></source>
-      <target state="translated">使用選單列的 <g id="325">檔案 &gt; 儲存副本(和儲存指令相似)</g></target></trans-unit>
+      <target state="translated">使用選單列的<g id="325">「檔案 &gt; 儲存副本」(和儲存指令相似)</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[109]" approved="yes">
         <source>Using the Save command will immediately overwrite the last saved version of the file.</source>
       <target state="translated">使用「儲存」將會馬上覆蓋文件上一次的版本。</target></trans-unit>
@@ -994,10 +994,10 @@
       <target state="translated">使用鍵盤快捷鍵<g id="337">Ctrl+Shift+S</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[20]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Use the menu option <g id="338">File &gt; Save As</g>.</source>
-      <target state="translated">使用選單列的 <g id="338">檔案 &gt; 另存新檔</g></target></trans-unit>
+      <target state="translated">使用選單列的<g id="338">「檔案 &gt; 另存新檔」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]" approved="yes">
         <source>When the <g id="339">Save As</g> dialog (Figure <x id="340" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]"/>) or <g id="341">Save</g> dialog opens, enter the file name, change the file type (if applicable), navigate to a new location (if applicable), and click <g id="342">Save</g>.</source>
-      <target state="translated">當<g id="339">另存新檔</g>對話框(圖 <x id="340" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]"/>)或是<g id="341">儲存</g>對話框開啟時，鍵入檔名、改變檔案類型(如果可以)，導向到新的位置(如果可以)，然後按下<g id="342">儲存</g>。</target></trans-unit>
+      <target state="translated">當<g id="339">另存新檔</g>對話框(圖 <x id="340" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[112]"/>)或是<g id="341">儲存</g>對話框開啟時，鍵入檔名、改變檔案類型(如果可以)，導向到新的位置(如果可以)，然後按下<g id="342">「儲存」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]" approved="yes">
         <source><x id="343" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:bookmark-start[0]"/>Password protection<x id="344" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="343" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:bookmark-start[0]"/>密碼保護<x id="344" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[35]/text:bookmark-end[0]"/></target></trans-unit>
@@ -1006,22 +1006,22 @@
       <target state="translated">如要限制誰可以開啟此文件、或是開啟並編輯此文件，請使用密碼保護。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Using the <x id="345" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]"/><g id="346"/>command above, select the <g id="347">Save with password</g> option in the Save As dialog or Save dialog.</source>
-      <target state="translated">使用前面所述的<x id="345" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]"/><g id="346"/>指令，在彈出的另存新檔或是儲存對話框中勾選<g id="347">使用密碼儲存</g>。</target></trans-unit>
+      <target state="translated">使用前面所述的<x id="345" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[0]/text:p[0]"/><g id="346"/>指令，在彈出的另存新檔或是儲存對話框中勾選<g id="347">「使用密碼儲存」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Click <g id="348">Save</g> and the <g id="349">Set Password</g> dialog opens (Figure <x id="350" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]"/>).</source>
-      <target state="translated">按下<g id="348">儲存</g>後<g id="349">設定密碼</g>對話框則會顯示(圖<x id="350" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]"/>)。</target></trans-unit>
+      <target state="translated">按下<g id="348">「儲存」</g>後<g id="349">設定密碼</g>對話框則會顯示(圖<x id="350" xid="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[1]/text:p[0]"/>)。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[2]/text:p[0]" approved="yes">
         <source>In <g id="351">File Encryption Password</g>, enter a password to open the document and then enter the same password as confirmation.</source>
-      <target state="translated">在<g id="351">設定密碼</g>中，鍵入一個用來開啟文件的密碼並再輸入一次作為確認。</target></trans-unit>
+      <target state="translated">在<g id="351">「設定密碼」</g>中，鍵入一個用來開啟文件的密碼並再輸入一次作為確認。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[3]/text:p[0]" approved="yes">
         <source>To restrict who can edit the document, click <g id="352">Options</g>.</source>
-      <target state="translated">如要限制誰可以修改這份文件，請按下<g id="352">選項</g>。</target></trans-unit>
+      <target state="translated">如要限制誰可以修改這份文件，請按下<g id="352">「選項」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[4]/text:p[0]" approved="yes">
         <source>In <g id="353">File Sharing Password</g>, select <g id="354">Open file read-only</g>, enter a password to allow editing, and then enter the same password as confirmation.</source>
-      <target state="translated">在<g id="353">檔案共享密碼</g>中，選擇<g id="354">以唯讀方式開啟檔案</g>，然後輸入一個可供編輯的密碼，並再輸入一次當作確認。</target></trans-unit>
+      <target state="translated">在<g id="353">「檔案共享密碼」</g>中，選擇<g id="354">「以唯讀方式開啟檔案」</g>，然後輸入一個可供編輯的密碼，並再輸入一次當作確認。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[21]/text:list-item[5]/text:p[0]" approved="yes">
         <source>Click <g id="355">OK</g> and the dialog closes. If the passwords match, the document is saved password-protected. If the passwords do not match, you receive an error message.</source>
-      <target state="translated">按下<g id="355">確定</g>後對話框將關閉。如果兩次輸入的密碼相符，則文件將會儲存並擁有密碼保護。如果兩次輸入的密碼不相符，你將會收到錯誤訊息。</target></trans-unit>
+      <target state="translated">按下<g id="355">「確定」</g>後對話框將關閉。如果兩次輸入的密碼相符，則文件將會儲存並擁有密碼保護。如果兩次輸入的密碼不相符，你將會收到錯誤訊息。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="356" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="357" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Set Password dialog</source>
       <target state="translated"><x id="356" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="357" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[114]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>:設定密碼對話框</target></trans-unit>
@@ -1036,7 +1036,7 @@
       <target state="translated"><x id="358" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:bookmark-start[0]"/>更改密碼<x id="359" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[36]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[116]" approved="yes">
         <source>When a document is password-protected, you can change the password while the document is open. Go to <g id="360">File &gt; Properties &gt; General</g> on the Menu bar and click the <g id="361">Change Password</g> button. This opens the Set Password dialog where you can enter a new password.</source>
-      <target state="translated">當一個文件有密碼保護，你可以在文件開啟的時候更改密碼。請至選單列的 <g id="360">檔案 &gt; 屬性 &gt; 一般</g> 並按下<g id="361">更改密碼</g>按鈕。將會開啟可以鍵入新密碼的設定密碼對話框。</target></trans-unit>
+      <target state="translated">當一個文件有密碼保護，你可以在文件開啟的時候更改密碼。請至選單列的<g id="360">「檔案 &gt; 屬性 &gt; 一般」</g>並按下<g id="361">「更改密碼」</g>按鈕。將會開啟可以鍵入新密碼的設定密碼對話框。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]" approved="yes">
         <source><x id="362" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:bookmark-start[0]"/>Saving documents automatically<x id="363" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="362" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:bookmark-start[0]"/>自動儲存<x id="363" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[37]/text:bookmark-end[0]"/></target></trans-unit>
@@ -1048,13 +1048,13 @@
       <target state="translated">如要設定自動儲存:</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Go to <g id="365">Tools &gt; Options &gt; Load/Save &gt; General</g> on the Menu bar.</source>
-      <target state="translated">至選單列的<g id="365">工具 &gt; 選項 &gt; 載入/儲存 &gt; 一般</g>。</target></trans-unit>
+      <target state="translated">至選單列的<g id="365">「工具 &gt; 選項 &gt; 載入/儲存 &gt; 一般」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Select <g id="366">Save AutoRecovery information every</g> and set the time interval.</source>
-      <target state="translated">選擇<g id="366">儲存自動回復資訊，間隔為</g>，並設定時間間隔。</target></trans-unit>
+      <target state="translated">選擇<g id="366">「儲存自動回復資訊，間隔為」</g>，並設定時間間隔。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[23]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Click <g id="367">OK</g>.</source>
-      <target state="translated">按下<g id="367">確定</g></target></trans-unit>
+      <target state="translated">按下<g id="367">「確定」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]" approved="yes">
         <source><x id="368" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]/text:bookmark-start[0]"/>Opening and saving files on remote servers<x id="369" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="368" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]/text:bookmark-start[0]"/>在遠端伺服器上開啟與儲存檔案<x id="369" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[38]/text:bookmark-end[0]"/></target></trans-unit>
@@ -1069,28 +1069,28 @@
       <target state="translated"><x id="370" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[121]/text:soft-page-break[0]"/>如要啟用遠端伺服器連線，使用以下其中一種方式:</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[0]/text:p[0]" approved="yes">
         <source>Click on the <g id="371">Remote Files</g> button in the Start Center </source>
-      <target state="translated">在啟動中心中點擊<g id="371">遠端檔案</g>檔案。</target></trans-unit>
+      <target state="translated">在啟動中心中點擊<g id="371">「遠端檔案」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[1]/text:p[0]" approved="yes">
         <source>Select <g id="372">File &gt; Open Remote</g></source>
-      <target state="translated">選擇 <g id="372">檔案 &gt; 開啟遠端</g></target></trans-unit>
+      <target state="translated">選擇<g id="372">「檔案 &gt; 開啟遠端」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:list[24]/text:list-item[2]/text:p[0]" approved="yes">
         <source>Select <g id="373">File &gt; Save Remote</g></source>
-      <target state="translated">選擇 <g id="373">檔案 &gt; 儲存遠端</g></target></trans-unit>
+      <target state="translated">選擇<g id="373">「檔案 &gt; 儲存遠端」</g></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]" approved="yes">
         <source>On the Remote Files dialog (Figure <x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"/>), click on the <g id="375">Add Service</g> button in the upper right to open the File Services dialog (Figure <x id="376" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"/>).</source>
-      <target state="translated">在遠端檔案對話框中(圖<x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"/>)，在右上角按下<g id="375">新增服務</g>按鈕來開啟檔案服務。</target></trans-unit>
+      <target state="translated">在遠端檔案對話框中(圖<x id="374" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[122]"/>)，在右上角按下<g id="375">「新增服務」</g>按鈕來開啟檔案服務。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[123]" approved="yes">
         <source>Depending on the type of file service you choose in the <g id="377">Type</g> listbox, different parameters are necessary to fully qualify the connection to the remote server.</source>
-      <target state="translated">取決於你在<g id="377">類型</g>選單中所選的檔案服務，需要輸入不同的參數以滿足遠端伺服器的需求。</target></trans-unit>
+      <target state="translated">取決於你在<g id="377">「類型」</g>選單中所選的檔案服務，需要輸入不同的參數以滿足遠端伺服器的需求。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="378" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="379" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Remote server configuration</source>
       <target state="translated"><x id="378" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="379" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[124]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>:遠端伺服器設置</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[125]" approved="yes">
         <source>Once the connection is defined, click <g id="380">OK</g> to connect. The dialog will dim until the connection is established with the server. A dialog asking for the user name and the password may pop up to let you log in the server. Proceed entering your credentials.</source>
-      <target state="translated">一旦連接已被定義，按下<g id="380">確定</g>來連線。對話框將會變暗直到與伺服器成功連線。中途可能會顯示一個對話框要求你輸入用戶名稱及密碼來登錄遠端伺服器。請繼續輸入你的身分。</target></trans-unit>
+      <target state="translated">一旦連接已被定義，按下<g id="380">「確定」</g>來連線。對話框將會變暗直到與伺服器成功連線。中途可能會顯示一個對話框要求你輸入用戶名稱及密碼來登錄遠端伺服器。請繼續輸入你的身分。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]" approved="yes">
         <source>The Remote Files dialog (Figure <x id="381" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]"/>) which then appears has many parts. The upper list box contains the list of remote servers you have previously defined. The line below the list box shows the path to access the folder. On the left is the folder structure of the user space in the server. The main pane displays the files in the remote folder. Click the <g id="382">Open</g> or <g id="383">Save</g> button to proceed.</source>
-      <target state="translated">接下來顯示的遠端檔案對話框(圖<x id="381" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]"/>)包含許多部份。上面的選單框包含了你之前所定義的遠端伺服器。在底下的輸入框顯示了所存取的資料夾位置。左側的是遠端伺服器上的使用者空間。主要區塊顯示了遠端伺服器上的檔案。按下<g id="382">開啟</g>或<g id="383">儲存</g>以繼續。</target></trans-unit>
+      <target state="translated">接下來顯示的遠端檔案對話框(圖<x id="381" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[126]"/>)包含許多部份。上面的選單框包含了你之前所定義的遠端伺服器。在底下的輸入框顯示了所存取的資料夾位置。左側的是遠端伺服器上的使用者空間。主要區塊顯示了遠端伺服器上的檔案。按下<g id="382">「開啟」</g>或<g id="383">「儲存」</g>以繼續。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/draw:frame[0]/draw:text-box[0]/text:p[0]" approved="yes">
         <source><x id="384" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>Figure <x id="385" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>: Remote Files dialog when connected to a server</source>
       <target state="translated"><x id="384" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/draw:frame[0]/draw:text-box[0]/text:p[0]/draw:frame[0]"/>圖<x id="385" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[127]/draw:frame[0]/draw:text-box[0]/text:p[0]"/>:連線到遠端伺服器後的遠端檔案對話框</target></trans-unit>
@@ -1099,7 +1099,7 @@
       <target state="translated"><x id="386" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]/text:bookmark-start[0]"/>重新命名或刪除檔案<x id="387" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[39]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[128]" approved="yes">
         <source>You can rename or delete files within the LibreOffice dialogs, just as you can in a file manager. Select a file and then right click to open a context menu. Select either <g id="388">Delete</g> or <g id="389">Rename</g>, as appropriate. However, you cannot copy or paste files within the dialogs.</source>
-      <target state="translated">你可以在LibreOffice的對話框中重新命名或是刪除檔案，就像是在檔案管理器中一樣。選擇一個檔案後點擊右鍵來開啟右鍵選單。選擇<g id="388">刪除</g>或是<g id="389">重新命名</g>。然而，你無法在對話框中複製或是貼上。</target></trans-unit>
+      <target state="translated">你可以在LibreOffice的對話框中重新命名或是刪除檔案，就像是在檔案管理器中一樣。選擇一個檔案後點擊右鍵來開啟右鍵選單。選擇<g id="388">「刪除」</g>或是<g id="389">「重新命名」</g>。然而，你無法在對話框中複製或是貼上。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]" approved="yes">
         <source><x id="390" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:bookmark-start[0]"/>Using the Navigator<x id="391" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:bookmark-end[0]"/></source>
       <target state="translated"><x id="390" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:bookmark-start[0]"/>使用助手<x id="391" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[40]/text:bookmark-end[0]"/></target></trans-unit>
@@ -1108,7 +1108,7 @@
       <target state="translated">LibreOffice的助手會顯示在文件中的物件，並將其收集後做分類。比方說，在Writer中會顯示標題、表格、文字外框、評註、影像、書籤及其他物件，如圖<x id="392" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[129]"/>所示。在Calc中會顯示工作表、範圍名稱、資料庫範圍、影像、繪圖物件及其他物體。在Impress及Draw中會顯示投影片、圖片、及其他物件。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[130]" approved="yes">
         <source>To open the Navigator, click the <g id="393">Navigator</g> icon on the Standard toolbar, or press the <g id="394">F5</g> key, or go to <g id="395">View &gt; Navigator</g> on the Menu bar,, or click on the Page Number/Count area of the Status Bar, or click the Navigator icon in the Sidebar.</source>
-      <target state="translated">如要開啟助手，請在標準工具列中按下<g id="393">助手</g>圖示，或是按下<g id="394">F5</g>，或是至選單列的 <g id="395">檢視 &gt; 助手</g>，或是按下狀態列中頁碼/頁數的區塊，或是按下側邊欄中的助手圖案。</target></trans-unit>
+      <target state="translated">如要開啟助手，請在標準工具列中按下<g id="393">「助手」</g>圖示，或是按下<g id="394">F5</g>，或是至選單列的<g id="395">「檢視 &gt; 助手」</g>，或是按下狀態列中頁碼/頁數的區塊，或是按下側邊欄中的助手圖案。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[131]" approved="yes">
         <source>Click the marker (+ or triangle) by any of the categories to display the list of objects in that category.</source>
       <target state="translated">在任一類型旁按下標記符號(+或是三角形)以顯示目標類型的所有物件。</target></trans-unit>
@@ -1135,10 +1135,10 @@
       <target state="translated"><x id="398" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:bookmark-start[0]"/>復原或重作改變<x id="399" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[41]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[134]" approved="yes">
         <source>To undo the most recent unsaved change in a document, use the keyboard shortcut <g id="400">Ctrl+Z,</g> or click the <g id="401">Undo</g> icon on the Standard toolbar, or go to <g id="402">Edit &gt; Undo</g> on the Menu bar. Click the small triangle to the right of the <g id="403">Undo</g> icon to get a list of all the changes that can be undone. You can select multiple changes and undo them at the same time.</source>
-      <target state="translated">如要復原文件中最近一次未儲存的變更，請使用鍵盤快捷鍵<g id="400">Ctrl+Z</g>，或是標準工具列中的<g id="401">取消動作</g>按鈕，或是至選單列的 <g id="402">編輯 &gt; 取消動作</g> 。按下<g id="403">取消動作</g>圖示旁的小三角形以取得可復原變更的清單。你也可以選擇複數個變更然後同時復原。</target></trans-unit>
+      <target state="translated">如要復原文件中最近一次未儲存的變更，請使用鍵盤快捷鍵<g id="400">Ctrl+Z</g>，或是標準工具列中的<g id="401">「取消動作」</g>按鈕，或是至選單列的<g id="402">「編輯 &gt; 取消動作」</g>。按下<g id="403">「取消動作」</g>圖示旁的小三角形以取得可復原變更的清單。你也可以選擇複數個變更然後同時復原。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[135]" approved="yes">
         <source>After changes have been undone, you can redo changes. To redo a change use the keyboard shortcut <g id="404">Ctrl+Y</g>, or click the <g id="405">Redo</g> icon, or go to <g id="406">Edit &gt; Redo</g> on the Menu bar. As with Undo, click on the triangle to the right of the arrow to get a list of the changes that can be reapplied.</source>
-      <target state="translated">當變更被復原，你可以重做變更，如要重做變更請使用鍵盤快捷鍵<g id="404">Ctrl+Y</g>，或是按下<g id="405">再次動作</g>圖示，而就像復原一樣，你可以按下圖示旁的小三角形來取得可重作變更的列表。</target></trans-unit>
+      <target state="translated">當變更被復原，你可以重做變更，如要重做變更請使用鍵盤快捷鍵<g id="404">Ctrl+Y</g>，或是按下<g id="405">「再次動作」</g>圖示，或是至選單列<g id="406">「編輯 &gt; 再次動作」</g>。而就像復原一樣，你可以按下圖示旁的小三角形來取得可重作變更的列表。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[136]" approved="yes">
         <source>To repeat the last command applied to your document, use the shortcut <g id="407">Ctrl+Shift+Y</g>. This can save several repetitive menu navigation clicks or keyboard shortcuts, especially when the command is taken from a secondary menu.</source>
       <target state="translated">如要重複你對於文件最後的變更，請使用鍵盤快捷鍵<g id="407">Ctrl+Shift+Y</g>。這個方式可以省下重複至選單中按下指令及鍵盤快捷鍵的時間，特別是當某個指令是在二階選單內時。</target></trans-unit>
@@ -1150,16 +1150,16 @@
       <target state="translated">你可能會在儲存後想要捨棄所有在此次編輯中的所有變更，但是請注意復原或是記憶變更所在的位置可能是一項麻煩的工作。如果你確定並不想要從上次儲存以來的變更，你可以重新載入文件。則當前系統中所儲存的文件將會被載入。文件將會回到上次儲存的狀態。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[138]" approved="yes">
         <source>To reload a document, go to <g id="410">File &gt; Reload</g> on the menu bar. If you have made changes to a file since the last save, a confirmation dialog will warn you that Reloading will discard your last changes. On reloading your document, the File dialog will not open, because the file is already selected.</source>
-      <target state="translated">如要重新載入文件，請至標題列的 <g id="410">檔案 &gt; 重新載入</g>。如果你在上次儲存後有對文件做變更，確認對話框將顯示並提醒重新載入將會捨棄變更。在重新載入文件中，檔案對話框將不會顯示，因為檔案已經被選定。</target></trans-unit>
+      <target state="translated">如要重新載入文件，請至標題列的<g id="410">「檔案 &gt; 重新載入」</g>。如果你在上次儲存後有對文件做變更，確認對話框將顯示並提醒重新載入將會捨棄變更。在重新載入文件中，檔案對話框將不會顯示，因為檔案已經被選定。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]" approved="yes">
         <source><x id="411" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:bookmark-start[0]"/><x id="412" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:reference-mark-start[0]"/>Closing a document<x id="413" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:bookmark-end[0]"/><x id="414" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:reference-mark-end[0]"/></source>
       <target state="translated"><x id="411" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:bookmark-start[0]"/><x id="412" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:reference-mark-start[0]"/>關閉文件<x id="413" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:bookmark-end[0]"/><x id="414" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[43]/text:reference-mark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[139]" approved="yes">
         <source>If only one document is open and you want to close that document, go to <g id="415">File &gt; Close</g> on the Menu bar or click on the X on the right or left end of the Menu bar. On Windows and Linux, the document closes and the LibreOffice Start Center opens. On macOS, the document closes and only the Menu bar remains at the top of the screen.</source>
-      <target state="translated">如果只有一個文件被開啟且你想要關閉那個文件，請至選單列的 <g id="415">檔案 &gt; 關閉</g> 或是按下標題列左側或是右側的X按鈕。在Windows或是Linux系統中，文件將會被關閉並開啟LibreOffice啟動中心。在macOS中，文件將會被關閉並只剩下選單列出現在視窗的上方。</target></trans-unit>
+      <target state="translated">如果只有一個文件被開啟且你想要關閉那個文件，請至選單列的<g id="415">「檔案 &gt; 關閉」</g>或是按下標題列左側或是右側的X按鈕。在Windows或是Linux系統中，文件將會被關閉並開啟LibreOffice啟動中心。在macOS中，文件將會被關閉並只剩下選單列出現在視窗的上方。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]" approved="yes">
         <source><x id="416" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]/text:soft-page-break[0]"/>If more than one document is open and you want to close one of them, go to <g id="417">File &gt; Close</g> on the Menu bar or click on the X on the title bar of that document’s window. The X may be located on either the right or left end of the title bar.</source>
-      <target state="translated"><x id="416" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]/text:soft-page-break[0]"/>當大於一個文件被開啟且你想要關閉其中一個時，請至目標文件視窗中選單列的 <g id="417">檔案 &gt; 關閉</g> 或是按下標題列中的X按鈕。X有可能出現在標題列的左側或是右側。</target></trans-unit>
+      <target state="translated"><x id="416" xid="office:document-content[0]/office:body[0]/office:text[0]/text:p[140]/text:soft-page-break[0]"/>當大於一個文件被開啟且你想要關閉其中一個時，請至目標文件視窗中選單列的<g id="417">「檔案 &gt; 關閉」</g>或是按下標題列中的X按鈕。X有可能出現在標題列的左側或是右側。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[141]" approved="yes">
         <source>If the document has not been saved since the last change, a message box is displayed. Choose whether to save or discard your changes.</source>
       <target state="translated">如果文件有未儲存的變更，將會顯示訊息框。可以選擇是否要儲存變更。</target></trans-unit>
@@ -1174,10 +1174,10 @@
       <target state="translated"><x id="418" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]/text:bookmark-start[0]"/>關閉LibreOffice<x id="419" xid="office:document-content[0]/office:body[0]/office:text[0]/text:h[44]/text:bookmark-end[0]"/></target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[143]" approved="yes">
         <source>To close LibreOffice completely, go to <g id="420">File &gt; Exit</g> on the Menu bar in Windows and Linux operating systems. In a Mac operating system, go to <g id="421">LibreOffice &gt; Quit LibreOffice</g> on the Menu bar.</source>
-      <target state="translated">如要完全關閉LibreOffice，在Windows及Linux的系統中，請至選單列的 <g id="420">檔案 &gt; 離開LibreOffice</g>。在Mac作業系統中，請至選單列的 <g id="421">檔案 &gt; 離開LibreOffice</g>。</target></trans-unit>
+      <target state="translated">如要完全關閉LibreOffice，在Windows及Linux的系統中，請至選單列的<g id="420">「檔案 &gt; 離開LibreOffice」</g>。在Mac作業系統中，請至選單列的<g id="421">「檔案 &gt; 離開LibreOffice」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[144]" approved="yes">
         <source>When you close the last document using the X on the title bar of the window, then LibreOffice will close completely. A Mac operating system does not have this function; instead, you need to use to <g id="422">LibreOffice &gt; Quit LibreOffice</g>.</source>
-      <target state="translated">當你利用標題列上的X按鈕關閉最後一個開啟的文件後，LibreOffice將會完全關閉。使用Mac作業系統的電腦將不會有這個功能；請至 <g id="422">LibreOffice &gt; 離開 LibreOffice</g>。</target></trans-unit>
+      <target state="translated">當你利用標題列上的X按鈕關閉最後一個開啟的文件後，LibreOffice將會完全關閉。使用Mac作業系統的電腦將不會有這個功能；請至<g id="422">「LibreOffice &gt; 離開 LibreOffice」</g>。</target></trans-unit>
       <trans-unit xml:space="preserve" id="office:document-content[0]/office:body[0]/office:text[0]/text:p[145]" approved="yes">
         <source>You can also use a keyboard shortcut as follows:</source>
       <target state="translated">你也可以利用以下鍵盤快捷鍵:</target></trans-unit>
